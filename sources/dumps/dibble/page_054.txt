@@ -1,0 +1,43 @@
+DISPLACEMENT: 
+Light Displacement: 
+SUlIllller Load 
+Displacement: 
+DRAUGHT: 
+Aft Drallg-ht: 
+Midships Draught: 
+Forward Draught: 
+Arithmetical Mean 
+Draught (AM D): 
+True Mean Draught 
+(TMD): 
+EVEN KEEL: 
+FREEBOARD: 
+The mass of water displaced by the ship. It represent~ 
+the lOlal weight of t.he ship and is calculated by: 
+volume of displacement x density of water. 
+The displacement of the ship and superstructure 
+wit.h all fixed equipmcm pills engine room spares 
+and with water in the boilers to working level. Also 
+referred to as LiKhtship or Lightweight. 
+The displacement of the ship when loaded to her 
+SUIIIIIler load lillc. 
+The distance !i'om the bottom of the ked to the 
+waterlinc. S(Jmelimc,~ spelled dmft, 
+Thc disLancc fi'olll the bot.tom or the ked to the 
+waterline on the an perpendicular when the ship is 
+upright. 
+The distance {i'om the bOllom of the ked to the 
+waterline at a position midway between the 
+perpendiculars. 
+The distance from the bottom of the keel to the 
+waterline Oil the forward perpendicular when the 
+ship is upright. 
+The arithmetical mean of the forward draught and 
+t.he ali draught. 
+The draught at the celllre oi' flotation. 
+Whcn the liJnvanl and aft draughts arc the Sall1(~, 
+the ship is said to be on an even keel. The ship's 
+hydrostatic data is calculated 101' this condition. 
+The distance from t.he waterline to the upper surface 
+of the h'eeboard deck al the ship's side. 
+46 

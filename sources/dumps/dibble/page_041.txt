@@ -1,0 +1,34 @@
+QUESTION 8: 
+A vessel is floating in salt water with an AMD of 6.10 m corrected for 
+deflection and a trim of 1.4 m by the stern. 
+Extracted values from hydrostatics: 
+MCTC lor 5.60 = 310.0 
+LRP = 170 m 
+,",{('T(' t' . 6 60 - '!<)') l' 1" -" -" 01 . - :1 __ .,.' 
+Calculate the second trim correction in t.onnes for the vessel in this conditiun. 
+ANSWER: 
+Trim = 1.40 III 
+2nd trim correction - "(") 1 <~ "r)2') (J ~ll()) :J x . or X .J _.. -.' 
+170 
+DENSITY 
+- + 7.4 tonnes 
+Determine the water density at the time of taking the draughts using a gloss 
+hydrometer, designed f(Jr draught surveys, and marked: 
+1. M edium surface tension 
+2. Apparent density in kg/lscale range between 0.990 to 1.040 
+Note: 1.000 kg/l = 1.000 t/m
+J 
+;). Instrumental standard 15° C. 
+The instrument sholJld he provided with a cenilicate or conlimnit)' with a 
+maximum error nol exceeding "x" kg/l tested against a natiomll standard. Sce 
+photograph on page 13. 
+If the hydrometer used is graduated with a dinerent scale to that quoted above 
+r.hcn it is not t.he standard type so additional corrections may be required, see 
+conversion details tor Altemotive H.'Vdromdl!n on page 53. 
+CORRECTION FOR DENSITY 
+Actual displacement == tabulated displacement x density 1 
+density 2 
+\\!here: 
+density 1 = average density of water sampled. 
+density ~ = density specifieu in the hydrostaLic information. 
+33 

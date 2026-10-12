@@ -1,0 +1,29 @@
+Distance from SLL 10.471 -6.350 4.121 m 
+By simple trigonometry Tan 22° x 4.121 - 1.665 m 
+Distancc from FP 1.665 + O.lS - 1.815 m 
+Length between marks = 170 - (6.0 + 1.815) 162.185 m 
+Correction forward = 1.53 x 1.815 / 162.185 = -0.017 m 
+Draught forward = 6.350 - 0.017 = 6.333 m 
+Correction aft. = 1.53 x 6.00 / 162.185 = +0.057 m 
+Draught aft. = 7.88 + 0.057 = 7.937 m 
+CORRECTIONS WITH HULL DEFLECTION 
+The corrections to rhe perpendiCIIlars and rnidships assume lhallhe keel or the 
+vessel is straight. When the vessel is hogged or sagged, these corrections may no 
+longer be correcL. Thc tabulated corrections in the st.ability information book, or 
+the formulae on the previous page, must be colTt."Cted to the particular circumstances. 
+The easiest method to finclt.hcse corrections would be to use t.he t.rim between 
+the midships mark and the particular end draught t.hen calculate using this half 
+lengt.h trim, the half length and the distance of the misplacement. 
+Repeat this procedure al.lhe other end draught mark with the similarly modified 
+trim, the half length and the distance or misplaccmenl. 
+EXAMPLE: 
+Obscrved draughts forward 6.00 m midships 6.40 III an 7.40 m. 
+Dist.ancc of forward mark from FP = 2.0 m aft 
+Distance of aft mark from AP = 5.0 m forward. LBP = lOOm 
+Total trim = 1.40 m AMD = 6.70 m. Thcrefore the vessel is lwgged. 
+Trim fi.Jrward to midships = 0.40 m 
+Forward correction 
+Forward draught 
+= 2 x 0.1 1(50 -2) - - 0.017 m 
+= 5.983 III 
+25 

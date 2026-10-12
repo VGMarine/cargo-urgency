@@ -1,0 +1,26 @@
+\Vhen a vessel is trimmed a tank may appear full hut have a large void space 
+immediately forward 0(" the sounding or ullage poim. 
+Alternatively, a tank may have no soundin~s and appear empty, but still have a 
+considerable quantity of liquid remaining in it. 
+LIQUID SLOP TANKS 
+Where small quantities of ballast water remain in a hallast hold, on a trimmed 
+ship, this quantity must be included in the assessment. 
+[t. is possible to calculate the volullIe oi'this wedge ofliquid, b'om one sounding, 
+using the wedge formula. 
+The wedge iormula was developed in order to detennine small volumes of 
+cargo "remaining on hoard". 
+The formula assumes a {i'ce nowin~ liquid on an upri~ht, but trimmed vessel, 
+and also it assumes a recL1ngular L1nk where the sounding is not constrained by 
+a sounding pipe. 
+The wedge f(H'll1ula is: 
+Wedge volume = LBP x breaddt of tank x (corrected sounding)2 
+2 x vessel's trim 
+y 
+I '\ "1 
+J -
+, J 
+~ 
+P'" PI 
+,l- 4 
+The corrected sounding can be calculated by the following approximate formula: 
+41 

@@ -1,0 +1,28 @@
+Note: 
+1: Do apply the hydrometer index error, if any. Tt is quoted on the 
+certificate. 
+2: Do 1101 apply any correction for temperature. 
+j: Do nol cHljust the draught for the density, but do COITeC[ the 
+displacement instead. 
+4: Do enter the hydrostatic tables with the actual TMD, irrespective 
+of' density, clllci then convert t.he extracted value to the correct 
+density at the final calculation. See check list page!) 1. It. is wrollg 
+to convert the TMD to a salt wmer Tl\.fD and then cntcr the 
+hydrostatks. 
+5: Do extract \ICTC, LCf ete. {or the actual TMl) and use these 
+extracted values to calculate the 1st and 2nd trim corrections. 
+6: The stability int(mnation book should quote some form of relationship 
+between weight and VOIUlllC:-
+1 cubic metre of tj·esh water - 1.000 tonnes 
+I c1lbic metre of sail water - 1.025 tonnes 
+or similar figures. This /'xlulI/,lp. giilP..\ flfJj](Jl"ent ljrusily in the same 
+units used by Ih" Zeal dmllghl SlIJ1J(,' h)'rlrll1l/1d(~1". 
+QUESTION 9: 
+. rile extracted hydrographic displacement equivalent to rJw observed draught 
+of 5.30 m = 15250 tonne for salt. water where I m:i of salt water = 1.025 
+tonnes. 
+Find: 
+true displacement if the a\'erag(~ ohserved apparent densit.y - 1.015 t/lII:l. 
+ANSWER: 
+Actual displacelllcllL - 15250 x 1.015 / 1.025 - 15)01.2 Tonnes 
+3G 

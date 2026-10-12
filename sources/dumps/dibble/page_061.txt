@@ -1,0 +1,42 @@
+1 Imp.Gallon .................... = 277.3 
+1 Imp.Gallon .................... = 0.16045 
+1 Imp.Gallon .................... = 10.0 
+WATER 
+I Long Ton fresh water ... - 35.9 
+1 Long Ton salt water ...... = 35.0 
+FUEL OIL (RD 0.944) 
+1 I...ollg Ton ....................... = 6.77 
+1 U.S.Gallon ..................... = 7.88 
+DIESEL OIL (RD 0.85) 
+1 wng Ton ... ..... .... ............ = 319 
+1 Metric Tonne ................ = 311 
+1 U .S.Gallon ..................... = 7.09 
+LUB. OIL (RD 0.90) 
+1 Long Ton .. ....... ....... ....... = 298 
+1 Metric Tonne ................ = 294 
+1 U.S.Gallon ..................... = 7.51 
+Cu.Inches 
+eu.Feet 
+Pounds of fresh water 
+Cubic Feet 
+Cubic Feet 
+U.S.BaJTds 
+Pounds 
+U.S.Gallons 
+U .S.Gallons 
+Pounds 
+U.s.Gallons 
+U .S.Gallons 
+Pounds 
+ALTERNATIVE HYDROMETERS 
+To correct to Apparent Density (density in air) from a hydrometer calibrated 
+1n:-
+True Density (density in vacuo) 
+Relative Density (15OC/4"C) 
+Relative Density (15CC/15'C) 
+Note: glmt = kgll = tlm3 
+53 
+minus (-) 0.0011 glml 
+minus (-) 0.0011 
+minus (-) 0.002 
+Refer to pages 6, 33 and 36. 

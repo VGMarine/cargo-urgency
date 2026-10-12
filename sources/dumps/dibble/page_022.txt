@@ -1,0 +1,29 @@
+PLANS 
+General arrangement plan 
+The general arrangement plan shows the layout of the ship and indicates all the 
+spaces within il. It gives the position of all the spaces, t.heir lIse and capacity. 
+Other plans 
+More detailed plans of ballast tanks and bunker t<lllks may be necessary. 
+Ifthe vessel is t.rimmed it may be imporl.ant to know the horizontal surface area 
+of liquid in t.he tank and the relative position of the sounding pipe in order to 
+assess the quantity of liquid in the t.ank accurately. 
+LIGHTSHIP 
+The lightship weight is t.hat which has been determined during an inclining 
+experiment.. 
+It includes: 
+the ship and its full equipment, engine room spares. ,·valer in t.he boilers 
+to working level and lubricating oil in the engines. 
+It does not include: 
+personnel, cargo, fuel. stores and water. 
+Growth of lightship 
+The inclining experiment may have been performed a considerable t.ime ago, 
+but, over a period of years, the lightship weight will increase. This is due to t.he 
+changes in the equipment., t.he build up or paint over the ship, the storage of old 
+equipment, mud in the hallast t.anks, the aeculllulat.ion of dunnage ele. This 
+phenomenon is known as the growth of lightship and is t.hought [0 amount to 
+ahout 0.2% of the light displacement pc!' annum. This b'Towth is accounted fin' 
+in the lightship constant. 
+Lightship Constant 
+Vessels which regularly assess their lightship weight find t.hat the wei~ht from 
+their calculations differs li'om the tabulated value in the stahility inlormation 
+14 

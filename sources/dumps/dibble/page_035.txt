@@ -1,0 +1,30 @@
+Compare the AMD with the corrected midships draught to establish whether 
+the hull is distorted. The AMD should cYllal the draught mid ships if the ship 
+is neither hogged or sagged. 
+• Actual freeboard I 
+, .--­
+Anllal clraug-ht ~ ,AMD 
+HOG 
+SAG 
+Actual fr~_ehoard, 
+• ---'---r-
+Actual draught ~ AM D 
+-------
+If the actual draught is less than AMD then the vessel is hogged. 
+If the actual draught is bJTl!fllm-than AMD then the vessel is ~agged_ 
+METHODS USED TO CALCULATE THE EFFECTS OF HULL 
+DEFLECTION 
+Every effort should be made, taking into account the information available, to 
+determine the appropriat.e correction for hull deflection. The ultimate accuracy 
+or the survcy rcslllt~ are normally dependant on this correction. 
+It is difficult to establish the ship's distorted shape precisely but the {allowing 
+factors should be t.akell into account: 
+Residual deformation 
+Bunkerslballast distribution 
+Cargo distributioll 
+Daily variation. 
+Larger vessels can be liable to daily variations in the amount of hull deflection. . . 
+By day, the sun heats the upper parts of the vessel, resulting in a hogged 
+condition. The same vessel may sufler sagging when the upper portion loses its 
+heat at night. 
+')"" _I 

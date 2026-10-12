@@ -1,0 +1,30 @@
+Corrected sounding (P) == observed sounding (PI) + distance (y) x tB~ 
+Where the distance "y" is the distance £i'olll the suunding position to the end 
+bulkhead. 
+QUESTION 11: 
+From the following information, lind (he volume of oil remaining' in a lank 
+where the sounding was 0.2 m. 
+LBP ISO Ill, Irim 2.0 m by (be stern, breadth of tank 12.5 m, sounding­
+position 5.0 m forward of af! bulkhead. 
+ANSWER: 
+Corrected sounding 
+\Veclge volume 
+sounding + distance x trim/LBP 
+0.2 + 6 x 2/150 == n.2 + 0.08 == O.2Hm 
+LB» x breadth x corrected sounding~ 
+trim x 2 
+1-0 1')!: 0,)0" ~ X _.~.I X ._0" 
+2.0 x 2 
+MIXTURES 
+\Vhen conduclinp; a blinker survey and the vessel loads hunkers, this could he 
+mixed with bunkers already on hoard. The relative deIlsity (RD), or density, of 
+the mixture must be used to calculate the total quantity of the oil in the tank. 
+The final RD or the mixture can be found by the lollowing formula: 
+RD of mixture 
+(ori~inal volume x original RD) + (loaded volume x loaded RD) 
+original volume + loaded volume 
+RESIDUE IN COMPARTMENTS 
+Tanks for liquids. particularly hallast tanks, are subject to the build up or 
+residues and scale. The quantity of sediment is ditlicult la assess without 
+entering the tank. 
+42 

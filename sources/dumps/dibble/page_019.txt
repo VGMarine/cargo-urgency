@@ -1,0 +1,31 @@
+DEADWEIGHT OR DISPLACEMENT SCALE 
+The displan~mcnt, dcadweight, tonnes per centimetre immersion (TPC) and 
+moment to change trim per centimetre (MeTC) for salt water are shown against 
+the true mean draught (TMD) in the dea(h\'(~ight or displacemelll scale. It may 
+also show the same {(H' fresh wateL 
+If only salt water values are g'iveIl then the scale shollld be elllered with the 
+TMD in actual observed density. Calclllations should Le carried Ollt with these 
+figllres as the density correnion will take care of the alUustmcnts at a later stage. 
+The scale will also show sUlluner load draught alld t he lightship draught. It will 
+relate the final 'I'M I) to the linal displacement. Study it careliJIly lO make certain 
+or t.he weight. to vollllJle relationship. 
+CAPACITY PLAN AND TABLES 
+The capacity plan shows all the cargo compartments, ballasl spaces ,Ind blinker 
+tanks Oil the ship. 
+Capacity tables list every space in the ship which Illay be used f(ll' cargo, ballast., 
+stores, fuel, lubricating oil and fresh water. 
+The position or each space is indicated hy the number of the ship's ii'ames at 
+each extremity or the space. 
+The volume of each space. in cubic metTes, is lisLed for: 
+Grain space -
+Bale space 
+the gross volume measured to the ship's side plating. 
+Lhe neU volume measured to the inside ol'thc frames 
+or spar ceiling (cargo battens). 
+Spaces {(1I' liquid only are tabulated in either CIIbic 'l1l~tres or the numher 01' 
+tonnes of the liquid which the Lank Ilormally holds. specifying the density IIsed 
+t.o calculate those tonnes. If the tables give cuhic metres then these must be 
+mult.iplied hy the oh served density to flnd tonnes. If t.he t.ables giH' tonnes then 
+they must be divided by the density or t.he t<lhle and multiplied by the observed 
+density. 
+11 

@@ -1,0 +1,30 @@
+The ellec!. on !.he ballast calculations can be minimized hy leaving a measurable 
+quantity of water in the tank instead of pumping it completely dry. The 
+calculations then use a known amount or water which can be deducled from the 
+displaccmcnt. The error due to the unknO\vn weight or sedimem is reduced to 
+the diilcrence between the dens it\! of water and the density of the sediment. , , 
+This accumulation of sediment will reduce the deadweight capacity of the vessel 
+and t.herefore should not be allowed to accrue indefinitely. , 
+I nspcct ballast tan ks if in any doubt abollt the qualllity or sediments, There are 
+patent chemicals available to put the mud imo suspension, so that it may he 
+disposed of with the water in an appropriate and safe manner, when a suitable 
+opporLunity allows. However, these may not always he elIective; when a hard 
+crust has developed Oil I.he top of the mud, it. can sometimes only be rellloved 
+by hand. 
+ANCHORS AND CABLES 
+The anchors may be in the housed posit.ion, where they contrib1lte 1.0 the 
+lightship, or t.hey may have been used in the mooring of the ship. Then the 
+anchors will be on the sea hed along with a !,riven length of cable. The loss of 
+weight due to its removal is weight t.aken from the light displacemenl., this 
+amO~1l11 should therefore be added 1.0 t.he quantity of cargo. 'fhere should he 
+infiH"lnal.ion available on hoard to enable the SIl["VC}'O[" lo establish or calculate 
+the weight of the missing anchor and cable. 
+In the case of the chain cable, it. can be calculated with reasonable accuracy bv , , 
+I.he (ollowing formula: 
+Weight per shackle (tonne) = 15 x (link diameter in cm)2 x 3.87 
+1000 
+The link diameter is the diamet.er or the steel rod which makes up each 
+individual link. ] 11 t.he case or the anchor iL~dr, this will vary from ship to ship, 
+but.this informat.ioll should be available on board. This anchor weight should 
+be rounded to the nearesl. hall" tonne. 
+43 

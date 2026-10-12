@@ -1,0 +1,27 @@
+It is recommended Lhat vessels longer than 200 metres Length Over All 
+(LOA) shoulrl be marked at five points on faelt side: forward, midships 
+and aft as usual awl also at the mid points between these positions, This 
+allows a more ao.:lll'alc assessmelll of an)' hogg'ing or sagging-effects. 
+'I'he positions of the draught marks n:lativc (0 the appropriate perpendicular 
+should be included in the dala manual. 
+li nlortunatelv (his daLa ll1illlllal is ofi.en not a vailablc. 
+HYDROSTATIC PARTICULARS 
+Illfonnation is calibrated agaillsl draught. uS\lally illr Ihe cyen keel condition. 
+The displacement is the weight of the ship. derived from 
+volume of water displaced by the ship x apparent density. 
+In the lllctric system, this displacement is ofLen given in tOIll\(' of'salt water at 
+apparelll density (weighl ill air) uf 1.025 tonne/m:'. 
+It is imponant to establish the exan weight lO volume relatiollship. 
+DRAUCHT AND FREEROARD 
+Forward draught 
+The distance from lhe bottolll of' the keel to the \\'ateriine Oil i1w li)rward 
+perpendicular when the ship is IIpright. 
+Aft draught 
+The distancc /i'om the bO\JOJll ol'the keclt() ill(' waterlint' on rhe all perpcndicular 
+whell Ill(' ship is upright. 
+Freeboard 
+The distance fi"()11l the waterline to the deck line. normally measllred midships 
+Depth of ship 
+The disLance from the IJOUol1l or the keel to rhe deck line. That is: 
+Depth = draughL + freeboard 
+9 

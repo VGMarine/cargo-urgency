@@ -1,0 +1,43 @@
+MOMENT TO 
+CHANGE TRIM PER 
+CENTIMETRE 
+(MCTC or MCT 1 cm): 
+SAG: 
+SOUNDING: 
+TONNES PER 
+CENTIMETRE 
+IMMERSION (TPC): 
+TRIM: 
+Apparent Trim: 
+True Trim: 
+ULLO\GE: 
+VOLUME OF 
+DISPLACEMEN'I': 
+WATERPLANE 
+COEffICIENT (Cw): 
+WEIGHT: 
+The moment of the weight (i.e. weight x distance) 
+required to change the trim of t.he ship by 1 cm. 
+The condition of a ship when it is deformed so that 
+the midships draught is deeper than the forward 
+and aft draughts. It is referred t.o as a hull dejleclio'l!. 
+The distance from the bottom ora tank t.o t.he top of 
+the liquid wit.hin it. 
+The weight which must. be loaded or discharged to 
+change the ship's mean draughl. hy I cm. 
+The diilerence between the filrward and ait draughL<;. 
+The difference between the draughts observed at 
+the forward and afl. drallght marks. 
+The difference between the drallght:; at the forward 
+and afi. perpendiculars. 
+The distance above a li(lIlid, within a tank, lo the 
+measuring point at the top of the t.ank. 
+The volume of water displaced by the ship and is 
+calculated by: 
+lengt.h x breadth x draught x Cb. 
+The ratio of t.he area of t.he ship's waterplane to a 
+rectangle of the same ext.reme dimensions. Also 
+known as the co~fricient oIJiulfIless. 
+The weight of an ol~ject is the force it exerts on 
+anything which freely support.s it. 
+48 

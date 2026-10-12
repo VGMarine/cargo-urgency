@@ -1,0 +1,33 @@
+The assessment of the vessel's shape will eSlablish the appropriate draught to 
+enrer the hydrostat.ic dam, in the stability information book. This will determine 
+the displacement for that particular insGll1l. 
+METHODS 
+There are several methods ofca\culating the correction for hog or sag. Agreement 
+on the use of one of these alternatives must be made before the proposed voyage 
+begins and adhered to until the voyage ends. These methods only t.ake into 
+alcount. hull deformation or deflection. 
+Method 1. 
+Some ship's stability information books have a table of corrections to apply to 
+the extracted displacement. When this table or graph is used, then this faCL 
+should be stated on the repon so that it can be used throughout. 
+Method 2. (The most common and simplest method) 
+Assume that the deformed shape of the vessel follows a regular mathematical 
+curve. 
+This correction is dependant on the block coefficient. 
+(i) For finer lined vessels: 
+Mean Adjusted Draught _ (6 x D M) + D FP + D AP 
+8 
+This is oft.en referred to as "the mean of mean of means". 
+(ii) For fuller fonn vessels, and box-shaped vessels: 
+Mean Adjusted Draught = (4 x D M) +6 D FP + DAP 
+Where; 
+Mean Adjusted drall!;ht 
+DM 
+o FP 
+OAP 
+Draught midships corrected for hog 
+and sa!;. 
+Draught midships. 
+Draught at forward perpendicular. 
+Draught at aft perpendicular. 
+28 

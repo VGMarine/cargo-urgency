@@ -1,0 +1,49 @@
+UN· ECE • DRAUGHT SURVEY CODE 0 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK R~OADED FORM "C" 
+UNLOADED 
+Corporate idenlilicatlOn: 
+VessclMN : S UfVey r.c' 
+DRAUGHT STATEMENT 
+DRAUGHT READI N GS HOURS : START ING SURVEY FINISHING SURVEY 
+FROM : TO : FROM : TO : 
+metres metres 
+Draught forward port 
+Draught forward starboard 
+Draught forward mean 
+S tem correction 
+Draught forward (corrected to fore .pp.) 
+Draught after port 
+Draught after starboard 
+Draught after mean 
+SI em correction 
+Draught after (corrected to after pp.) 
+Draught fore & after mean 
+Draught midship port 
+Draught midship starboard 
+Draught midship mean 
+M idShip correction 
+Draught midship (corrected to midship pp.) 
+Sag (+) Hog H 
+Mean of m eans 
+Draught extreme corrected for hog/sag 
+Correction (0) for keel tickness if app licable 
+Draugh t m oulded corrected for hog/sag 
+(Note: Utilize line 152 or line 154) 
+Trim: fwd (-) aft (+) 
+K!l!m3 K9 /m3 
+Observed dens ity 
+I I I I 
+(Ship's tables density Kglm3 ) 
+(Hydrometer no. ) 
+Metric tonnes Metric tonnes 
+D isplacement (al Kg/m3 density) 
+First trim correction 
+S econd trim correction 
+T atal trim correction 
+Displacement corrected for trim 
+Correction for den sity average 
+D isplace men1 corrected for density 
+Total deduclibles 
+D isplacement corrected for deduclibJes 
+Draughts, densities, fresh water and ballast soundings w itnessed and agreed to by the Ch ief OHicer. Fuel oil 
+soundings witnessed and agreed to by the Ch ief Eng ineer unless olherwise stated in form "A" 

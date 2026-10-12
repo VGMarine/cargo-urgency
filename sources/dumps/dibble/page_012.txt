@@ -1,0 +1,34 @@
+4. Calculate the ship's underwater volume and displacement 
+a) Correct the observed draughts to the centreline, i.e. the mean of 
+the port and starboard draughts. 
+b) Correct the centreline draughts to their value at the correct position 
+of the perpendiculars. 
+c) Allow ten' hog or sag and obtain the correct draught Illidships, 
+d) Enter the hvdrostatic tahles with this corrected draught to obtaill 
+the uncorrected displacement. 
+e) Correct this \'alue of displacement for: 
+first trim correction 
+second tri m correl'1ion 
+list (ir necessary) 
+density 
+s(x the appropriate section fc))O details of these calculations on pages I G 
+to :-17. 
+5. Determine the quantity of deductibles 
+Ballast and fresh water soundings 
+Every compartment capahle of carrying water should he carefully inspected 
+alld sounded, allowing suffic:i(~lIf lime it))' lIuctllariolls in levels due to the 
+rCll1m·al or the sounding caps. When at all exposed berth the movement 
+of the vessel may create errors, To oyercomc t his problem several 
+soundings should be taken alld t.he average value assumed to be the 
+corn:cI. olle. 
+The sounding tape IIlllst be checked to ensure that it reaches the bottom 
+of the tank, If the tape is marked at the ship's full depth it can an as a 
+useful guide and the consistency or the depth of the different tanks can 
+be checked. It should be remembered tliat the vertical (allk height and 
+the length of soundil1)?; pipe may be ditferent. Sce phutograph of 
+sOllnding tape on page ;~!). 
+Full tanks may have air pockets l'spec:iillly whell the ship is trimmed. 
+Topside tanks Gill he o\'erllowed frOln fi.)I'ward and ali air pipes until a 
+steady lIow through both is ulllllistakable, the sounding pipe extellsiolJ 
+may prove usetill for this operation. HoweHT care should be taken to 
+ensure that lhc ovcrllowing ballast water causes no othcr problems e.g. 
