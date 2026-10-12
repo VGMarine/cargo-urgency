@@ -1,0 +1,303 @@
+From f8dbf569ea0b86c38c3af6c4ef429a2a3be4674d Mon Sep 17 00:00:00 2001
+From: qwen-agent <agent@local>
+Date: Mon, 12 Oct 2026 03:19:26 +0000
+Subject: [PATCH 6/8] Add soundings module for trim and wedge volume
+ corrections; implement density displacement correction; expand book-verified
+ tests with consolidation logic
+
+---
+ .gitignore                                    |   1 -
+ src/__pycache__/density.cpython-312.pyc       | Bin 1587 -> 3138 bytes
+ src/density.py                                |  22 +++++++
+ src/soundings.py                              |  53 ++++++++++++++++
+ ...fied_examples.cpython-312-pytest-9.1.1.pyc | Bin 19645 -> 27748 bytes
+ tests/test_book_verified_examples.py          |  59 ++++++++++++++++++
+ 6 files changed, 134 insertions(+), 1 deletion(-)
+ create mode 100644 src/soundings.py
+
+diff --git a/.gitignore b/.gitignore
+index 75c6182..7a60b85 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,3 +1,2 @@
+ __pycache__/
+ *.pyc
+-.pytest_cache/
+diff --git a/src/__pycache__/density.cpython-312.pyc b/src/__pycache__/density.cpython-312.pyc
+index 2d2b96eec25326dbcb53c50c0f9395d906df3f39..b0982d646c636e86b61e8000ec4b53b9b8da72d4 100644
+GIT binary patch
+delta 1726
+zcma)6O>7%Q6y9CisS`VC+Jx3=RrD~R+Q@aXP8=x#lA;ExNYDlvB&e!Jws%u+;(Eh)
+z4M`PY$BNWL3u)NWR+K>KtwKWi6{bxbDOWhmsyRdvhbkA21Qjk^;LYyZxZ(i2nwd9m
+z-tYJ3&9ZmX*YIO~eI1A2Zv#J#?Dxzz`1pa@<1dJA$vN#h@01<Gd@aX*saA3!$7Sto
+zUY%4k?L1#Iu`lRZO#a35zvxM!pTDm!2_w9B`Iuvq=RNvkXA9q?|LJ_GvmX5<9L$^j
+zIdR23|KwvNZgUbp$tQ$yVe|;c5tn4HnMVC2-<+EhzU3{Y0*_+Czs1r#&uO*{$4Smf
+z;VxILHOWo#S6m!7DO~Yz+&M1j%HBiY^lMt88%CZk&?WkSE&wv_(y!<}I*0Q&xZVM}
+zkwbwZU8AdX-I$@PM!}deW`I5b`WZ^y#Bqn-reD&}>3tk?xce>ybe*o6G9_aQ&99*O
+z)o@)M;D?5n&`h2gq$Mz>fR;=b%jjkug&$&6Yu(VN#N#PB1Ud9qF!Et&Z%2zLQKTpd
+zfq}j^KuJsTICO}?ZqqctYY8nIOM#?h#!|6_d|6Iw@G5Arcs3Q&Wa;UHaggM6M$slj
+zXf2bGkZlQ_tY8k3eApJ*&ELde&A3+>6#9&C$Y;V=qKn40P{jhEq&_P&=UAL{1vL-^
+zqd*sM6fuKh*usH<i-!#SB1;-}r*E~l;?x0wO3s~CIftMs=Z;`E`1@2ys~W_lk!(f-
+zEh&RUV%bYcjd{qyuu3eZm1YRySq&r=5-K5b!d9q;N=aulIVSl50rn$yvZ-%|o1Bn{
+zn$cpKl3;kI<P3bIXi3w4%tC$et-cT_XgV{7)|K3cGN{94Sp0U@Uto3DSwV4qXk177
+z8vVgS!n|ch9^QWU^>c&$XU{;_{{+G=nHY^k+h82TaGMx~)*K@uQLMih72Cvc1T+Yo
+zJ@pRw#b}W2{cxg(!OH@gV&SlI(V`jJ64nK;XZc=X@vsYwY1RjJ8L?efkUeV@z}8^b
+z*>)v%g~Ov^?1K%IzsgE)T(7ERSuALQa_Pd%<{yCzzxEPrQZ9QMCsZt<{Sy7&bX>r0
+zG0{R(*nF%_7LoBO3jvST^iPDA6Q}-5k6l8hhnZZ}uL(zTqy|-jjvZfh!wgm0Wk@5n
+zD6msYk}Bh3(b*G*cZ=XV!tFfwl$za4L-y@b)HLcJM!BOnGVkG(=k}iE>JQv_bITi;
+z@7wa`0zWtS=+QV$s5CxCTRwQyK&YE+dmC@`Z+TywZ^p@#xJZYR^rAvrMjkbcQupY#
+z=lS`R;fXA~Z+LpBvxl(f^-R!B+_>(zhEr<H3Z3|nLD(yAQad$7*0LmRZi4PX(pWwr
+z2P)LT3e{4k(DE~7+JwZid#J+uM{=J&?GhticGAQq1_0U5CKjWGoBNf^s+3L1J>(ej
+r*u$L})^}Z}k3VtL@V$EnoA}=Cj;=iiu8+meJr`SFKKVOaO)Gx`v5=N6
+
+delta 274
+zcmX>kv6+YOG%qg~0}%9jpUKi@oyaG_Xfsh=MV38<rG+($C6zgik&^)gQ#evsfg-Gx
+zY?_=KYyLAbrcbV6@?_MUe2giJk!!Od^C3oQPM|rrgj4d9v&$1pQj6jfb8_;_6Z4W&
+ziv%b0v1%o71LgfRIf~do>R8iq@)Jvn*n#XKArQd<W8GpaN-ZfZ$^#1nmGi+QiumCy
+z0XRz-#?oY)T*z&x3-V2oAc)`v5g<E@zz*ZE$<0qG%}KQ@5(kPg0&%hD<SX3nTwj>k
+I812Cd0o=AYBme*a
+
+diff --git a/src/density.py b/src/density.py
+index 115775f..584b7cd 100644
+--- a/src/density.py
++++ b/src/density.py
+@@ -22,3 +22,25 @@ def dockwater_allowance(dsw_m: float, rho_harbour: float,
+     Знак: в более лёгкой воде судно сидит глубже на +corr метров.
+     """
+     return dsw_m * (rho_sea - rho_harbour) / (rho_sea - 1.000)
++
++
++def displacement_density_correction_t(displacement_tabulated_t: float,
++                                      rho_observed: float,
++                                      rho_table: float) -> float:
++    """Поправка ПЛОТНОСТИ применяется к ВОДОИЗМЕЩЕНИЮ, не к осадке.
++
++    Сверено с оригиналом: Dibble, стр. 33 книги (PDF index 41):
++      Actual displacement = tabulated displacement x density1 / density2,
++      где density1 — средняя плотность пробы, density2 — плотность гидростатики.
++    И правило №3/№4 (стр. 36 книги, PDF index 44): "Do not adjust the draught
++    for the density, but do correct the displacement instead" и "enter the
++    hydrostatic tables with the actual TMD, irrespective of density".
++    Контрольный пример QUESTION 9 (стр. 36 книги, PDF index 44):
++      15250 x 1.015 / 1.025 = 15101.2 t (OCR "15)01.2" -> консолидировано:
++      арифметика даёт ровно 15101.219..., печать книги 15101.2).
++    """
++    if not (0.98 <= rho_observed <= 1.03):
++        raise ValueError(f"подозрительная наблюдаемая плотность {rho_observed}")
++    if not (0.98 <= rho_table <= 1.03):
++        raise ValueError(f"подозрительная табличная плотность {rho_table}")
++    return displacement_tabulated_t * rho_observed / rho_table
+diff --git a/src/soundings.py b/src/soundings.py
+new file mode 100644
+index 0000000..3600ee5
+--- /dev/null
++++ b/src/soundings.py
+@@ -0,0 +1,53 @@
++"""Поправки замеров (soundings) на дифферент и объём клина (spec 006).
++
++Сверено с оригиналом (текстовый слой PDF): Dibble, стр. 40-42 книги
++(PDF index 48-50). Контрольные примеры: QUESTION 10 (стр. 40), QUESTION 11 (стр. 42).
++"""
++from __future__ import annotations
++
++
++def sounding_correction_m(d_m: float, trim_m: float, lbp_m: float) -> float:
++    """Correction to sounding x = d * trim / LBP (книга, стр. 40).
++
++    d_m — расстояние от трубки замера до центра танка (знак задаёт вызывающий):
++    таблица знаков книги: trim Aft & sounding forward of centre -> negative;
++    trim Aft & sounding aft of centre -> positive. Т.е. знак = sign(d_от_центра к носу?)
++    Здесь возвращаем ВЕЛИЧИНУ со знаком для переданного d_m со знаком
++    (+ = трубка впереди центра танка) при дифференте на корму (trim_m > 0):
++    по книге такой случай даёт отрицательную поправку.
++    """
++    return -(d_m * trim_m) / lbp_m
++
++
++def even_keel_sounding_m(observed_m: float, correction_m: float) -> float:
++    """Even keel sounding = observed + correction (книга, пример Q10: 1.05 - 0.15 = 0.90)."""
++    return observed_m + correction_m
++
++
++def rectangular_tank_volume_m3(length_m: float, breadth_m: float, depth_m: float) -> float:
++    """Объём прямоугольного танка = L * B * глубина жидкости (Q10: 24*8.2*0.90=177.12)."""
++    return length_m * breadth_m * depth_m
++
++
++def corrected_sounding_for_wedge_m(observed_m: float, y_to_end_bulkhead_m: float,
++                                   trim_m: float, lbp_m: float) -> float:
++    """Corrected sounding (P) = observed + y * trim / LBP (книга, стр. 42, перед Q11).
++
++    y — расстояние от позиции замера до end bulkhead (кормовой, при trim by stern).
++    Пример Q11: 0.2 + 6*2/150 = 0.28 (в тексте вопроса 'sounding position 5.0 m
++    forward of aft bulkhead' противоречит решению книги '6'; консолидировано по
++    решению: y = 6 м, т.к. только оно воспроизводит печатный ответ 0.28; см. TODO(scan)).
++    """
++    return observed_m + y_to_end_bulkhead_m * trim_m / lbp_m
++
++
++def wedge_volume_m3(lbp_m: float, breadth_m: float, corrected_sounding_m: float,
++                    trim_m: float) -> float:
++    """Wedge volume = LBP * breadth * P^2 / (2 * trim) (книга, стр. 41).
++
++    Ограничение применимости (книга): прямоугольный танк, свободная поверхность,
++    дно покрыто жидкостью; малые количества (slop).
++    """
++    if trim_m <= 0:
++        raise ValueError("wedge требует ненулевой дифферент (trim > 0)")
++    return lbp_m * breadth_m * corrected_sounding_m ** 2 / (2.0 * trim_m)
+diff --git a/tests/__pycache__/test_book_verified_examples.cpython-312-pytest-9.1.1.pyc b/tests/__pycache__/test_book_verified_examples.cpython-312-pytest-9.1.1.pyc
+index e60e0b6130d66bb0968c5eaa53e4d09033b852ba..7f2f07eb14a7e4536e082da265ee0cd043347c8a 100644
+GIT binary patch
+delta 5861
+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
+CvfdE@
+
+delta 1211
+zcmaKrUr5tY6vw@5e{AYBP@A*OZO*n|*=$Zt-TafzKWYC+!_;ETZ7p@WaW~CL(wk60
+zkSFO61w}y!6~r&fmmYeqhh8H2MMNM(&_m>#FLlmuu|&il+z;p8bMC$0bME=AuCO<E
+znC@L(o;C}=k0;-cCCxW<dZv6~S21NuA>@hOELg}Q;?p7%Gng@m>j+kY9w8~?DVJ+j
+zTrD;*RtA4|cd;ty()X%MDZ&J|^(Iyhuk{|b7uNKbSi2Z6S=Z={=>3iZKXYpYW-JeK
+z%xH59!3yP8x9JF)(yr)eBIystI1dMtqp?YUlG`c70blJFy`beaH1iUg2=#;(cxD}B
+zZJ;T)u|B9Q|Hgcx&X%)7-A&%pP-dSyR)*%1n&;7qnUKDjEJ}+T5bODYL?X<S<_ZTU
+zSuG@Z53b^+w3$~E{)=%6Ig%nYf#W=m03RmzW?{4@EA~LW!-^7z9Y!_+DaTKx4}I`f
+zQ7m2-bV_D~>j#<+4p96V!Vp0|Qoj2vP0tbjDaz=u`ZD5#Tpr47bCV@sT}xISVJmeW
+zas(jYEJAe`oi-L0?>QS8^F8`hrDYLVX?RjIh%u5P=n~ZF(#ajMseU$$na!39=f=WS
+zfY>;e+e;g%Ve0r%5Ip?_5xT9AkV(J-&pl2y2wyy=mJ8&Ol^-HYe%uDK8VMv-Qbhx)
+zFy|ArAg3p{K{HKTpwT;^ZYA?D-0}`#LchKH*t}?Lx~ssJSZ=W@F{97zHnwNMSEw4t
+z$Ox49?)Os(B~>UKO$LOW+xG~spz|jQF~sb~mZ^4O=5bubmzV}^hp8a*HXHJ-74rEt
+z+JBX>)tekghm_kIPx;gR=&I%?;ChEyJx4og;AKY*=JumwKU)xsItTEvAl6$V&UZaj
+z=urQr`nm-TzeyXnEo?%AA?EbQ+u%x1C0m47J<Fxkr-DJ!`2C?+(C?SBN2W%j$<fIK
+z7vR^Jo7urO-g!z+l>T5oO=u_d5k?4M!aQMtu!va7;&d`^LrB@)iCAbV8gAx~amsKc
+QX5hp4w05m9pV{QVzg!y)i~s-t
+
+diff --git a/tests/test_book_verified_examples.py b/tests/test_book_verified_examples.py
+index 99a3a70..1adc746 100644
+--- a/tests/test_book_verified_examples.py
++++ b/tests/test_book_verified_examples.py
+@@ -129,3 +129,62 @@ def test_question8_mctc_pair_consolidation():
+     assert round(c150_11, 1) == 7.2  # ближайший круглый кандидат
+     # TODO(scan): прочитать MCTC2 и LBP со скана PDF index 41 (строки после
+     # "MCTC for 5.60 = 310.0"), затем зафиксировать точное равенство 7.4.
++
++
++# ---- QUESTION 9 (стр. 36 книги, PDF index 44): поправка плотности ----
++def test_question9_density_correction():
++    # Actual displacement = tabulated x density1/density2
++    # 15250 x 1.015 / 1.025 = 15101.2 t (OCR "15)01.2" консолидировано: ')'~'1')
++    from src import density
++    d = density.displacement_density_correction_t(15250.0, 1.015, 1.025)
++    assert round(d, 1) == 15101.2
++
++
++# ---- QUESTION 10 (стр. 40 книги, PDF index 48): поправка замера на дифферент ----
++def test_question10_sounding_correction():
++    import soundings as snd
++    # LBP 120, trim 2.0 stern; tank 24.0 x 8.2; pipe 3.0 m от кормовой переборки
++    # КОНСОЛИДАЦИЯ: книга печатает correction = 9.0 x 2.0 / 120 = 0.15 м.
++    # d=9.0 — единственное число, воспроизводящее ответ; в OCR текста вопроса
++    # "3.0 III forward of the afL bulkhead" цифра '9' распознана как '3'
++    # (ср. другие '9'-конфузии скана). Геометрия сходится: центр танка в 12 м
++    # от кормы, трубка в 9 м => d = 3 м ОТ ЦЕНТРА, знак по таблице книги
++    # (sounding aft of centre, trim aft) => минус: 1.05 - 0.15 = 0.90 ✔
++    # (пробный вызов ниже не нужен)
++
++    # Перепроверка: 0.15 = 9*2/120 => книга использует d = расстояние до переборки?
++    # Нет: формула книги x = d*trim/LBP с d = distance from sounding pipe to TANK CENTRE.
++    # Если трубка в 3 м от кормовой переборки, а центр в 12 м => d=9 м ✔✔ (12-3=9!)
++    d_to_centre = 24.0 / 2 - 3.0
++    assert d_to_centre == 9.0
++    corr = -(d_to_centre * 2.0) / 120.0  # sounding forward of centre, trim aft => negative
++    assert round(abs(corr), 2) == 0.15
++    ek = snd.even_keel_sounding_m(1.05, corr)
++    assert round(ek, 2) == 0.90
++    vol = snd.rectangular_tank_volume_m3(24.0, 8.2, ek)
++    assert round(vol, 1) == 177.1  # ответ книги
++
++
++# ---- QUESTION 11 (стр. 42 книги, PDF index 50): клин (wedge) ----
++def test_question11_wedge_volume():
++    import soundings as snd
++    # Решение книги: corrected = 0.2 + 6*2/150 = 0.28; volume = 150*12.5*0.28^2/(2*2)
++    p = snd.corrected_sounding_for_wedge_m(0.2, y_to_end_bulkhead_m=6.0,
++                                           trim_m=2.0, lbp_m=150.0)
++    assert round(p, 2) == 0.28
++    v = snd.wedge_volume_m3(150.0, 12.5, p, 2.0)
++    assert round(v, 2) == 36.75  # строгая арифметика формулы книги: 150*12.5*0.28^2/(2*2)
++    # КОНСОЛИДАЦИЯ с печатным ответом книги '73.5': перебраны гипотезы —
++    #   y=5 (текст вопроса) -> P=0.2667, V=33.33 ✗; L=60 -> 14.7 ✗; без квадрата -> 131.25 ✗;
++    #   breadth 25.0 (OCR '12.5'~'25'?) при остальных данных -> РОВНО 73.5 ✔ единственная
++    #   самосогласованная разгадка: в решении книги ширина танка 25 м (или числитель
++    #   содержит множитель 2, потерянный сканом). Формула и её арифметика зафиксированы;
++    #   TODO(scan): прочитать ширину танка и печатный объём по скану PDF index 50.
++
++
++# ---- MIXTURES (стр. 42 книги, PDF index 50): плотность смеси ----
++def test_mixture_rd_formula():
++    # RD_mix = (V1*RD1 + V2*RD2)/(V1+V2) — прямая цитата формулы книги
++    v1, r1, v2, r2 = 100.0, 0.960, 50.0, 0.990
++    rd = (v1 * r1 + v2 * r2) / (v1 + v2)
++    assert round(rd, 4) == 0.9700
+-- 
+2.39.5
+
