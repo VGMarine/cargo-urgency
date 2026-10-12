@@ -34,3 +34,18 @@ def second_trim_correction_t(trim_m: float, mctc2: float, mctc1: float,
     Знак: всегда положительный (книга, стр. 32).
     """
     return 50.0 * trim_m ** 2 * (mctc2 - mctc1) / lbp_m
+
+
+def first_trim_correction_t_sign(lcf_to_midships_m: float, trim_m: float,
+                                 lbp_m: float, tpc: float) -> float:
+    """Метрическая форма книги (стр. 31, PDF index 39) — без шага в метрах:
+
+    1st trim correction (tonnes) = dist(LCF to midships) x TPC x trim(cm) / LBP
+
+    Знак по таблице книги (trim Aft): LCF forward of midships -> negative (-);
+    LCF aft of midships -> positive (+). Соглашение: lcf_to_midships_m со
+    знаком (+ = fwd of midships), trim_m (+ = by the stern).
+    Контроль Q7: 5 x 40 x 40 / 150 = 53.33 t (печатный ответ книги OCR "!);~"
+    читаем как «+53»; точное значение зафиксировано тестом).
+    """
+    return -(lcf_to_midships_m * tpc * abs(trim_m) * 100.0) / lbp_m
