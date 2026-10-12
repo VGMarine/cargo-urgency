@@ -1,0 +1,212 @@
+
+===== PAGE 1 (809 chars) =====
+BRITANNIA LOSS PREVENTION
+DECEMBER 2023
+THIS PRACTICAL GUIDANCE PROVIDES AN OVERVIEW OF 
+THE KEY CONCEPTS AND CONSIDERATIONS INVOLVED IN 
+CONDUCTING A DRAFT SURVEY FOR SHIPS.
+DRAFT SURVEY
+Draft surveys play a crucial role in determining the quantity of cargo loaded onto a ship. 
+While based on the simple principle of Archimedes’ law of ﬂoatation, the calculation 
+process can be complex due to the ship’s shape, non-linear changes in draft due to hog 
+and sag, and external weather conditions. 
+Simply put, the weight of the cargo is calculated between the difference of the weight 
+of the ship before and after loading. Allowances are made for ballast and other known 
+weights.
+Disputes can be prevented by managing the risk at the time of the ﬁxture by clearly 
+indicating which ﬁgure would be binding.  
+
+===== PAGE 2 (1565 chars) =====
+USEFUL DEFINITIONS
+LIGHTSHIP
+This is usually the weight of the ship when it was built with operational conditions including the engine, 
+accommodation and cargo space but does not include crew, cargo, fuel, ballast, fresh water and stores. This is 
+thought to be increasing around 0.2% per annum due to the additional layers of paint, change of equipment and 
+mud in the tanks.
+2  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+CONSTANT 
+Constant is the difference in weight of the calculated lightship (by draft survey without the cargo) and it’s tabular 
+ﬁgures from the ships book at a given time. This is the result of the weight of crew, additional weight added to the 
+lightship since new build i.e. rust and any added metal, mud, sludge and silt which is usually not accounted for. 
+Therefore it is important to bear in mind that it is never constant and can vary. In practice the initial draft survey 
+calculation can be used to work out the constant at that time.
+Often this calculated constant is compared with the declared constant or historical constant to sense check the 
+cargo ﬁgures. This comparison may only be a warning ﬂag of a possible error in the draft survey rather than an 
+issue in itself. It is important to understand that the ‘constant’ may ﬂuctuate, e.g. because of the variable amount 
+of mud deposit.
+HOG
+Hogging occurs when the forward and the after end of a ship is much heavier than the midship. In mathematical 
+terms, this means when the mean of forward and aft draft is bigger than the midship draft (ideally these should 
+be same).
+
+===== PAGE 3 (1294 chars) =====
+3  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+FACTORS TO CONSIDER DURING
+THE SURVEY
+READING THE DRAFT MARK
+SAG
+Sagging occurs when the midship section is heavier than the forward and aft. In mathematical terms, this means 
+when the midship draft is bigger than the mean of forward and aft draft (ideally these should be same).
+All parties should read the draft close to the waterline to avoid parallax, for which a boat may be essential, and 
+cost should be agreed beforehand. Mental notes of metre marks should be taken to avoid errors in metre reading. 
+Always ensure that draft marks are equally spaced for accurate calculations.
+At the time of reading the draft, it is recommended to check for unusual ﬂex conditions by checking all six point 
+readings versus the means.
+While all ships hog/sag and sometimes twist, the actual ﬂex tends to be typical in certain conditions (e.g. hogging 
+in ballast condition) which is usually known by the chief ofﬁcers. If after reading the draft, this is found to be 
+against the norm, it could a warning sign of a possible error. In this case the reading of the draft should be double 
+checked.
+Waves can distort the reading, to eliminate this a wave dampening tube and /or manometer can be used to 
+determine the draft on the offshore side of the ship.
+
+===== PAGE 4 (1308 chars) =====
+4  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+FLOATING 
+BALL
+MOUNT FOR 
+WIRE LOOP
+ROPE
+PLASTIC 
+TUBE
+SMALL HOLE
+STEEL WIRE LOOP 
+WITH SHACKLE 
+FOR SINK-STONE
+WAVE DAMPENING TUBE
+Waves cause fewer problems below 
+the surface and a tube can be used to 
+take advantage of this. A tube with a 
+small hole, as seen below, is lowered 
+with a weight. There is a ﬂoat which 
+represents the level of water that 
+would not be affected by the wave 
+because the water enters from the 
+bottom and a draft reading can be 
+taken for the midship.
+The top of the tube hangs from the rope and weight is added at the bottom of the pipe. The pipe has a small hole 
+and a reading ﬂoating ball inside the tube.
+Source: alexxplus.com
+MANOMETER
+The other option is to set up a manometer on board to read the difference in the water level. A long hose 
+is laid across the full stretch of the beam (extreme breadth to replicate the distance between the draft 
+marks from port to starboard side) with a rigid pipe at both ends so that the level of water (height) can 
+be measured easily.
+If the hose cannot be laid across the full breadth, the height of the water level at the extreme breadth 
+can be calculated by a similar triangle method and the sides should 
+be placed the same length apart from the centreline and 
+measured (BM1).
+
+===== PAGE 5 (800 chars) =====
+5  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+We should be reading MD (reading of manometer at the extreme beam) but we are reading M1D1.
+BM/BM1=MD/M1D1
+MD= BM/BM1 * M1D1
+BM is half of the beam and beam is the BM1 apparent half of the beam. “B” is the centre of the ship between port 
+and starboard side.
+The difference of the actual draft will be half of the difference of the height of the manometer tubes reading.
+USEFUL ALTERNATIVE IDEAS
+A CAMERA WITH A ZOOM FUNCTION TO OBSERVE AND RECORD THE 
+WATER MOVEMENT VS. DRAFT MARKS TENDS TO WORK BETTER THAN 
+BINOCULARS, ESPECIALLY AT NIGHT. THE RECORDING CAN THEN BE 
+PLAYED BACK TO OTHER SURVEYORS TO AGREE THE READING.
+A laser level instead of a manometer (combined with boards or rulers aligned to midship freeboard marks) is 
+very quick to set up.
+
+===== PAGE 6 (2825 chars) =====
+6  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+BEFORE THE SURVEY
+Where draft marks cannot be safely accessed, lower a small camera on a heaving line (which may be connected 
+to a mobile phone to watch live). This works especially well on stern marks. The camera may need to be 
+stabilised for example by using a wooden board and another line.
+CALCULATING THE BALLAST
+• Check the declared constant
+• Check the calculated constant by previous draft
+ surveys against the above declared constant and
+ note any anomalies or trend 
+• Verify that all tables and the ship’s hydrostatic data
+ is approved by class
+• Note any modiﬁcation/reﬁt from the build e.g. ﬁtting
+ of a ballast water system which might change the
+ lightship constant 
+• Check if the ship has a list
+• Examine the condition of hatch covers and cranes
+ (this can effect trim and list), and ensure mooring is
+ ﬁnished to avoid squat (the apparent change in draft
+ due to movement of the ship) 
+• The ballast or bunkering operation must not be
+ allowed during the draft survey, as these will change
+ the draft.
+Cross checking and sounding of the ballast tanks should be made against the designed pipe height for accuracy. 
+Water ﬁnding paste should be used to get the correct reading.
+It is also important to correctly interpolate calibration table values against the sounding to obtain accurate 
+volumes for the required trim and the sounding.
+The density of the ballast water should be established between all parties.
+Avoid taking the soundings of empty double bottom tanks at low trim or even keel. It is best to take soundings 
+with moderate trim by stern and should never be done when trimmed by head.
+Avoid having partly ﬁlled tanks at the time of the draft survey, and if it cannot be avoided, ensure the water level 
+is not in the area where tank calibration tables may be inaccurate (i.e. where the tank shape alters rapidly such 
+as where a high tank transitions between double bottom and vertical space).
+For full tanks: press them to ensure no air cushion remains between the frames or in the forward part of the
+tank – be mindful that they need to overﬂow by the highest vent.
+DENSITY OF THE DOCK WATER
+Determine the density of the dock water using a calibrated hydrometer to avoid confusion and ensure accurate 
+calculations. Draft survey hydrometers are designed to be used for draft surveys and calibrated for calculation of 
+weight in air (not in vacuum). Ensure readings are agreed upon before starting calculations.
+Keep in mind that density can ﬂuctuate rapidly in certain ports and may vary with depth and time, for example 
+after heavy rainfall or because of tidal forces introducing more saltwater. To address these variations obtain 
+water samples for density assessment at the forward, aft and midship sections, at approximately half of the 
+
+===== PAGE 7 (2477 chars) =====
+7  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+CALCULATIONS
+EVEN WITH EXPERIENCED SURVEYORS THE CORRECTION CAN BE 
+APPLIED WRONG BECAUSE SIGNS CAN DIFFER ON SHIPS.
+The data reference point should be adjusted if it is not the same. One example is longitudinal centre of ﬂotation 
+(LCF). This can be measured from Midship or after perpendicular. However, after all the corrections are applied 
+everyone should have the same corrected displacement.
+Therefore it is important to be able to explain the +/- sign convention used in the ship’s documentation to the 
+surveyor and to detect if an error was made.
+Care should be taken when reading the data from the hydrostatic table to ensure that the correct trim and density 
+of the water is being used. The correct draft should also be used (i.e. not moulded draft).
+To eliminate any issues with the hydrometer we recommend using the same equipment for the initial and the ﬁnal 
+survey.
+ship’s draft depth. The average density is derived from these samples for enhanced precision in the calculation.
+Additionally the quantity of the sludge, slop, bilges, duct keel and void space should be ascertained. The same 
+should be done during initial or ﬁnal surveys otherwise adjustment should be made to calculations.
+EVIDENCE
+A video recording and photos of the reading could be vital in proving the reading of the drafts. Any disputes 
+should be discussed and recorded.
+SUMMARY AND RECOMMENDATIONS 
+It is important to remember that shortage issues should be compared on a like-for-like basis. Attempting to 
+reconcile differences between shore scale and a draft survey would be unfair, as they are two distinct methods of 
+measurement. The charter party should clearly specify which ﬁgures are deemed correct and acceptable.
+Ships should refrain from signing any survey report unless they agree with the readings and calculations and 
+which can be supported by their own assessments.
+The draft survey process should be carefully managed by the responsible ofﬁcer, ensuring that at all stages of the 
+calculation match their own and that any errors or disagreements are clariﬁed immediately.
+While consumables may not always be entirely accurate, their ﬁgures can still be used accordingly for 
+calculations. It is crucial to rely on a calibrated book for reliable data.
+Draft surveys might not be included in all nautical school curriculum, which is why ofﬁcers are encouraged to 
+practice and compare results to enhance their proﬁciency.
+
+===== PAGE 8 (1464 chars) =====
+8  |  BRITANNIA LOSS PREVENTION  |  GUIDANCE
+CONCLUSION
+Draft surveys are crucial in bulk trade for accurate cargo quantity determination. It is essential to adhere 
+to standard practices, use calibrated equipment, and seek expert advice when needed. By following these 
+guidelines, potential disputes can be minimised, ensuring a transparent and accurate process for all parties 
+involved.
+FOR FURTHER INFORMATION
+For further information, please do not hesitate to email lossprevention@tindallriley.com.
+DISCLAIMER
+THIS LOSS PREVENTION GUIDANCE ARTICLE IS PUBLISHED BY THE BRITANNIA STEAM SHIP INSURANCE ASSOCIATION EUROPE (THE 
+ASSOCIATION).
+Whilst the information is believed to be correct at the date of publication, the Association cannot, and does not, assume any responsibility 
+for the completeness or accuracy of that information. The content of this publication does not constitute legal advice and Members should 
+always contact the Association for speciﬁc advice on a particular matter.
+To avoid complications in determining the correct amount of ballast in the holds, it is advisable to avoid using 
+hold ballast.
+Even if the tank is full or empty, soundings should be employed and trim corrections applied.
+Ofﬁcers should seek advice from local surveyors on when to ballast to prevent the accumulation of silt, which 
+could affect constants between surveys.
+If any issues arise, club correspondents should be contacted to assist as soon as possible.

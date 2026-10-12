@@ -1,0 +1,2768 @@
+
+===== PAGE 1 (0 chars) =====
+
+===== PAGE 2 (0 chars) =====
+
+===== PAGE 3 (1937 chars) =====
+DRAUGHT 
+SURVEYS 
+A GUIDE TO GOOD PRACTICE 
+by 
+W J DIBBLE Master Mariner, B.Sc, MllMS, MNI, MRIN 
+P MlTCHELL Master Mariner, B.Sc, MIIMS, MNI 
+This guide is designed to help Surveyors and 
+Masters worldwide ensure that draught 
+surveys are carried out as accurately as 
+possible in the prevailing conditions. It 
+recommends procedures and formulas for 
+every circumstance likely to be encountered. 
+The UN/ECE DRAUGHT SURVEY FORMS 
+have been included in an effort to achieve 
+standardisation throughout the industry. 
+£18 
+ISBN 0 9521164 1 3 
+rim Dibble and Peter Mitchell, 
+of MID-C Consultancy, have 
+produced another publication 
+on Draught Surveying which 
+deals fully with the prinCiples 
+involved and the reasons behind 
+the various corrections and 
+methods. This Loss Prevention 
+Guide makes no pretence at 
+delving deeply into the subject 
+It does, however, provide an 
+outline, 
+showing 
+all 
+the 
+methods and corrections for. a 
+Draught Survey to be carried 
+out to the required accurdCy. 
+The North of England P&l Club is 
+a leading international mutual 
+marine liability insurer with over 
+11 CXXl CXXl GRT of entered shipping. 
+The provision of sound, practical 
+advice 10 ilS Sbi(H>wner Member~ 
+has been part of the service ~iDCC ilS 
+founding in 1860. The accurate 
+measurement of dry bulk cargoes 
+by 
+the 
+vessel 
+can minimize 
+considerably the risk of shortage 
+claims and disputes. This practical 
+guide to carry out a good accurate 
+draught survey is continuing in the 
+tradition of The North of England 
+P&l Club in assisting their Ship-
+owner Members 10 minimi7-C their 
+risk exposure and is the second in a 
+series of loss prevention guides. 
+The first guide covered "Steel 
+Preshipment Surveys" and other 
+relevant publications circulated by 
+the Club include "Signals", Loss 
+Prevention Quarterly and "The 
+Master's 
+Role 
+in 
+Collecting 
+Evidence" 
+published 
+by 
+The 
+Nautical Institute. 
+MID-C Consultancy 
+
+===== PAGE 4 (852 chars) =====
+Published by MlD-C Consultancy 
+All rights reserved. No part of" this publication. other than the 
+enclosed UN Forms, may he reproduced, stored in a retrieval 
+system or transmitted, in any form or by any meallS, electronic, 
+mechanical, photocopying, recording or 01 herwise, wi thout the 
+written consent of the Publisher. 
+Copyright (c;) ~!nD-C Consultancy 
+and the Norrh of England 
+P&l Association Ltd. 1994 
+Reprinted 1998 
+ISBN 095211641 3 
+Authors: Jim Dibble, Peter Mitchell 
+and The North of Eng\:J.nd 
+P&l Association T .td 
+Printed and bound in the UK 
+This puhlication i5 intended to provide guidance in conducting a 
+Draught Survey. While every effort has heen made to ensure 
+practical and reasonable recommendations, the Authors arc not 
+liable fi)r the conseqllences of implementing or attempting to 
+implement these recommendations. 
+
+===== PAGE 5 (248 chars) =====
+LOSS PREVENTION GUIDE 
+DRAUGHT SURVEYS 
+A GUIDE TO GOOD PRACTICE 
+W J DIBBLE MASTER MARINER H.Se MIIMS MNI MRIN 
+P MITCHELL MASTER MAlUNER B.Sc MIIMS MNl 
+and 
+THE NORTH OF ENGLAND 
+PROTECTING AND INDEMNITY ASSOCIATION LIMITED 
+MID-C 
+CONSULTANCY 
+
+===== PAGE 6 (1925 chars) =====
+Contents 
+d 
+. 
+. 
+Intro uctlon ...... ".""" .. ,, l1li" l1li. l1li l1li" ••••••••••••••• " ••••••••••••••••••• " .IV 
+Practical Procedure ..... " ...................................... " .. 1 
+Information Required ........... " ............................... 8 
+Data r-.1anual For Dnl\lphl Surveys .......................................... H 
+,., 
+. 
+H yd rnslalic Particulars ............................................................. 9 
+. 
+Deadweig'ht or Displacement Scale ........................................ 11 
+Capacity Plan and Tables ....................................................... 11 
+Soullding Tahles ..................................................................... J '2 
+Correction Tables and Diagrams ........................................... 1 ~ 
+Plalls ........................................................................................ 14 
+Lightship ................................................................................. 14 
+Assessment of Underwater Volume .................... 16 
+General Draugh 1 1\1 casu remenl ............................................. 1 () 
+Draught Measuring Erjllipmcnl ............................................. 17 
+Draught Reading on Outbuard Side ...................................... 18 
+Draught Gauges ...................................................................... ::!() 
+S· 
+9(' 
+, quat ....................................................................................... _ ) 
+Currectioll of' Dr;H1ghts to Perpendiculars and Midships ..... '21 
+COlTenion ror List .................................................................. 26 
+Hull lk!1ection or Ho!! and Sag ............................................ 26 
+l) 
+t_ 
+Correctiuns i(n- 'I'rim .............................................................. 30 
+Density .................................................................................... :~3 
+.. 
+11 
+
+===== PAGE 7 (1895 chars) =====
+Assessment Summary ............................................................. :~7 
+Deductibles ........ ,. ................................................. 38 
+Soundings and UlIages ........................................................... 38 
+Salnpling ................................................................................. 39 
+'i~' 
+(' 
+'. 
+'19 
+rUlI ,orrectlons .................................................................... J 
+Liquid Slop Tallks .................................................................. ,11 
+l\1ixt llres .................................................................................. 42 
+Residue in C()mpartments ...................................................... 4~ 
+Anchors and C:ahles ................................................................ 4~~ 
+Addirional pacto!'s .................................................................. ,1,1 
+Glossary ................................................................ 45 
+Appendices .......................................................... 49 
+Eguipment Check List ............................................................ ,19 
+Check l.ist of'Reservations ..................................................... '\ ~j 
+information Check List .......................................................... 50 
+Correct iOlls CIH:ck I.i::it ........................................................... 51 
+l'vletric!I m pcrial Conversions ................................................. 32 
+Index .................................................................... 54 
+ACKNO\"ILEDG EMENTS: 
+The authors would like to thank the following I~)r their assistalln;: 
+'" 
+Commander T Lillt:y of tht: I ntcrnational I nstit1.ltt: of \ilarinc Surveyors, 
+Captain D C reen for his mcticulous work on the original sui pt. 
+Captain R Ward. 
+Captain P Coomhs. 
+Captain Y A.ysuna. 
+" . 
+III 
+
+===== PAGE 8 (2285 chars) =====
+INTRODUCTION 
+The purpose of a draught sun'ey is 10 determine the amount of cargo loaded or 
+discharged for the bendit of all the interested parties, A well·conducted draught 
+survey of a larg'c vessel should achieve accuracy 10 wit hill O.!jl)(, 
+The survev must be conducted I1lctint\ously. raking imo accolll1l all the prevailing 
+circulllsta;1Ces, Thc lillal rcp0!l should illmrporate every aspecL and diHicuity 
+which has been encou111cred ill order 1.0 cOll\'er all aspects or tlte sun'ey, 
+\Vhile draught sur\'cys Illay be carried ollL b)' professional surveyors, Ihe ship's 
+ollicers should also }Jerlorm a draught surn:y t() the sallle deg-rec of accuracy, 
+Tt is hoped that this ~ui(k will assist in achieving' the required stalldards, 
+DRAUGHT SURVEY 
+The draught survey is the "hcfrll'e and after" surH::Y. ",hich determines. hy 
+meaSllrcmelll. the \Tssd's displacement hefore and alter loadillg ur discharging. 
+Tlte uifIerence between these tW() displacemems is the weig'ht u('carg'O loaued or 
+discharg-cd, 
+DEADWEIGHT SURVEY 
+L'nder certain rin:ulllst(lnCcs. the sur\'eyor or ship's ulIicer may have no choice 
+hill ht: restricted to carryillg uut a deau\\'eight survcy, The weights of all 
+lIIeasurable nOl1-carg'O elemeJ1ls OIl Ihe vessel ;IlT determinecl: blinkers, /i'esh 
+wall~r, ballast. stures etr. 
+These are I hCIl addt:d tu the light displacemenl 
+(including any lightship constant). Thi1i total is then dcdw:ted lium the prt:sem 
+displacement tu procluce Ihe approximate weight of cargo on hoard, 
+UN/ECE DRAUGHT SURVEY CODE FORMS 
+These fill'lIIS ha\'e iJeen included atlhe hack of this hook, They are rllt: work of 
+the Lnited l'\ations F.nll1()lllic Commission t<J]' Europe, the Coal Working Party 
+of the Encrgy COlIlmillee. which pmduct:d lhe COr/I' of IIUi/lJl'lIl S/{/l1d(JHI~ fi/lrl 
+f}I'OCI'dult'sfin Iht' jJI'I/imnall(1' 4 dmllgli.1 SI/Fi't'yS I{ ('/Jul I'rlIg()l's. The Working Part)' 
+recollllllcnd thc IISC oftlit: liJl'lllS in order to achie\'e IIniforlnil.v aIld consistency 
+in drallght sur\'eys. su a\'uidin~ Iht: dislTepancies which gin:, rise to cOJlIllIt:rci~1 
+disputcs, 
+The forms have been /i'eely given, so that all su rwyors and ship's ol1iccrs may 
+photocopy and Ll1ie tht:lJJ as a standard [ormat throllg'holl! the industry. 
+1\' 
+
+===== PAGE 9 (2302 chars) =====
+PRACI'ICAL PROC:EDURE 
+J r is impossible to cover every coIH:ei\'able problem likely ro be encountered 
+when carrying- out a draught survey. Ships and ports vary so much rh.It there 
+will alway~ he rhe unforeseen circumstances ,,'hich will require an oll-the-spOI 
+decision. These not.es and steps to be taken, gi\'e only a broad approach to the 
+slIbject There is howe\'er, n() slIbstitutl' for experience. 
+An inaccurate sun'ey may result in collsiderable expense [0 several partics, 
+therefore it. shollld be conducted cardully alld aCCllraldy. Bcing- well prepared 
+alld having su!Iicicllllilllc will all()w the survey to be conduCled correctly, It 
+may not appear expedient to delay the ship in order to colllplete the drauglll 
+survey properly, but it could save 1II0lley in Ihe IOllg lerrn, This decision must 
+lie with t.he \(ast.er, hO\\'cYlT careflll preparation could reduce these delays to 
+a 111111 I lllllIII, 
+All parties should work together Il)r a unanilllous rcsult. the j~lCrs should be 
+established by illspenioll and lIot by verbal agreemem. 
+1. The ship and ship's staff must be prepared for the survey. 
+Shore surveyors must be ready for the ship's arrival. 
+Prior to arrival 
+The ~hip should be asked tu prepare lill' Ihe draught survey, 
+The iJallast tanks shoulrllw adjusted to a I(,\,et co\'ered IJ\' the sounding 
+tables, 
+lL should be remembered thalllllltanks Gill be pressed LLp lllll slill retain 
+air puckl'lS alld also il call he difficllh 10 estahlish that a r(lnk is completely 
+t'lIlJlly without visual inspection. 
+llallast holds, (main earg-o holds used IlJl' ballast) should be ClIIpl}' of 
+ballasL un arrival al the l()ading porI, if Jlossihle, 
+Thc vcssel sho1lld aITi\'(:' with a sale lrim. ~lIiLable ii.lr the Ilavigation to 
+eIller port and wirhin rhe limits of trim covered Iw the trim UJlTeCliolls of 
+the sounding tables. The vessel shollld alTin~ in all lIJlrig-ht conditioll, 
+Staff, doclInwntarion and eqllipmenl should be ready on the arrival of 
+the ship. There shollld he no m(wemell( of ballast. fi-esh water, bunkers 
+or cargo and hatches, cranes ami moorings until all Il\CaSLIITlIlcnts are 
+takcn and agreed by surveyurs and ship's ollic('rs, The prudelll surveyor 
+will han: oiJsCI'\'ed the shore side drallghts hefore iJoarding as these can 
+
+===== PAGE 10 (2161 chars) =====
+be used to indicate any changes. See photograph of the tools of the 
+draught surveyor Oil page 35 and equipment check list on page 49. 
+2. Examine the ship's documentation and discuss the ship's 
+present condition 
+Documentation and information 
+Surveyors and ship's officers should discllss doulITlelltation details and 
+the location and state or all compartments. The instruction pa~es of the 
+stability information book and calibralion tables should be studied and a 
+check made or the tank capacities with the capacity plan. [t should be 
+remembered thal the pOrl and starboard tanks may not be the same and 
+consequently ha\'e separate calihration lables. 
+The base lor measurement of vertical heiRhts, the rcferenCl: point 101' 
+longitudintll measurements, the units and the sign com'clltions used in 
+the tables must all be verified. The units used in the correction tables 
+should also be carefully noted bccausc there is sometimes a mixture 01 
+units and sign convcntions contained within the samc documentation. 
+The whole survcy should be conducted using the units of the ship and 
+the final result changed 1.0 a suitablc unit, if necessary. \Vhell feel and 
+inches are the standard unit. convert to feel and decimals or a loot 101' the 
+ml1\'cll ienn: or a calculator. 
+The hill sounding deplhs of" I.anks, lhe summer draught and freeboard 
+ancl the record of recent tank sOllndinl!s should be noted. 
+If a bunker survey is not to be carried out, the chief engineer's bunker 
+fi!:,I'lues (fuel oil, diesel oil and lubrication oil) are required, also the daily 
+port consumption quantities. Should any bunker or stores be delivered 
+during the stay then the delivery notes must be sighted for the 
+additional quantities to he included in the final survey. The draught 
+survey is only interested in changes in the bunkers on board, that is 
+consumption and deliveries. 
+The position of the anchors shoulcJ be checked, should any all.erations be 
+proposed dllring the Slay then {he weight of the anchors and cables 
+should be determined. 
+The ship's stair and slIrvcyors should work toRether 1 hroughollt. 
+See inlormat.ion chcck list. on page 50. 
+2 
+
+===== PAGE 11 (2285 chars) =====
+3. Take accurate overboard water samples and draughts 
+Density 
+Using a sample bucket take samples from half draught depths from at 
+least two positions on the ofI-;hore and the onshore sioe, a\"oiding the 
+oischarges, stagna m waler between ship andjeuy and outfall areas. Take 
+samples of ahout one litre and do 1\(11. mix the sampl('s. 
+Rinse out lhe hucket alld the sample jar with the first sample of water. 
+Take the density readings promptly, protecting I he sample jar from the 
+wind and direct sunlight. Hold the hydrometer wrtically by the lOp of 
+the stem and gently lower inlo the sample until it !loals freely. Take the 
+hydrometer reading where the overall level liquid surflce meets the 
+graduated stem, not the top or the meniscus, A\'oid parallax by filling to 
+near the top of the sample jar and placing the eye ill line with the liquid 
+level. See photograph of a hydrometer reading 1.01 G5 Oil page 34. The 
+bottom of the sample jar should have ~5 mm dearance below the hase of 
+the hvuromeler and ha\'e a minimulII internal diameter of 50 111111 . 
+.. 
+If densities obtained show no major variation then calculate the average 
+value, however if there are suspicious variations in the readings th~n 
+additional samples should be taken and this f:lctor included in the report. 
+Measure the apparent demity with a Zeal glass draught survey hydrometer 
+and be aware of any tidal changes which may affect the sample density. 
+Sec density section on pages 33 and 36. 
+Draughts 
+The draughts and densities should be obLained at nearly the same time 
+if possible. Draughts and densities taken at slack water are the most 
+accurate but this may lIot be practicable. 
+All the draughts should be read with great care and every e!lort made LO 
+read nirectly h'om ship's side llsing a boat, laducr or other available 
+means. Th(~ tigures should he written down as they are obtained to avoid 
+mistakes of mcmory. 
+If rClJuired, the midships draughts Gill be obtained by measuring the 
+freeboard from the watnlinc 10 the top ohhe neckline or to a convenient 
+point above the deckline. when a correction must be applied. A tape with 
+a /loal plate at the zero mark can be vcry usefully employed to achie\'e 
+this measurement. Sce draught measurement section on pages I (i to 20. 
+
+===== PAGE 12 (1883 chars) =====
+4. Calculate the ship's underwater volume and displacement 
+a) 
+Correct the observed draughts to the centreline, i.e. the mean of 
+the port and starboard draughts. 
+b) 
+Correct the centreline draughts to their value at the correct position 
+of the perpendiculars. 
+c) 
+Allow ten' hog or sag and obtain the correct draught Illidships, 
+d) 
+Enter the hvdrostatic tahles with this corrected draught to obtaill 
+the uncorrected displacement. 
+e) 
+Correct this \'alue of displacement for: 
+first trim correction 
+second tri m correl'1ion 
+list (ir necessary) 
+density 
+s(x the appropriate section fc))O details of these calculations on pages I G 
+to :-17. 
+5. Determine the quantity of deductibles 
+Ballast and fresh water soundings 
+Every compartment capahle of carrying water should he carefully inspected 
+alld sounded, allowing suffic:i(~lIf lime it))' lIuctllariolls in levels due to the 
+rCll1m·al or the sounding caps. When at all exposed berth the movement 
+of the vessel may create errors, 
+To oyercomc t his problem several 
+soundings should be taken alld t.he average value assumed to be the 
+corn:cI. olle. 
+The sounding tape IIlllst be checked to ensure that it reaches the bottom 
+of the tank, If the tape is marked at the ship's full depth it can an as a 
+useful guide and the consistency or the depth of the different tanks can 
+be checked. It should be remembered tliat the vertical (allk height and 
+the length of soundil1)?; pipe may be ditferent. 
+Sce phutograph of 
+sOllnding tape on page ;~!). 
+Full tanks may have air pockets l'spec:iillly whell the ship is trimmed. 
+Topside tanks Gill he o\'erllowed frOln fi.)I'ward and ali air pipes until a 
+steady lIow through both is ulllllistakable, the sounding pipe extellsiolJ 
+may prove usetill for this operation. HoweHT care should be taken to 
+ensure that lhc ovcrllowing ballast water causes no othcr problems e.g. 
+
+===== PAGE 13 (2335 chars) =====
+wetting of cargo waiting to be loaded, soaking the electric power boxes 011 
+the (luapide or wa~hillg debris or uther pollutants over the side. 
+Fm a stern trim the position of the forward air pipe relative to the 
+forward tank bulkhead should be checked to determiuc any possible 
+remaining void spaces and where ueCl.:ssary I his factor should still be 
+allowed. Other lid' /al/lis should h(' sounded and the trim corrections 
+allowed. 
+The ballast discharged !i'um tanks lIIay kil\'c rcsiclllalliquid in pipes and 
+in areas of poor draina~e. This water is difficult TO detect and time 
+should IX' allowed for drainage purposes before taking MHHldings. 
+Empty tanks will prubably have residual water even at zero soulHIings, 
+these indeterminable quamities Gm he ignored af both before and after 
+surH:YS, provided Ihat all parties are satisfied that no changes have t;lken 
+place during the imerval between surveys. In other cirullllslann:s itlllay 
+be necessary (0 assume a slllall pen:eulage (I (;i; or ~(}~,) of r1w tanks total 
+capacity as addit ioual weight to (over all remaining drainings. 
+Tfthe ballast soundings are out~idc the maximum range ofthc calibr;l1ioll 
+tahle~ then ballast should be run uul ulIlil lhe level is suitable. 
+The duel ked, pipe tunnels, peak tanks and swimming pool should nor 
+be t()J)~otten and soundings taken as u~ual. The bilges should be checked 
+and an}' pumped out during the ship's stay must be recorded. Wben a 
+\'essel loads a dry bulk cargo which has been welled, a record of hilges 
+pumped during the whok voyage could prove very useful as evidence. to 
+explain any apparent loss of cargo between successive surveys. 
+Ballast holds often cause problcrn~ duc to poor lank calibratiuns and hull 
+deformation. These should be empty or hallast prior to arrival at the 
+loading port and vislJally inspected if' possible. 
+Bunker tanks need not be inspected and sounded during a draught 
+SUITe)', unless a bunker survey is also required. 
+Sec soundings and ullages section on pages :~8 to -13. 
+Ballast samples 
+The water within the sounding pipe may not be properly mixed and 
+lherefore not he representative of'the liquid in the whole tank, irill dOllht 
+llll: sampk shollld he laken al the bouolII or the pipe lIsing a suitable 
+sampling can which can be opened at the appropriate depth. 
+
+===== PAGE 14 (2486 chars) =====
+Sutlicient sample densities can be obtained from the tan ks dowlI onc side 
+or the ship only. unless IIl<\jor variations occur. 
+Variations could he 
+caused by the ballasling raking place at diHcn:nL limes and locations. 
+The ballast tank dipper or hand pump down the sounding pipe may be 
+lIsed to ohtain a sample where the water is well mixed, as showlI in the 
+photograph on page 3,1. The sample .iar should he rillsed out with the 
+first sample and then the Zeal hydrometer IIsed to obtain the apparent 
+density 
+o/" the waler, as with the sea water density, a remperat\ll"e 
+corn':clion is not necessary. A ballast hold should be sampled al diUerent 
+levels with the water sample bucket and checked for any major variations. 
+The measurement of dellsity, the hydnlmeter lo use and the reading 
+obtained can cause problems, th(, density sectiolls on pages :);1, :16 and 53 
+sholtld he read care11tll)" t.o avoid these problems. 
+6. After completion of loading or discharging, repeat sections :l, 4 
+and 5 above, for the final survey 
+Final survey 
+Adequate prcparatioll is n':ljuired again for the final survey. The intcIHbl 
+quantities of carg-o. blinkers, fi'csh water and s[Qres and t.ht: proposed 
+finishing draught should ue determined ill advance or completion of 
+carg-o. If therc is to be a final trim by the head then an intcrmedial.e 
+sur\'ey of the ballast relnaillillg" on board, should be carried out while the 
+I.rim is still bv the stern. Accurate deterrnillal.ioll or the ballast on board 
+n'lllains a lIIajor issue and ensuring lhat the empty tanks are actually 
+dear of ballast is a 1ll;~j()J" cause of errors in the final calculations. 
+Notes 
+In\'oice iigures for the weights of all blinkers, spares and S[Qres taken on 
+board dllring the stay should be \'erified and a check lIIade I.hat Ilothing 
+has been landed. Changes in the bilges, swimming pool. and other 
+regions not directly associated with the working of the "esse! should be 
+delennined. 
+All calculations cotllained in this guide should be carefully exeCllt.ed and agreed 
+belwt:en parries. The same SUr\Ty methods should he used at the loading and 
+the discharging ports in order to achieve consistency or results. 
+The calculations shoukl deal only with the acquired facts ami nOl. introduce any 
+unsubstantiated cons/an/s. Tht: constant often referred 10 with draught surveys 
+is dealt with in the /.ighfslnjJ C01lSfanl se(:lion Oil pag-es 14 and 15 and its 
+significam:e should be understood. 
+
+===== PAGE 15 (499 chars) =====
+All circumslances that may inlluellCl! the accuracy of the surveys should be 
+recorded on the slIr\'ey report. 
+Conclusion 
+Shortage claims on bulk cargoes an: a rnajor concern lo the shipowner and their 
+P&l clubs. The), result in claims invol\'ing significant sums of nHlIlC),. Well 
+maintained records when used as e\'idence, including aCUJrat.e and comprehensi\'e1y 
+documented draught sur\'eys from both the load and discharge ports, may 
+enable these claims to be slIccesslillly defended. 
+7 
+
+===== PAGE 16 (1671 chars) =====
+INFORMATION REQUIRED 
+It is the I\fasrer's respomibility to ellsure that Ihe drallght lIIarks arc dearly 
+visible at a minimulII 01' six positions on the hull, that is at:-
+the t<H'ward end, Ihe all end, mid ships, on both sides. 
+It is also the responsibility of the ship's 'faster to provide the surveyor wilh IIp-
+to-date and accurate infiJrmatioll which has been cenified by the ship's flag state. 
+This informatioll shollld mlllain details or Ihe ship alld it's present condition. 
+For details of what should be included refer to the inj'ol1l1fllion (h('rk list Oil pag-e 
+50. 
+The information may be in metric or imperial units. 
+The presemation and precision or the informarion will vary widely from ship to 
+ship and the langllage IlIay nol be Ihat of the surveyor. 
+Take great care when using this data. 
+Read the stability infi)1'mation book 
+imroducrion pages TO deTermine The C01lTems of each of rlw rabies, and how they 
+should he applied. :\ol aI/ the inhmnalioll will be required tor every draught 
+sun'c\,. 
+DATA MANUAL FOR DRAUGHT SURVEYS 
+The t:nited Nations recoHllnencls thal ('very ship carrying blllk cargoes 
+should be provided wiLh a data Illanual for draught suncys, which 
+should bl' n:rtilied by the ship's home administration or its classilication 
+SOCII.:I V. 
+, 
+Thc language of the lllanual should be English or have English translations, 
+The metric system of units should be used throughout. 
+Longitudinal lIleaSIIITlllell1.s should he hased UpOIl midships. 
+Sign cOII\'cntion: 
+measurements forward are negative (-), measuremeI1£S af£ are positi\'e( +). 
+Vert.irallIIeasuremenLs are lO be Laken from the bOLLolll of"thc ked plale. 
+:-\ 
+
+===== PAGE 17 (1429 chars) =====
+It is recommended Lhat vessels longer than 200 metres Length Over All 
+(LOA) shoulrl be marked at five points on faelt side: forward, midships 
+and aft as usual awl also at the mid points between these positions, This 
+allows a more ao.:lll'alc assessmelll of an)' hogg'ing or sagging- effects. 
+'I'he positions of the draught marks n:lativc (0 the appropriate perpendicular 
+should be included in the dala manual. 
+li nlortunatelv (his daLa ll1illlllal is ofi.en not a vailablc. 
+HYDROSTATIC PARTICULARS 
+Illfonnation is calibrated agaillsl draught. uS\lally illr Ihe cyen keel condition. 
+The displacement is the weight of the ship. derived from 
+volume of water displaced by the ship x apparent density. 
+In the lllctric system, this displacement is ofLen given in tOIll\(' of'salt water at 
+apparelll density (weighl ill air) uf 1.025 tonne/m:'. 
+It is imponant to establish the exan weight lO volume relatiollship. 
+DRAUCHT AND FREEROARD 
+Forward draught 
+The distance from lhe bottolll of' the keel to the \\'ateriine Oil i1w li)rward 
+perpendicular when the ship is IIpright. 
+Aft draught 
+The distancc /i'om the bO\JOJll ol'the keclt() ill(' waterlint' on rhe all perpcndicular 
+whell Ill(' ship is upright. 
+Freeboard 
+The distance fi"()11l the waterline to the deck line. normally measllred midships 
+Depth of ship 
+The disLance from the IJOUol1l or the keel to rhe deck line. That is: 
+Depth = draughL + freeboard 
+9 
+
+===== PAGE 18 (2198 chars) =====
+Arithmetic mean draught (AMD) 
+The arit.hmetical mean of the iorwanl draught and the air draught will equal the 
+draught midships if there is no hog- or sag, this is called the arithmetic mean 
+draught. 
+Hut a ship trims about the longitudinal centre of flotation (LCF). 
+True mean draught (TMD) 
+When a ship trims due to shifting a weight, i.e. no change of displacement., the 
+only draught which does 1/01 change is the draught at the longitudinal centre of 
+flotation. It is this draught which will give the appropriate displacement on the 
+hydrostatic tahles, and it is called the trlle mean draugln. The position of the 
+LCF is there!ore critical to a draught sUl"\'ey. 
+The diUerellce hetween the trill' mean draught and the arithmetic mean draught 
+is known as the layer correction. 
+Trim factors 
+Some stahility iniormatioll hooks tabulate trim factors, /i"Jrward and alt, bur no 
+posit.ion ior the longitudinal centre oftlot<lt.ioll (LCF) forward of the all perpendicular 
+(AP). 
+The LeF can be found from the trim faCfors by the following ii.mnula: 
+LCF from AP = length between pcr:pendiculars x aft trim factor 
+forward trim factor + aft trim factor 
+Trimmed hydrostatics 
+Some ships are supplied with 'trimmed h),drost;nics'. These normally consist or 
+'icvcral set.s or hydrostatic data each onc calntlated It)r a panicular trim. They 
+may be in 20 cm steps covering the range of trims over which the vessel is 
+expect.ed to operate. Each set. or hydrostatic data consists of di'iplacelllellls 
+t.abulated against draught for a particular density. The densities may be in 
+increments of 0.005 iium 1.000 to 1.025 and the draught.s ill :> Clll steps. Such 
+tables avoid the need for hot.h t.he 1st and 2nd trim corrections and abo thc 
+density correction which are described within I.he chaplcr Assessmmt of underwater 
+volume on pages 16 10 3 i. 
+Trimmed hydrostatic tables need to be interpolated for draught. densil.y and 
+trim in order to find the correct dispiacelllclIl. This interpolation is fairly 
+diflicult and needs care!i.ll thought in order la achieve an accurate result. 
+Check the use of trimmed hydrostatics in the introduction to the stability 
+information book. 
+10 
+
+===== PAGE 19 (1806 chars) =====
+DEADWEIGHT OR DISPLACEMENT SCALE 
+The displan~mcnt, dcadweight, tonnes per centimetre immersion (TPC) and 
+moment to change trim per centimetre (MeTC) for salt water are shown against 
+the true mean draught (TMD) in the dea(h\'(~ight or displacemelll scale. It may 
+also show the same {(H' fresh wateL 
+If only salt water values are g'iveIl then the scale shollld be elllered with the 
+TMD in actual observed density. Calclllations should Le carried Ollt with these 
+figllres as the density correnion will take care of the alUustmcnts at a later stage. 
+The scale will also show sUlluner load draught alld t he lightship draught. It will 
+relate the final 'I'M I) to the linal displacement. Study it careliJIly lO make certain 
+or t.he weight. to vollllJle relationship. 
+CAPACITY PLAN AND TABLES 
+The capacity plan shows all the cargo compartments, ballasl spaces ,Ind blinker 
+tanks Oil the ship. 
+Capacity tables list every space in the ship which Illay be used f(ll' cargo, ballast., 
+stores, fuel, lubricating oil and fresh water. 
+The position or each space is indicated hy the number of the ship's ii'ames at 
+each extremity or the space. 
+The volume of each space. in cubic metTes, is lisLed for: 
+Grain space -
+Bale space 
+the gross volume measured to the ship's side plating. 
+Lhe neU volume measured to the inside ol'thc frames 
+or spar ceiling (cargo battens). 
+Spaces {(1I' liquid only are tabulated in either CIIbic 'l1l~tres or the numher 01' 
+tonnes of the liquid which the Lank Ilormally holds. specifying the density IIsed 
+t.o calculate those tonnes. If the tables give cuhic metres then these must be 
+mult.iplied hy the oh served density to flnd tonnes. If t.he t.ables giH' tonnes then 
+they must be divided by the density or t.he t<lhle and multiplied by the observed 
+density. 
+11 
+
+===== PAGE 20 (1750 chars) =====
+SOUNDING TABLES 
+Suunding t.ables are separate mhlcs, olten found in the care of the chief oilicer 
+amI/or the chief engineer. 
+The tables may be calibrated wit.h either soundings or ullages. 
+The calibrations may use cubic metres (i.e. tonnes offresh water) or the average 
+density of the liquid which is normally carried in the lank and give tonnes ol'that 
+liquid. 
+For accurate assessment of the quantity ofliquid in any tank, the actual density 
+of t.he liquid should be determined and the quantity rc-calculated. 
+CORRECTION TABLES AND DIAGRAMS 
+Sounding correction tables 
+The sounding rabies will have been calculated 10r the ship Oil ;\11 e\'en keel. 
+Correct.ion tables should accompany any suunding t.able of a tank le)r which the 
+sOllllding pipe is not at the longitudinal cent.re or t.he tank. 
+The table should gi\'e the correction for any sounding and !ill' each metre of 
+trim oft.he ship over the normal operaling range oftrirns and require interpolation 
+fill' t.he actual trim. In the absence of SIKh t.ables, calculations will have to be 
+made from t.he uriginal plans. 
+Trim correction 
+The stability information book may include a table to apply the corrections for 
+trim. Investigale carefully whelher this includes bot.h the 1st. and ~nd. t.rim 
+corrections. Scc pages 30 lu 3:1. 
+Position of marks 
+The stability inlormation hook may provide a correction t.o apply to the appropriat.e 
+drallght readings t.o correct the reading, to the value it would have had, al the 
+correcl position. 
+See pages 21 to 26. 
+Hull deflection 
+The stabilit.y inforrnat.ioll book may provide a special means of calculating the 
+vessel's hull liislO1'lioll correction when calculating an accurat.e underwater 
+volume. See pages ~6 to :~O. 
+12 
+
+===== PAGE 21 (354 chars) =====
+Hydrometer certificate 
+British Standards Insrilule (BST). Tntel'llalional Slalldards Organisatioll (ISO) 
+or rhe Zeal certificate of conformity. pro\'idcs I h(' appropriare correcllon to 
+apply to rhe hydrometcr 
+.. ', 
+. ; 
+. ~~
+. 
+'I> " 
+". 'j" ' . 
+.. ' . ' 
+,;,,0:11 
+~'I\'" 
+By killd permissioll of ( ; ) I Zeal I,td, 
+Hydrometer and certificates 
+
+===== PAGE 22 (1546 chars) =====
+PLANS 
+General arrangement plan 
+The general arrangement plan shows the layout of the ship and indicates all the 
+spaces within il. It gives the position of all the spaces, t.heir lIse and capacity. 
+Other plans 
+More detailed plans of ballast tanks and bunker t<lllks may be necessary. 
+Ifthe vessel is t.rimmed it may be imporl.ant to know the horizontal surface area 
+of liquid in t.he tank and the relative position of the sounding pipe in order to 
+assess the quantity of liquid in the t.ank accurately. 
+LIGHTSHIP 
+The lightship weight is t.hat which has been determined during an inclining 
+experiment.. 
+It includes: 
+the ship and its full equipment, engine room spares. ,·valer in t.he boilers 
+to working level and lubricating oil in the engines. 
+It does not include: 
+personnel, cargo, fuel. stores and water. 
+Growth of lightship 
+The inclining experiment may have been performed a considerable t.ime ago, 
+but, over a period of years, the lightship weight will increase. This is due to t.he 
+changes in the equipment., t.he build up or paint over the ship, the storage of old 
+equipment, mud in the hallast t.anks, the aeculllulat.ion of dunnage ele. This 
+phenomenon is known as the growth of lightship and is t.hought [0 amount to 
+ahout 0.2% of the light displacement pc!' annum. This b'Towth is accounted fin' 
+in the lightship constant. 
+Lightship Constant 
+Vessels which regularly assess their lightship weight find t.hat the wei~ht from 
+their calculations differs li'om the tabulated value in the stahility inlormation 
+14 
+
+===== PAGE 23 (613 chars) =====
+book. This difference is named the lightship constant at that particular draught 
+survey. 
+A record should be kept of the Iight~hip constant at each draug'ht survey. It may 
+not be a constant. value since it is the result of inaccuracies of calibrations, 
+accumulations of sludge, unsymmetrical hull distortion and many ot.her fact.ors. 
+It can only be used for a guide to the consistency of results and the variations 
+experienced on previous surveys. 
+When carrying out a dcadweight survey the value oUhe lightship constant ma)' 
+become more significant and a record of previolls values is then important. 
+15 
+
+===== PAGE 24 (1883 chars) =====
+ASSESSMENT OF 
+UNDERWATER VOLUME 
+The underwater volume of the ship, and ult.imatel)· its displacement, is normally 
+f(>und by carefully reading and analysing the drallght marks and by careflllly 
+est.ablishing the density of water in which the vessel is floating. 
+The corrected mean draught is used LO enter the hydrostatic tables in the 
+stahility int(JrI11ation book and t.o find the appropriate displacement equivalent 
+to this draught and density. This ,·alue must then be corrected to determine the 
+precise weight 0" the ship in its present circumstances. 
+GENERAL DRAUGHT MEASUREMENT 
+The draughl. survey is based upon the accurate reading of the draught marks, 
+therefore no effort should be spared to achieve accuracy. Draughts should be 
+measured to two decimal places, that is to the nearest centimetre. 
+Bciore cargo operations commence, the water densit.y and all six draught marks 
+should he read, recorded and comments made on the prevailing conditions. 
+During the time Ihat the readings are being made, uo lransfer or discharge of 
+liquid of any sort, or movement of any weight wirhin the ship, should be allowed. 
+Tht, draughts and density should be wken again 011 the mmplerioIl of the 
+loading or discharging operation. 
+Measuring the draughts in a swell 
+I n turbulent conditions there may be waves, swell, pilching and rolling' to take 
+into account. 
+III these conditions, the wave pattern should he ~tudied to 
+establish the wave cycle. During a series of average waves the mean 0" lhe 
+highest and lowesl drau~hl readings should be recorded. 
+A lotal of J 2 mean readings should he obtained. The highest and lowest means 
+should be rejected and then tbe average of the n:maining t.en will give the most 
+accurate reading possible IInder the circumstances. 
+The forward, an and midships drallghlmcasurements shollld all be found in a 
+similar £Ishion. 
+16 
+
+===== PAGE 25 (745 chars) =====
+QUESTION 1: 
+The following are mean draught reading~ (in rnctres) over an observed cycle 
+of waves. Calculate the appropriate draughl. 
+11.25 
+9.RO 
+J J AO 
+9.70 
+11.35 9.75 
+I I.;W 
+9.60 
+11.00 9.90 
+J 1.25 9.70 
+ANSWER: 
+Reject 11.40 and 9.(i() m. Add remainder = IOf). 
+Estimated drallg'hl reading = 105/1 0 
+= 10.50 Ill. 
+DRAUGHT MEASURING EQUIPMENT 
+A measuring device may be llsed to improve the accuracy of the draught 
+measu rem en t. 
+..~ 
+.... 
+".... --
+" 
+-.--
+"" 
+-
+'.--.-
+' " 
+-. .. 
+" 
+' 
+Such devices arc hased on the principle that the turhulence on the surface o{' 
+the W<lter does not eXlend dowll \0 <lily gre<l( tkplh. They use a long, flexible. 
+open ended, weighted hose pn~jeclillg downwards to below the turbu\cnre, 
+17 
+
+===== PAGE 26 (1002 chars) =====
+The device is held directly in h'ont of the draught marks and, after allowing a 
+few seconds for the tubes (0 fill with water, the mean water level is indicated by 
+the float. 
+The float may have a small rise and tall, hut this will be minimal compared with 
+the wave motion. 
+r . 
+Weight 
+~Airhole 
+r-'~ 
+8 
+Float 
+6 
+4 
+2 
+The device is diHicult to me al the bow and the stern. It should be held close 
+enough to the draught marks under the overhang of the bow and the stern to 
+avoid parallax. The device may be attached to the hull by a strong magnet. 
+A statement describing the prevailing sea conditions should he included in the 
+survey report to avoid a dispute later. 
+DRAUGHT READING ON OUTBOARD SIDE 
+Every attempt should be made to read the draughts on the ()ff.~hore side of the 
+vessel although, in some situations, this may prove to be impractical or even 
+dangerous. In such an event, the onshore marks should be read and the other 
+side calculated wit.h t.he help of a manometer. 
+18 
+
+===== PAGE 27 (1048 chars) =====
+, 
+• 
+cl,: -
+1 
+.' " 
+, " . ' 
+• 
+, 
+• 
+11 11 = 2d 
+~-
+I 
+-, 
+i 
+i 
+Deckline 
+I 
+The manometer should comprisc of a short. length of clear. rigid, plastic tube 
+filted to each end of a hose, to facilitate the measuring of thc water levels. If 
+possible the hose should stretch the 1tl1l beam of the vessel and the measurement.s 
+should be taken at the exl.rcmc breadth. The ollthoard reading is found by 
+adding or subtracting the manometer reading (2d) to the inboard draught.. 
+When this proves impossible, then the mean draught at the celllreline, may be 
+calculated using similar t.riangles. 
+\ 
+= 
+The levels must be measured Ii-om the same base line, and t.aken at equal 
+dist.ances from the centreline on both sides of t.he vcssel. 
+All air must be excluded {i'om the hose and the water levels in both tubes kept 
+at a height which is higher than the deck at the c:cnLrcline. 
+The heighL~ of water levels, on both sides of the ship, are measured above the 
+deckJine (h) or some other fixed level. The difference between the two heights 
+19 
+
+===== PAGE 28 (1485 chars) =====
+is then halved and the result (d) is added to, or subtracted from, the one 
+draught reading to obtain the mean draught at the centreline. 
+QUESTION 2: 
+The port draught midships = 8.00 111. 
+The starhoard side is to be found by manometer, where the readings are 
+taken at 8.50 m on either side of the centre line. 
+The vessel's ii.lll beam = 20.85 m. 
+Calculate the midships mean draught (ie. centre line draught) if there is a 
+dillerence of" 25 cm between the two readings of rhe manometer and the 
+starboard reading is the higher. 
+ANSWER: 
+Effective bealll 
+= u, •• :")() x 2 
+I'"' 00 III 
+o 
+_ 
+I. 
+. 
+By sirnilar triangles 
+0.25 / 17 
+-
+d / 20.85 
+cl = 20.85 x 0.25/ 17 
+0.307 IIJ full beam difference. 
+Half beam diHcrencc 
+Cenudinc draught 
+= O.:~07 I ~ 
+= 0.153 + S.O() 
+0.153 m. 
+-
+8.15:~ m. 
+Not.e: It may be more practical ill some situations to measure the midships 
+freeboard and fj'om this calculate the midships draught. 
+DRAUGHT GAUGES 
+Draught gauges lIIay he very helpful as a check, but should never replace the 
+reading of" draughts using the fixed drallght. marks Oil the ship's hull. 
+SQUAT 
+While measuring the draught, when there is a strong current running and 
+there is waler depths 01 less than twice the draught of the vessel, the draught 
+readings may be misleading, due to the eilects of squat. 
+The survey report shollld include referelln: to l)()ssibll~ sqwll eJJl!us, even if a 
+suitable correction to the draught readings canllot be determined. 
+20 
+
+===== PAGE 29 (1009 chars) =====
+CORRECTION OF DRAUGHTS TO PERPENDICULARS 
+AND MIDSHIPS 
+Firstly, correct observed draughts, iorward, aft and midships, for the effect of 
+any list or heel by calculating the mean of port and starboard in each case. 
+Note; see notes on page 26. as there may also be a list correction (in tonnes) to 
+apply to the displacement. 
+Secondly, when the vessel is Irirn.rnRd and the vessel's draught marks are not sited 
+at the correct position on the perpendiculars; corrections to the observed 
+draughts must be applied. This incorrect positioning of the draught marks may 
+be termed misjJIIlt:emlml of marh. it is shown in the photohTJ-aphs on pages 22 and 
+23. 
+FP 
+w: 
+LBP 
+AP 
+----1-
+1"'--- -
+I 
+\ 
+I 
+1 
+I 
+: 
+AP 
+ait perpendicular 
+FP 
+forward perpendicular 
+LBP length between perpendiculars 
+D AP draught at aft perpendicular 
+Da 
+draught at aft draught marks 
+D M. draught at midships 
+Dm 
+draught at midships draught marks 
+D FP draught at forward perpendicular 
+Df 
+draught at forward draught marks 
+21 
+
+===== PAGE 30 (73 chars) =====
+Misplacement of marks mlCiShlps 
+Paul Coombs 
+Misplacement of marks aft 
+
+===== PAGE 31 (44 chars) =====
+Paul Coombs 
+Misplacement of marks forward 
+
+===== PAGE 32 (1139 chars) =====
+Forward correction 
+M1 correction 
+Midships correction 
+Where: 
+apparent trim 
+Sign convention: 
+apparent trim x distance D FP to Df 
+distance Da to Df 
+apparent trim x distance D AP to Da 
+distance Da to Df 
+apparent trim x distance D M to Dm 
+distance Da to Df 
+the difference between Da and Df 
+If the direction of misplacement of the draught mark ii'om the perpendicular 
+(or midships position) is the same as the direction of the trim, then the correction 
+is negalirH! (-) when applied to the observed draught. 
+Note; even keel would not require the above corrections to be applied. 
+QUESTION 3: 
+With reference to t.he following paniculars, calculate the correct draughts, 
+forward, aft, and midships, if the observed draughts are: 
+torward 6.~~5 m aft 7.88 m midships 7.12 m 
+Position of draught. marks: 
+Forward: 
+0.11) III aft. of line of stem at slimmer load line (SLL). 
+Rake of stern = 22°. summer load draught = 10.471 m. 
+Aft: 
+6.00 111 forward of AI'. 
+LBP = 170 m. 
+ANSWER: 
+Apparent trim 
+Arithmetical mean draught 
+Midships draught 
+= 7.88 - 6.35 
+1.!l3 III 
+= 7.115 m 
+= 7.12 
+Vessd nul sullerillg trom hog or sag 
+24 
+
+===== PAGE 33 (1505 chars) =====
+Distance from SLL 
+10.471 - 6.350 
+4.121 m 
+By simple trigonometry 
+Tan 22° x 4.121 
+-
+1.665 m 
+Distancc from FP 
+1.665 + O.lS 
+-
+1.815 m 
+Length between marks 
+= 170 - (6.0 + 1.815) 
+162.185 m 
+Correction forward 
+= 1.53 x 1.815 / 162.185 = -0.017 m 
+Draught forward 
+= 6.350 - 0.017 
+= 6.333 m 
+Correction aft. 
+= 1.53 x 6.00 / 162.185 
+= +0.057 m 
+Draught aft. 
+= 7.88 + 0.057 
+= 7.937 m 
+CORRECTIONS WITH HULL DEFLECTION 
+The corrections to rhe perpendiCIIlars and rnidships assume lhallhe keel or the 
+vessel is straight. When the vessel is hogged or sagged, these corrections may no 
+longer be correcL. Thc tabulated corrections in the st.ability information book, or 
+the formulae on the previous page, must be colTt."Cted to the particular circumstances. 
+The easiest method to finclt.hcse corrections would be to use t.he t.rim between 
+the midships mark and the particular end draught t.hen calculate using this half 
+lengt.h trim, the half length and the distance of the misplacement. 
+Repeat this procedure al.lhe other end draught mark with the similarly modified 
+trim, the half length and the distance or misplaccmenl. 
+EXAMPLE: 
+Obscrved draughts forward 6.00 m midships 6.40 III an 7.40 m. 
+Dist.ancc of forward mark from FP = 2.0 m aft 
+Distance of aft mark from AP = 5.0 m forward. 
+LBP = lOOm 
+Total trim = 1.40 m AMD = 6.70 m. Thcrefore the vessel is lwgged. 
+Trim fi.Jrward to midships = 0.40 m 
+Forward correction 
+Forward draught 
+= 2 x 0.1 1(50 - 2) -
+- 0.017 m 
+= 5.983 III 
+25 
+
+===== PAGE 34 (1392 chars) =====
+Trim aft to tnidships 
+= 1.0 m 
+Aft correction 
+Ait draught 
+-
+5.0 x 1.0 I (50 - 5) 
+7.511 m 
+-
+·HUII m 
+CORRECTION FOR LIST 
+\-\'hen a vessel lists, it often rises in the water. This means that the mean of the 
+side draughts is a cemreline draught which is less than the actual draught that 
+would have been observed, had the vessel been upright. This Illay be ignored 
+for small angles of list, however, if the draught survey is 10 be carried out on a 
+vessel which has sullcred a cargo shifi or is lying at a large angle of list, then it 
+should he calculated. 
+111e correction, in tonnes, to be applied to the displacement, is by the iormula: 
+Correction for list = 6 (TPC2 - TPC1) X (d2 - d) tonnes 
+\'v'here: 
+d~ and dl 
+TPC, 
+TPC2 
+midship draughts on each side. 
+-
+the TPC equivalent to the draught d I 
+-
+the TPC equivalent to the draught d~ 
+Sign convemion: Always positive (+). 
+QUESTION 4: 
+Vessel is listed 5°. The draughts midships arc: 
+Port 
+Starboard 
+ANSWER: 
+G.OO III (equivalent TPe 32) 
+8.00 111 (equivalent TPC :\4) 
+Correction = 6(34 - 32)(8.00 - fi.OO) = 24 tonnes positive (+ ). 
+Note; it. will normally be a slllall correction. 
+HULL DEFLECTION OR HOG AND SAG 
+When the observed draughts have been corrected for list and displacement. of 
+marks, an arithmetical mean ofrhe forward and ail draughts must be calculated, 
+ie. the arithmetical mean draught (AM D). 
+26 
+
+===== PAGE 35 (1231 chars) =====
+Compare the AMD with the corrected midships draught to establish whether 
+the hull is distorted. The AMD should cYllal the draught mid ships if the ship 
+is neither hogged or sagged. 
+• 
+Actual freeboard I , .---
+Anllal clraug-ht ~ ,AMD 
+HOG 
+SAG 
+Actual fr~_ehoard, • 
+---
+'---r-
+Actual draught ~ 
+AM D 
+-
+------
+If the actual draught is less than AMD then the vessel is hogged. 
+If the actual draught is bJTl!fllm- than AMD then the vessel is ~agged_ 
+METHODS USED TO CALCULATE THE EFFECTS OF HULL 
+DEFLECTION 
+Every effort should be made, taking into account the information available, to 
+determine the appropriat.e correction for hull deflection. The ultimate accuracy 
+or the survcy rcslllt~ are normally dependant on this correction. 
+It is difficult to establish the ship's distorted shape precisely but the {allowing 
+factors should be t.akell into account: 
+Residual deformation 
+Bunkerslballast distribution 
+Cargo distributioll 
+Daily variation. 
+Larger vessels can be liable to daily variations in the amount of hull deflection. 
+. 
+. 
+By day, the sun heats the upper parts of the vessel, resulting in a hogged 
+condition. The same vessel may sufler sagging when the upper portion loses its 
+heat at night. 
+')"" 
+_I 
+
+===== PAGE 36 (1358 chars) =====
+The assessment of the vessel's shape will eSlablish the appropriate draught to 
+enrer the hydrostat.ic dam, in the stability information book. This will determine 
+the displacement for that particular insGll1l. 
+METHODS 
+There are several methods ofca\culating the correction for hog or sag. Agreement 
+on the use of one of these alternatives must be made before the proposed voyage 
+begins and adhered to until the voyage ends. These methods only t.ake into 
+alcount. hull deformation or deflection. 
+Method 1. 
+Some ship's stability information books have a table of corrections to apply to 
+the extracted displacement. When this table or graph is used, then this faCL 
+should be stated on the repon so that it can be used throughout. 
+Method 2. (The most common and simplest method) 
+Assume that the deformed shape of the vessel follows a regular mathematical 
+curve. 
+This correction is dependant on the block coefficient. 
+(i) For finer lined vessels: 
+Mean Adjusted Draught _ (6 x D M) + D FP + D AP 
+8 
+This is oft.en referred to as "the mean of mean of means". 
+(ii) For fuller fonn vessels, and box-shaped vessels: 
+Mean Adjusted Draught = (4 x D M) +6 D FP + DAP 
+Where; 
+Mean Adjusted drall!;ht 
+DM 
+o FP 
+OAP 
+Draught midships corrected for hog 
+and sa!;. 
+Draught midships. 
+Draught at forward perpendicular. 
+Draught at aft perpendicular. 
+28 
+
+===== PAGE 37 (980 chars) =====
+QUESTION 5: 
+The "esse! has a sleek (urm lor a last f.Mssage, bUI is slIffering from hllll 
+deflect.ion. 
+The drallghts ar the perpelldiculars arc /clrward 5.64 III aft. 6.42 III 
+The draug'hl midships is G.ll Ill. 
+\Vhat is the true mean draught. taking illto an:OIIllI Ihe dis\orlion olthe hull. 
+ANSWER: 
+\fean adjusted draught 
+Method 3. 
+_ (G x G,ll) + 5.G4 + (JA2 
+H 
+-
+(i.()~) III 
+'I'his correction is dependem 011 the cuelIirie III of fineness (wa Icrpla lie coefficient), 
+The codlicicnl is lIScd 10 enler the graph (inclllded in some stability infi.Jl'IIJalioJ\ 
+books) to obtain a "[leLor". 
+F 
+0.8 
+A 
+C 
+0,7 
+T 
+0 
+I"---~ 
+r---...... ....... ~ 
+-......... 
+R 
+0.6 
+O.(i 
+0.7 
+O.R 
+0.9 
+\VATERPLANE COEFfICIENT 
+Then: 
+Mean adjusted draught = AMD + factor(D M - AMD) 
+QUESTION 6: 
+A vessel is lIoating at the (ollowing draughts: 
+forward 5.80 III ah 6.20 m midships 6.) 8 III 
+Note: These draughts have been corrected to rhe perpendiculars, and midships 
+marks. 
+29 
+
+===== PAGE 38 (1695 chars) =====
+Calculate the true mean draught raking illlo account the distortion ofthe hull 
+using the waterplane coellicient table. The watcrplane coefficient. tabulated 
+in the stability intt')\'mation book = 0.60 
+ANSWER: 
+Extracted factor 
+-
+0.76 
+A.M.D. 
+-
+(5.80 + 6.20) / 2 
+Mean a<ljustcd draught 
+6.00 + 0.76(6.18 - 6.00) 
+Method 3 alternative 1. 
+= 6.00 m 
+= G.t:n m 
+The extracted tactor can be used directly to determine a correction in tonnes to 
+apply to the final displacement. 
+Correction (tonne) = factor x TPC x hog/sag (cm) 
+\\,'here: 
+hog/sag' (cm) 
+-
+(D M - AMD) x J on 
+Method 3 alternative 2. 
+The g-raph or table iL~elf may be adapted t.o give a correction table dircctly in 
+t.onnes (i.e. tactor x TPC) tC)!' each ccntimetre or hog or sag. This would giye 
+a correction to apply to the final displacement by entering the table with the 
+AMD and the hog/sag in ems. 
+Other alternative methods 
+These require addit.ional draughl/freeboard measurements at points other than 
+perpendiculars and mid ships, along the vessels length. This is very diHicuh. to 
+est.ablish. See Data manual Jor draught sW've)'s, pages 8 and 9. 
+CORRECTIONS FOR TRIM 
+There may be a total trim correction table included in the stability infi)rmation 
+book. This will normally combine the following J st. and 2nd, conn:lions. Find 
+oUl what it includes, and examine the ships st~lhilit}' data carefully before 
+conduct.ing a survey. 
+FIRST TRIM CORRECTION (CORRECTION FOR LAYER) 
+The displacement scale is normally calculaled on the assumption that the vessel 
+is lying on an even keel. The first trim correction is to correct. the draught 
+midships to the true mean draught., at. the centre of flotation. 
+30 
+
+===== PAGE 39 (1008 chars) =====
+This correction is known as the correction lor layCJ" (or layer correction). 
+W 
+\,\1 
+l-
+I 
+AP 
+, 
+"-. 
+-
+[ er 
+I 
+TMD 
+--- '-"-
+LB]> 
+I , 
+I 
+i 
+FP 
+I 
+if 
+I' 
+. 
+Layer CorrectionL 
+~ Trim 
+AMD 
+I , 
+1- ----
+./, 
+, ., 
+I 
+-, 
+AP 
+TMD 
+AMD 
+LCF 
+LBP 
+air perpendicular 
+true mean draught 
+FP 
+lorward perpendicular 
+arithmetical mean draught corrected filr hog' or sag 
+longitudinal centre of flotation 
+\en glh bet.ween pCl'pcmliculars 
+Layer correction(metres) = (distance LCF to midships) x trim I LBP 
+thcn TMD = AMD ± layer correction 
+1st trim correction (tonnes) = layer correction x TPC x 100 
+Metric: 
+L 
+1st trim correction(tonnes) _ (distance LCF to midships) x TPC x trim(cm) 
+LBP 
+Imperial: 
+1st trim correction(tons) _ (distance LCF to midships) x TPI x trim (inches) 
+LBP 
+Actual displacement = tabulated displacement ± 1st trim correction 
+Sign convention: 
+Trim 
+AJt 
+FOl1l1flrd 
+LCF for..vGrd of miashlj)s 
+negative (-) 
+positive (+) 
+31 
+LCF aft ()f mitMij)s 
+positive (+) 
+negative (-) 
+
+===== PAGE 40 (1363 chars) =====
+QUESTION 7: 
+A vessel of LHP 1.10 m has the {(JlIowing draug-hts: forward 6.85 m aft 7.25 m. 
+The LCF is situated at a position iO m forward of' tilL AP. 
+TPC = 40. 
+Calculate the first trim cOlTeujon in tonnes. 
+ANSWER: 
+I st. trim corn:ct.ioll 
+_ 5 x 40 x 0.40 x 100 
+150 
+-
++ !);~ tonnes 
+SECOND TRIM CORRECTION 
+This is a correction {(Jl' the shift. of t he centre of flotation (LCf) which occurs as 
+the vessel changes its trim. 
+The position of the L<:I-', as specified in the 
+hydrostatic paniClliars, is normally lor the e\'en ked condit.ion. 
+The draught at the final positioll of I.CF is required. 
+Metric 
+2nd trim correction (in metres) = trim(m) x (MCTC~_. MCTC,l 
+2 x TPC x LBP 
+Where: 
+~vIC'J'C~ 
+~-1Cn~l 
+I\·lCTC for the draught at the AP 
+I'vlCTC for the draught at the FP 
+and 
+or 
+vice versa when trimllled by the head. 
+Howcyer the 2nd trim correction is normally calculated in tonnes as follows: 
+, 
+• 
+2 
+2nd trim correction (in tonnes) = 50 x trim (m) x (MCTC2 • MCTC,} 
+LBP 
+Where: 
+MeTc" -
+MeTe for mean adjusted draught + 50 cm 
+and 
+MCTC 1 
+~ICTC for mean adjusted draught. - !)() cm 
+Imperial 
+2nd trim correction (in tons) = 6 x trim(ft)2 x (MCT1"2 - MCT1'\2 
+LBP 
+Where: 
+MCTI"2 
+~ICTI" for mean adjusted draug'ht + () in 
+and 
+MCTI"I -
+I\ICTI" {(Jl' mean adjusted draught - () in 
+Sign convention: 
+Always positive (+) 
+'1 ') 
+.l_ 
+
+===== PAGE 41 (1399 chars) =====
+QUESTION 8: 
+A vessel is floating in salt water with an AMD of 6.10 m corrected for 
+deflection and a trim of 1.4 m by the stern. 
+Extracted values from hydrostatics: 
+MCTC lor 5.60 = 310.0 
+LRP = 170 m 
+,",{('T(' t' . 6 60 -
+'!<)') l' 
+1" 
+-" 
+-" 
+01 
+. 
+-
+:1 __ .,.' 
+Calculate the second trim correction in t.onnes for the vessel in this conditiun. 
+ANSWER: 
+Trim = 1.40 III 
+2nd trim correction -
+"(") 
+1 <~ "r)2') (J 
+~ll()) 
+:J 
+x 
+. or X 
+.J _.. -.' 
+170 
+DENSITY 
+-
++ 7.4 tonnes 
+Determine the water density at the time of taking the draughts using a gloss 
+hydrometer, designed f(Jr draught surveys, and marked: 
+1. M edium surface tension 
+2. Apparent density in kg/lscale range between 0.990 to 1.040 
+Note: 1.000 kg/l = 1.000 t/m
+J 
+;). Instrumental standard 15° C. 
+The instrument sholJld he provided with a cenilicate or conlimnit)' with a 
+maximum error nol exceeding "x" kg/l tested against a natiomll standard. Sce 
+photograph on page 13. 
+If the hydrometer used is graduated with a dinerent scale to that quoted above 
+r.hcn it is not t.he standard type so additional corrections may be required, see 
+conversion details tor Altemotive H.'Vdromdl!n on page 53. 
+CORRECTION FOR DENSITY 
+Actual displacement == 
+tabulated displacement x density 1 
+density 2 
+\\!here: 
+density 1 = average density of water sampled. 
+density ~ = density specifieu in the hydrostaLic information. 
+33 
+
+===== PAGE 42 (91 chars) =====
+Taking a ballast sample 
+Hydrometer showing meniscus using a mirror for the rear view 
+34 
+
+===== PAGE 43 (71 chars) =====
+The sounding tape 
+The tools of the draught surveyor 
+35 
+Paul Coombs 
+
+===== PAGE 44 (1339 chars) =====
+Note: 
+1: 
+Do apply the hydrometer index error, if any. Tt is quoted on the 
+certificate. 
+2: 
+Do 1101 apply any correction for temperature. 
+j: 
+Do nol cHljust the draught for the density, but do COITeC[ the 
+displacement instead. 
+4: 
+Do enter the hydrostatic tables with the actual TMD, irrespective 
+of' density, clllci then convert t.he extracted value to the correct 
+density at the final calculation. See check list page!) 1. It. is wrollg 
+to convert the TMD to a salt wmer Tl\.fD and then cntcr the 
+hydrostatks. 
+5: 
+Do extract \ICTC, LCf ete. {or the actual TMl) and use these 
+extracted values to calculate the 1st and 2nd trim corrections. 
+6: 
+The stability int(mnation book should quote some form of relationship 
+between weight and VOIUlllC:-
+1 cubic metre of tj·esh water 
+-
+1.000 tonnes 
+I c1lbic metre of sail water 
+-
+1.025 tonnes 
+or similar figures. 
+This /'xlulI/,lp. giilP..\ flfJj](Jl"ent ljrusily in the same 
+units used by Ih" Zeal dmllghl SlIJ1J(,' h)'rlrll1l/1d(~1". 
+QUESTION 9: 
+. rile extracted hydrographic displacement equivalent to rJw observed draught 
+of 5.30 m = 15250 tonne for salt. water where I m:i of salt water = 1.025 
+tonnes. 
+Find: 
+true displacement if the a\'erag(~ ohserved apparent densit.y -
+1.015 t/lII:l. 
+ANSWER: 
+Actual displacelllcllL 
+-
+15250 x 1.015 / 1.025 -
+15)01.2 Tonnes 
+3G 
+
+===== PAGE 45 (918 chars) =====
+ASSESSMENT SUMMARY 
+The corrections in this chapter rnay he applied to the observed draughts to 
+convert them to a draught that can be used to elller the ship's hydrostatic 
+particulars in order to determine the correct uisplacement. 
+Some of the cor~ecti()ns Illay be calculated in tonnes or in metres. Experienu: 
+anu speed of calculation has shown that the latter corrections should be calculated 
+in tonnes (instead or metres). and used to correct a value of displacement 
+extraeted fi'ol11 the hydrostatic pal'liculars in the stability information book. 
+The observed draughts are corrected to the perpendiculars and midships. the 
+hull deilcction found and the hydrost;ltics entered with the cOlTecled arithmetical 
+mean draughl (Ai\-ID). The displacement extracted is then adjusted with the 1st 
+and 2nd trim corrections and the correction fiJr density. all in tonnes. 
+See (orrer:liom du~d( li.\l on page 51. 
+
+===== PAGE 46 (1705 chars) =====
+DEDUCTIBLES 
+The deduclibles arc l.he components of the ship's total weighl, which must be 
+rleducted from the calculated displacement in order to determine the wcight of 
+cargo on board. 
+The lotal weight of the ship will be made up of:-
+Light displan:lIlclll, (remember; components may be missing c.g .. 
+anchors our). 
+Cargo 
+Ballast 
+Fuel and fresh water 
+Swimming pool water and oLllcl' casily lorg'onen weights on hoard 
+Slores and Pro\'isiol15 
+Crew and efTccL~ 
+Slorcs. provisions. crew and their effects arc likely la be constant during a 
+draught survey. and could tIC added on lo the light displacemem. 
+Preparations 
+Examine the releyam basic ship's plans showing the layout of pipes and lall ks. 
+indlldin~ Ihe locatioll of'l.hcir sounding' pipes. 
+l\'lake a note or the tank dimensions. referellce heights and obtainlhe aulilOrised 
+calibration tables for these t.anks. 
+Remember that aUl.omatic gauge readings (if lined), should he nOled fin' comparison 
+against the manu(11 readings. 
+SOUNDINGS AND ULLAGES 
+The li(IUici 'IlIantities or ballasl, (tiel and li'esh water, musr be very carefully 
+measured as soon as possible alter the draughls have lJel.:lI read. 
+A sounding is the measurement from Ihe slriker plate on the base of the tank 
+IJdow the sounding pipe Lu Lhe top ofthe liquid. See photograph on page ;):1. 
+When laking a sounding, always check thc tape is aL lhl.: bOLlum or the tank, by 
+checking the fullmeasul'emenr from the slriker plate to the top of the sounding 
+pIpe. 
+An ullage is the measuremenr from the surfacl.: of the liquid to a fIxed datum 
+pOilll, usually rhe rop of the soullding pipe. 
+Measure and record soundings (or ulJages) for cvery lank in the ship. 
+
+===== PAGE 47 (1656 chars) =====
+Check the bilges filr any liquid. 
+Some tanks may have two sounding pipes, check both. paniCIIlarly if the ~hip is 
+trimmed. 
+The sounding tables should be part oflhe ship'~ approved documentation, they 
+arc produced when the \'essel is built and therefore may have become less 
+accurate, with the passage of time. 
+SAMPLING 
+By sounding a tank and using the sounding tables. the \'olume of liquid is 
+found. \Nith the appan:nt density of the liquid, it~ mass can be determined. 
+Mass = volume x apparent density 
+Tt is most imporrant that each tank should be sampled for density as well as 
+being sounded for volume. Sce photograph on page ~H. 
+Apply the temperature correction to the dellsity readillg-
+hd()H~ using it to 
+calculate Ihe quantilY ofhllnkers in Ihe tank, when doing a bunker tank survey. 
+It is not normal to apply a temperature correction when determining ballast 
+quantities. 
+TRIM CORRECTIONS 
+The sounding pipe should be positioned at a point within the tank when: it will 
+always provide the correct sounding applicable to the sOIJll<lillg-lahlcs, regardless 
+of Ihe ship's I rim. However, this position is not always possible lo achieve and 
+correction tables for trim should then he available t.o use with the sounding 
+tables. These corrections should be calibrated 101' every haIr melre of Irim, by 
+Ihe head and hy I.he slern, over the operational range 01" trims. Alternatively. 
+sounding tables for differem trims may he pw\'idcd. 
+~-
+Sounding pipe 
+d-~ 
+~+. ~------~----------~ 
+1 
+,","""""",,,,,,,,,,,,,,,, " .. " ..... ,"'" .. " .. " ... , ... """"" ..... """.,.,,.,., ...... ,.,, .. ".,.,.,."". ,,,.,.,,,,,, 
+Tallk Centre 
+
+===== PAGE 48 (1079 chars) =====
+lfno corrections are available, it may be necessary to calculate them. Appropriate 
+measurements can be taken from the plans of lhe tank. 
+Correction to sounding (x) = d xL~; 
+where d is the distance from lhe sounding pipe to the tank centre. 
+Sign convention: 
+TRiM 
+Forward 
+Aft 
+Sounding fini/)ard of lank an/re 
+Negalive (-) 
+Positive (+) 
+SOU1uling aft of centre 
+PoSili ve (+) 
+Negative (-) 
+Note: the accuracy of this formula is acceptable, provided the hottom of the 
+t.ank is covered with liquid, and the tank is approximately rectangular. 
+QUESTION 10: 
+A ship, LB P 120 m, has a trim of' 2.0 m hy the st.ern. A sounding was taken 
+in a reclangular double bottom tank, and found to be 1.05 m. If the t.ank 
+measured length 24.0 rn, breadth 8.2 111, and the sounding pipe was 3.0 III 
+forward of the afL bulkhead, find the volume of liquid in the tank. 
+8.~ 
+, 
+3.0 
+1.05 
+ANSWER. 
+Correction to sOllnding 
+Observed sounding 
+Even keel suunding 
+Volume or liquid 
+24.0 
+d x trim 
+LBP 
+0.15 III 
+-
+1.05 m 
+-
+U.gO m 
+-
+24.0 x 8.2 x 0.90 
+40 
+9.0 x 2.0 
+120 
+-
+177.1 1113 
+
+===== PAGE 49 (1043 chars) =====
+\Vhen a vessel is trimmed a tank may appear full hut have a large void space 
+immediately forward 0(" the sounding or ullage poim. 
+Alternatively, a tank may have no soundin~s and appear empty, but still have a 
+considerable quantity of liquid remaining in it. 
+LIQUID SLOP TANKS 
+Where small quantities of ballast water remain in a hallast hold, on a trimmed 
+ship, this quantity must be included in the assessment. 
+[t. is possible to calculate the volullIe oi'this wedge ofliquid, b'om one sounding, 
+using the wedge formula. 
+The wedge iormula was developed in order to detennine small volumes of 
+cargo "remaining on hoard". 
+The formula assumes a {i'ce nowin~ liquid on an upri~ht, but trimmed vessel, 
+and also it assumes a recL1ngular L1nk where the sounding is not constrained by 
+a sounding pipe. 
+The wedge f(H'll1ula is: 
+Wedge volume = LBP x breaddt of tank x (corrected sounding)2 
+2 x vessel's trim 
+y 
+I 
+'\ 
+"1 
+J 
+-
+, 
+J 
+~ 
+P'" 
+PI 
+,l-
+4 
+The corrected sounding can be calculated by the following approximate formula: 
+41 
+
+===== PAGE 50 (1250 chars) =====
+Corrected sounding (P) == observed sounding (PI) + distance (y) x tB~ 
+Where the distance "y" is the distance £i'olll the suunding position to the end 
+bulkhead. 
+QUESTION 11: 
+From the following information, lind (he volume of oil remaining' in a lank 
+where the sounding was 0.2 m. 
+LBP ISO Ill, 
+Irim 2.0 m by (be stern, breadth of tank 12.5 m, sounding-
+position 5.0 m forward of af! bulkhead. 
+ANSWER: 
+Corrected sounding 
+\Veclge volume 
+sounding + distance x trim/LBP 
+0.2 + 6 x 2/150 == n.2 + 0.08 == O.2Hm 
+LB» x breadth x corrected sounding~ 
+trim x 2 
+1-0 
+1')!: 
+0,)0" 
+~ 
+X 
+_.~.I X 
+._0" 
+2.0 x 2 
+MIXTURES 
+\Vhen conduclinp; a blinker survey and the vessel loads hunkers, this could he 
+mixed with bunkers already on hoard. The relative deIlsity (RD), or density, of 
+the mixture must be used to calculate the total quantity of the oil in the tank. 
+The final RD or the mixture can be found by the lollowing formula: 
+RD of mixture 
+(ori~inal volume x original RD) + (loaded volume x loaded RD) 
+original volume + loaded volume 
+RESIDUE IN COMPARTMENTS 
+Tanks for liquids. particularly hallast tanks, are subject to the build up or 
+residues and scale. 
+The quantity of sediment is ditlicult la assess without 
+entering the tank. 
+42 
+
+===== PAGE 51 (1973 chars) =====
+The ellec!. on !.he ballast calculations can be minimized hy leaving a measurable 
+quantity of water in the tank instead of pumping it completely dry. The 
+calculations then use a known amount or water which can be deducled from the 
+displaccmcnt. The error due to the unknO\vn weight or sedimem is reduced to 
+the diilcrence between the dens it\! of water and the density of the sediment. 
+, 
+, 
+This accumulation of sediment will reduce the deadweight capacity of the vessel 
+and t.herefore should not be allowed to accrue indefinitely. 
+, 
+I nspcct ballast tan ks if in any doubt abollt the qualllity or sediments, There are 
+patent chemicals available to put the mud imo suspension, so that it may he 
+disposed of with the water in an appropriate and safe manner, when a suitable 
+opporLunity allows. However, these may not always he elIective; when a hard 
+crust has developed Oil I.he top of the mud, it. can sometimes only be rellloved 
+by hand. 
+ANCHORS AND CABLES 
+The anchors may be in the housed posit.ion, where they contrib1lte 1.0 the 
+lightship, or t.hey may have been used in the mooring of the ship. Then the 
+anchors will be on the sea hed along with a !,riven length of cable. The loss of 
+weight due to its removal is weight t.aken from the light displacemenl., this 
+amO~1l11 should therefore be added 1.0 t.he quantity of cargo. 'fhere should he 
+infiH"lnal.ion available on hoard to enable the SIl["VC}'O[" lo establish or calculate 
+the weight of the missing anchor and cable. 
+In the case of the chain cable, it. can be calculated with reasonable accuracy bv 
+, 
+, 
+I.he (ollowing formula: 
+Weight per shackle (tonne) = 15 x (link diameter in cm)2 x 3.87 
+1000 
+The link diameter is the diamet.er or the steel rod which makes up each 
+individual link. ] 11 t.he case or the anchor iL~dr, this will vary from ship to ship, 
+but.this informat.ioll should be available on board. This anchor weight should 
+be rounded to the nearesl. hall" tonne. 
+43 
+
+===== PAGE 52 (1110 chars) =====
+ADDITIONAL FACTORS 
+1. 
+It should be appreciated that the cargo may (hange it1; characteristics 
+o\'er a period oftime. The moisture content varies with the atmo1;pheric 
+conditions, and liquid drains into the hilges. The reIIloval or bilge 
+water between the two surveys should be noted. This is also important 
+during a voyage when a welted cargo may lose its moisture cont.enl and 
+later cause a dispute OVCI' cargo quantities. 
+2. 
+The changes in the condit.ion of the n:ssel such as the accumulat.ion of 
+rain water, ice or snow, could he sig'niiicant and should be accounted 
+for in the calculations. 
+:\. 
+The swimming pool call hold considerable quantities of water, which 
+could cause a discrepancy if the pool is emptied, or filled, Juring the 
+period between the be/ore and after draught surveys. In this GiSt: a 
+correction must b{~ applied to t.he resulls. 
+4. 
+All spaces should be inspected to ensure they are the same at both the 
+initial and filial surveys, not iorgening spaces such as the duct keel, 
+peaks, cofferdams, ere. 
+REMEMBER: 
+The accuracy of the survey depends on diligence! 
+44 
+
+===== PAGE 53 (1425 chars) =====
+BI.oCK COEFFICIENT 
+(Cb): 
+BREADTH (BEAM): 
+l'vloulded Breadth: 
+CENTRE OF 
+FLOTATION (CF): 
+LOlIg'iluciinal Centre of 
+Flotation (LCF): 
+DEAl)\\'EIGHT: 
+DENSITY: 
+Apparent Density: 
+True Densit\': 
+, 
+Relative Density (RD): 
+DEPTH: 
+Moulded Depth: 
+GLOSSARY 
+The ratio of the unrlerwatcr volume of the vessel to 
+the volume ofa rectangular block ofthe same overall 
+dimensions. 
+l\faxirnurn width of the ship. 
+\Vidth of the ship amidships, measured inside the 
+shell plating. 
+The cenrroid of the waterplane area. It is the point 
+about which the ship trims, heels and lists. 
+The distance of the centre of flotatioll from midships 
+or the aft perpendicular. 
+The dilIerence between the light displacement amI 
+t.he loaded displacement. It is the carrying capacity 
+of" the ship and indudes the weight of cargo, ballast, 
+fuel, water, stores, crew and effects. 
+The mass per ullil volume. 
+'l'he weight in air or a unit. volullle. 
+The weight in a \'aCUUIll of a unit volume. 
+The ratio of the weight of a substance to the weight 
+of an equal volume of fi'esh water, 
+RD of n'esh waLer: 1.000 at. 4°(; 
+RD of salt water: 
+1.025 at 4"C 
+The term speci/lc gravity, previously used in place of 
+RD, is no longer IIsed wit.h SI units. 
+Distance h'om the top of the deck plating at the side 
+of the ship to the hottOlIl of the keel. 
+Distance h'om the keel to the deck at the ship's side. 
+measured imide of the shell plating. 
+
+===== PAGE 54 (1441 chars) =====
+DISPLACEMENT: 
+Light Displacement: 
+SUlIllller Load 
+Displacement: 
+DRAUGHT: 
+Aft Drallg-ht: 
+Midships Draught: 
+Forward Draught: 
+Arithmetical Mean 
+Draught (AM D): 
+True Mean Draught 
+(TMD): 
+EVEN KEEL: 
+FREEBOARD: 
+The mass of water displaced by the ship. It represent~ 
+the lOlal weight of t.he ship and is calculated by: 
+volume of displacement x density of water. 
+The displacement of the ship and superstructure 
+wit.h all fixed equipmcm pills engine room spares 
+and with water in the boilers to working level. Also 
+referred to as LiKhtship or Lightweight. 
+The displacement of the ship when loaded to her 
+SUIIIIIler load lillc. 
+The distance !i'om the bottom of the ked to the 
+waterlinc. 
+S(Jmelimc,~ spelled dmft, 
+Thc disLancc fi'olll the bot.tom or the ked to the 
+waterline on the an perpendicular when the ship is 
+upright. 
+The distance {i'om the bOllom of the ked to the 
+waterline at a position midway between the 
+perpendiculars. 
+The distance from the bottom of the keel to the 
+waterline Oil the forward perpendicular when the 
+ship is upright. 
+The arithmetical mean of the forward draught and 
+t.he ali draught. 
+The draught at the celllre oi' flotation. 
+Whcn the liJnvanl and aft draughts arc the Sall1(~, 
+the ship is said to be on an even keel. The ship's 
+hydrostatic data is calculated 101' this condition. 
+The distance from t.he waterline to the upper surface 
+of the h'eeboard deck al the ship's side. 
+46 
+
+===== PAGE 55 (1374 chars) =====
+Assigned Summer 
+Freeboard: 
+FRESII \-VATER 
+ALLOWANCE (F\:VA): 
+llEEL: 
+HOG: 
+I.ENGTH BET\'VEEN 
+PERPENDICULARS 
+(LBP): 
+Aft Perpendicular (AP): 
+Forward Perpendicular 
+(FP): 
+LENGTH OVERALL 
+(L or LOA): 
+LIST: 
+l\HDSIIIPS: 
+The disLance from the upper edge of the summer 
+load line to the upper edge of the deck line. 
+The amount Iw which the summer load line mav be 
+J 
+J 
+submerged in fresh water. 
+The ship is heeled when inclined by an external 
+force. 
+The condition of a ship when it is delonned so that 
+the forward and aft draughts are deeper than Lhe 
+midships draught.. It is referred to as a hull d('jlectioll. 
+UisGlIlce from the lorward perpendicular to the aft 
+perpendicular. 
+A perpendicular drawn to the w;lterline at the point 
+where t.he aft side of the rudder post meets the 
+summer load line. Where no rudder post is filled it 
+is taken as the centre line of the rudder stock. 
+A perpendicular drawn to the waterIine at the point 
+where the fiJreside or the stern meets the summer 
+load line (or load wawr line LWL). 
+1\1aximuIll length or the ship. 
+The ship is listed when inclined by weights within 
+the ship. 
+The mass of an object is the quantity of matter it 
+mnlains and is calculated by: 
+volullle x density 
+The point midway between the forward and all 
+perpendiculars. The centre of rhe load line circle 
+should indicate Lhis position. 
+47 
+
+===== PAGE 56 (1328 chars) =====
+MOMENT TO 
+CHANGE TRIM PER 
+CENTIMETRE 
+(MCTC or MCT 1 cm): 
+SAG: 
+SOUNDING: 
+TONNES PER 
+CENTIMETRE 
+IMMERSION (TPC): 
+TRIM: 
+Apparent Trim: 
+True Trim: 
+ULLO\GE: 
+VOLUME OF 
+DISPLACEMEN'I': 
+WATERPLANE 
+COEffICIENT (Cw): 
+WEIGHT: 
+The moment of the weight (i.e. weight x distance) 
+required to change the trim of t.he ship by 1 cm. 
+The condition of a ship when it is deformed so that 
+the midships draught is deeper than the forward 
+and aft draughts. It is referred t.o as a hull dejleclio'l!. 
+The distance from the bottom ora tank t.o t.he top of 
+the liquid wit.hin it. 
+The weight which must. be loaded or discharged to 
+change the ship's mean draughl. hy I cm. 
+The diilerence between the filrward and ait draughL<;. 
+The difference between the draughts observed at 
+the forward and afl. drallght marks. 
+The difference between the drallght:; at the forward 
+and afi. perpendiculars. 
+The distance above a li(lIlid, within a tank, lo the 
+measuring point at the top of the t.ank. 
+The volume of water displaced by the ship and is 
+calculated by: 
+lengt.h x breadth x draught x Cb. 
+The ratio of t.he area of t.he ship's waterplane to a 
+rectangle of the same ext.reme dimensions. Also 
+known as the co~fricient oIJiulfIless. 
+The weight of an ol~ject is the force it exerts on 
+anything which freely support.s it. 
+48 
+
+===== PAGE 57 (981 chars) =====
+-
+ApPENDICES 
+E ;QUIPMENT C HECK L 1ST 
+Sample j<lr and water sample bucket with line 
+Ballast tank dipper with line 
+Small hand pump with hose 10r taking samples 
+Draug-hl survey hydrometer with certiiicate 
+Steel sounding tape with gradual ions in metres and feet 
+Water finding paste 
+Draughlffrceboard measuring clevice 
+1\..fanometer if some draughts an: impossible to read, plus a long 
+measuring tape 
+Plastic tube with plug, to act as sounding pipe extension 
+Boat available to read inaccessible draughts 
+Pilot ladder on board ready for obtaining draughts 
+Docu mentaLion 
+Pocket computer with draught survey program or calculator 
+CHECK LIST OF RESERVATIONS 
+(Not all exhaustive list) 
+Height of waves / swell 
+Clarity of draught marks 
+State or tide - underkcd clearance 
+Squal effects 
+Variations in density 
+Daytime I night-time 
+Anchors moved, in or out 
+lee / SIlUW UIl deck 
+Quantity of bilges pumped 
+Residue in l<lIlks 
+SuspecL calibrations 
+Ship movemellls 
+49 
+
+===== PAGE 58 (1042 chars) =====
+INFORMATION CHECK LIST 
+GENERAL INFORMATION 
+Ship's name 
+Call letters 
+l'ort. of registry 
+Flag 
+Year built 
+Master 
+Owners 
+Owner's address 
+Owm:r's agel1\. 
+Managcr/operator 
+Charterer 
+Chanerer's a~ellt 
+Shipper 
+Chief OUicer 
+Chief Engineer 
+SlII'veyor/s 
+P&l correspondent 
+Ship's lo(:at ion 
+Survey requested by: 
+Sllney on account or: 
+, 
+Typl: of Cirgo 
+Weather conditions 
+Date and time of arrival 
+THE STABILITY INFORMATION nOOK 
+Length between perpelldieulars 
+Extrellw alld moulded hreadth 
+Overall and moulded depth 
+Summer draught and fj"ecboard 
+Summer displaccllwllI and deadweight 
+Misplacemcnt of draught marks fi"o!H perpendiculars and midships 
+Lightship displacement with lightship constant 
+Hydrostatic particulars: 
+Displacement, TI'C, MCTe, Len, LCF 
+(:apacity plans and tables 
+Correction tables: 
+Trim 
+Position of marks 
+List 
+Hull deflection 
+PLANS 
+General arrangemcllt plan 
+Profile plan indicalin~ each space in t.he ship 
+OTHER SOURCES 
+Sounding tables and corrections ti.lr trim 
+Qualllil), of bUllkers 
+50 
+
+===== PAGE 59 (912 chars) =====
+CORRECTIONS CHECK LIST 
+OBSERVED [)RAlJGIITS: 
+Forward ... P & S 
+aft ... P & S 
+midships ... P & S 
+Mean values, ie. draughL~ at. centrclinc, {(Jrwanl, alt and mid ships. 
+Correct {i'om marks lo perpendicular and midships positions. 
+Misplacement opposite to trim, then positi'ue (+) 
+Misj)/arement same as Iri'lII, fhen negative (-) 
+IIog/sag' correction (mean of mean of means, or similar). 
+negative (-) for hog 
+j)osititJf (+) for sag; 
+CORRECTED MEAN DRAUGHT ... t.o cnt.er hydrost.at.ic t.ables. 
+Displacement from displacement rabic. 
+First trim correction or Correction for layer (in tonnes). 
+LCF same as Irim, Ihen positive (+) 
+LCF ojJposite to Irilll, Ihen negative (-) 
+Second trim corrcction (in tonnes). 
+Alwa)ls j)(},lilive (+) 
+List correction (in tonnes). 
+Always 
+1)(}.\'iliv(~ (+) 
+Correction for density . 
+• 
+Less than salt waif!r densil)l, then negative (-) 
+CORRECTED DISPLACEMENT. 
+51 
+
+===== PAGE 60 (1246 chars) =====
+METRIC/ IMPERIAL CONVERSIONS 
+I Foot ................................ - 0.3048 
+1 Foot ............................... -
+30.48 
+1 Incll .......................... , lOt. 
+2.54 
+I Metre ................ t ............. -
+39.37 
+I Metre ............................... '" - 3.28 
+1 Centimetre .................... -
+0.3937 
+I Cll.Foot. ........................ -
+0.028317 
+1 Cll.Foot ......................... -
+7.4805 
+I Cll.Foot ......................... -
+6.2324 
+1 Cu.Metre ...................... -
+35.3148 
+I Cu.Metre ...................... - 264.167 
+1 Cu.Metre ....................... -
+6.2898 
+1 Cu.Metre .... ,t •••••••••••••••• -
+220.0 
+1 Long Ton ...................... 
+1.016047 
+1 Metric Tonne ............... -
+0.9842064 
+1 Metric Tonne ............... -
+2204.6223 
+1 Metric Tonne ............... 
+6.2898 
+1 U.S.Gallon .................... -
+0.13368 
+I U .S.Gallon .................... -
+231 
+I U.S.Gallon .................... = 8.33 
+1 U .S.Gallon ....... ............. = 0.833 
+52 
+Metres 
+Centimetres 
+Centimetres 
+Inches 
+Feet 
+Inches 
+Cu.Metres 
+U.S.Gallons 
+Imp. Gallons 
+Cu.Feel 
+U .S.Gallons 
+U .S.Barrels 
+Imp. Gallons 
+Metric Tonnes 
+Long Tons 
+Pounds 
+U.S.Barrels 
+Cu.Fcet 
+ell.Inches 
+Pounds of fresh water 
+Imp. Gallons 
+
+===== PAGE 61 (1092 chars) =====
+1 Imp.Gallon .................... = 277.3 
+1 Imp.Gallon .................... = 0.16045 
+1 Imp.Gallon .................... = 10.0 
+WATER 
+I Long Ton fresh water ... -
+35.9 
+1 Long Ton salt water ...... = 35.0 
+FUEL OIL (RD 0.944) 
+1 I...ollg Ton ....................... = 6.77 
+1 U.S.Gallon ..................... = 7.88 
+DIESEL OIL (RD 0.85) 
+1 wng Ton ... ..... .... ............ = 319 
+1 Metric Tonne ................ = 311 
+1 U .S.Gallon ..................... = 7.09 
+LUB. OIL (RD 0.90) 
+1 Long Ton .. ....... ....... ....... = 298 
+1 Metric Tonne ................ = 294 
+1 U.S.Gallon ..................... = 7.51 
+Cu.Inches 
+eu.Feet 
+Pounds of fresh water 
+Cubic Feet 
+Cubic Feet 
+U.S.BaJTds 
+Pounds 
+U.S.Gallons 
+U .S.Gallons 
+Pounds 
+U.s.Gallons 
+U .S.Gallons 
+Pounds 
+ALTERNATIVE HYDROMETERS 
+To correct to Apparent Density (density in air) from a hydrometer calibrated 
+1n:-
+True Density (density in vacuo) 
+Relative Density (15OC/4"C) 
+Relative Density (15CC/15'C) 
+Note: glmt = kgll = tlm3 
+53 
+minus (-) 0.0011 glml 
+minus (-) 0.0011 
+minus (-) 0.002 
+Refer to pages 6, 33 and 36. 
+
+===== PAGE 62 (1385 chars) =====
+INDEX 
+Aft draught 9 
+Air pockets 
+1 
+Anchors and cables 2, 43 
+Apparentdensity 3, 6, 9, 36, 39 
+Apparentlrim 
+~4 
+Atithmetic mean draught. 
+10 
+Automatic gauges 
+38 
+Bale space 
+11 
+Ballast 
+·1 
+Hallast.holds 
+1, 5 
+Ballast samples 5 
+Ballasttanks 1 
+Bilge waleI' 44 
+Bil):?;es 
+39 
+Box-shaped vessels 
+28 
+Bunkcrsurvey 
+~, 5 
+Calibration lclbles 
+~ 
+Capacity plan and tahles 
+11 
+Centre offlot.ation 
+32 
+Chemicals 43 
+Code of unifclllTl standards and 
+procedures 
+iv 
+Coellicient of fineness 
+29 
+Constant 
+]5 
+Conu:t.ed sounding 41 
+COlTection tor density 33 
+Conection ie)r layer 
+30 
+COIH.x:tion fi ,,"lisL 
+26 
+COITections 10r tlim 
+30 
+Corrections with hull deflection 
+25 
+Data Manual For Draught Surveys 
+~ 
+54 
+Deadweight or Displacement 
+Scale 
+11 
+Deadweightsurvey 
+IV 
+Density 
+~, 33 
+Depth of ship 9 
+Displacement 9 
+Diurnal variation 27 
+DrXllment,ltion and iniormation 
+~ 
+Draughtg"':lllges 20 
+Draught measurement 
+16 
+Draugh t mcao;uring eyuipment 17 
+1 )raught reading' on outboard side 
+1 H 
+Draught survey 
+iv, 16 
+Draughts 3 
+Final survey 
+6 
+Finer lined vessels 
+28 
+First trim correction 
+30 
+Forv.·ard draught 9 
+Frccboanl 3, 9 
+Fuller form vessels 
+28 
+(rl.'ncral arr,mgeJllent plan 
+14 
+Grainspace II 
+Growth oflightship 
+14 
+Hog 26 
+IIulldeflection 
+12, 26 
+Hydrometer 
+:~, 6, 33 
+H vdrostatic Particulars 
+9 
+, 
+Ice or snow 
+44 
+1 ndining experiment 
+14 
+
+===== PAGE 63 (1180 chars) =====
+L1yerCOn"ection 
+10, 3] 
+Lighto;hip 
+14 
+Lighto;hip draught. 
+11 
+Jj 
+96 
+st 
+~ 
+l.ongitudinal centre offlotation 
+10 
+Longitudinal measurement 2, 8 
+Manometer 
+18 
+Master's responsibiJjt)' 
+8 
+Mean of mean of means 
+28 
+MeasllIingdevice 
+17 
+M icio;hips 
+21 
+Misplacemenr of marks 
+21 
+Mixmres 42 
+Moisturccontent 
+44 
+Pell)endiculars 
+~ 1 
+Position of marks 
+12 
+Prior to arrival 
+] 
+Relative Density 
+5:~ 
+Remaining on board 41 
+Residual defimnation 
+~7 
+Residuesandsc.'ale 42 
+S 
+96 
+ag _ 
+Sample bucket 3 
+Sampling 
+3!J 
+Second trim correction 
+32 
+Sediment 42 
+Slop L,U1ks 
+41 
+Sounding ;18 
+Sounding cOJ,.ection lables 
+12 
+55 
+Sounding tables 
+12 
+Squat 20 
+Slahility inicmnar.ion book 
+~ 
+Stores, provisions, crew 
+38 
+Striker plate 38 
+Smllmer load draught 
+11 
+Swell 
+16 
+Swinuningpool 
+44 
+Telll perature cOl1"ection 
+~39 
+Trim 21, 30 
+Trimcon-ection 
+12, 39 
+Trim mctors 
+10 
+Trimmed hvdrostatioi 
+10 
+. 
+True Density 
+!13 
+'I 'rue mean draught 
+J () 
+Ullage ,38 
+UN/EeE dr,mght survey code 
+forms 
+iv 
+Veltical measurement R 
+Volume 
+16 
+Walerplane coefficient 
+30 
+'\I\Taves 
+16 
+VVcdgclorIllUla 
+41 
+Weight of the ship 
+38 
+Zeal draught. survey 
+hydrometer 3, 36 
+
+===== PAGE 64 (1351 chars) =====
+DRAUGHT SURVEYING 
+A MANUAL FOR MARINE SURVEYORS 
+AND SHIP'S OFFICERS 
+This book colllains the mathcmatical proofs and derivation of all the 
+formula likely to be requircd in any draught survey. It deals more 
+hIlly with all the aspects mentioncd in nil' Guidt' To Good Practice. 
+The book ranges fwmthe basic physics to the most complex corrections, 
+in simple lallg"uagc and with examples and illustrations. for casy 
+understandillg". 
+It is suitable [or the new and the experienced 
+surveyor who seeks a mastery of the subject, or the ~laster rvJariner 
+who needs 10 knmv the principles invoh'ed. 
+DRAUGHT SURVEYING 
+A DISTANCE LEARNING COURSE 
+The distallce leamillg course is designed [or the beginncr who 
+wishes to learn about draught surveying [rom the basic principles of 
+hydrostatics and ship stability. It is [or those \'"ho wish to study the 
+subject in dept h and follow a properly structured course together 
+wilh full tUlorial guidance and support. The work is divided into 
+seC! inns, each or which has examples to study and questions to 
+anSlver. Each section is completed with an exercise which is to be 
+retllrned 10 the Il1lOr {or assessment. 
+MID-C 
+CONSULTANCY 
+For further detail~ conta(\": 
+MID-C Consultancy, 
+39, Cleadon Lea, 
+Cleadon, 
+Tyne &. Wear. SR67rQ UK. 
+Fa..,,: +44 (0)191536 OR91 
+Email: peter~Vmid-c.demon.co.uk 
+
+===== PAGE 65 (1203 chars) =====
+UN· ECE • DRAUGHT SURVEY CODE 
+" 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+RLOADED 
+FORM "A"' 
+UNLOADED 
+Corporate idenlilicahon: 
+Olficc ol lh€ surveyor al: 
+Telephone no: 
+Fax no: 
+Telex no: 
+Vessel M:V: 
+Call1cttors: 
+Survey no: 
+Vessel previous nameis: 
+Aegis1rv: 
+Buil! year: 
+By: 
+Flag: 
+Survey requested by: 
+On the account of: 
+Attend ed a Iso by: 
+as: njOint surveyor 
+DumPire nmonitoring 
+This is to certify that the undersigned did, in Bona Fide, attend on board the subject vessel as she lay afioat 
+at the port of: 
+for the purpose of determining by draught computations the 
+amount of 
+loaded, unloaded (holds no. 
+l and having followed the rules as set by the 
+U.N.I ECE Uniform Code of Standards and Procedures for the Performance of Draught Surveys have the 
+following to report: 
+STARTING SURVEY 
+FINISHING SURVEY 
+Attending the surveys: date: 
+date: 
+hours: from: 
+to: 
+hours: tram: 
+to: 
+Name of surveyorls 
+Master 
+Chief Officer 
+Chief Engineer 
+Witness draughls 
+Witness tank sounding 
+Ship's location 
+Weather temperature 
+Sea condition 
+Heading of ship 
+Direction wind 
+Stream speed Km Ih 
+Tide 
+tce 
+Car!)o h'Hldhng cqtipmenl T. tlfQugh! .~n bo:ud: 
+Missing Sh~)'S cquil)m.!nt: 
+
+===== PAGE 66 (1685 chars) =====
+UN· ECE • DRAUGHT SURVEY CODE 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "B" 
+UNLOADED 
+Corpcfale idc,." ihcalion: 
+Vessel r..iN' 
+Survey!lO: 
+General remarks by the surveyorls 
+Correchon for stem and stern obtained by: 
+-
+r-
+-
+calculation 
+tables 
+r-
+Correction for trim (1) obtained by: 
+-
+calculation 
+r-
+tables 
+Correction for trim (2) obtained by: 
+-
+calculation 
+r- tables 
+Correction due to trim tor liquid applied at: 
+-
+soundings 
+r- volumes 
+Correction due to trim tor liquid obtained by: 
+_ 
+calculation 
+'-- tables 
+Ship'S approved hydrostatic tables and lightship information issued by and dated: 
+Degree of tank calibration complies with code: 
+DYes 
+ONO 
+Range or Him cOHcclion lables available: 
+Shipyard 00.: 
+Hull no.: 
+Daledal: 
+Surveyor remarks on ship's documents: 
+metres 
+metric tonnes 
+Length overall 
+Constant declared 
+Length between p.p. 
+Constant calculated 
+Extreme breadth 
+Light displacement 
+Moulded breadth 
+Light shipweight (plan) 
+Depth overall incl. keel plate 
+Summer displacement 
+Moulded depth 
+Summer deadweight 
+Summer draught 
+Net register Ions 
+Summer freeboard 
+Gross register Tons 
+STARTING SURVEY 
+FINISHING SURVEY 
+Tonnes per Centimetre Immersion 
+Longitudinal Centre of Flotation 
+Distance marks forward pp. (forward -
+aft<-) 
+Distance marl<s after pp. (forward - aft+) 
+Distance marks mid ship pp. (forward -
+all+1 
+Moment 10 Trim One Centimetre +50 
+Moment to Trim One Cenlimetre ·50 
+Vessel list 
+Accessibility of sounding pipes 
+Working order of gauges 
+Legibility of draught marks 
+This torm should be fllted with pertinent shipyard-registry data by the Master in advance of survey start to 
+reduce time/inconvenience. 
+
+===== PAGE 67 (1505 chars) =====
+UN· ECE • DRAUGHT SURVEY CODE 
+0 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "C" 
+UNLOADED 
+Corporate idenlilicatlOn: 
+VessclMN : 
+SUfVey r.c ' 
+DRAUGHT STATEMENT 
+DRAUGHT READINGS HOURS: 
+STARTING SURVEY 
+FINISHING SURVEY 
+FROM: 
+TO: 
+FROM: 
+TO: 
+metres 
+metres 
+Draught forward port 
+Draught forward starboard 
+Draught forward mean 
+Stem correction 
+Draught forward (corrected to fore .pp.) 
+Draught after port 
+Draught after starboard 
+Draught after mean 
+SI em correction 
+Draught after (corrected to after pp.) 
+Draught fore & after mean 
+Draught midship port 
+Draught midship starboard 
+Draught midship mean 
+MidShip correction 
+Draught midship (corrected to midship pp.) 
+Sag (+) Hog H 
+Mean of means 
+Draught extreme corrected for hog/sag 
+Correction (0) for keel tickness if applicable 
+Draught moulded corrected for hog/sag 
+(Note: Utilize line 152 or line 154) 
+Trim: 
+fwd (-) 
+aft (+) 
+K!l!m3 
+K9/m3 
+Observed density 
+I 
+I 
+I 
+I 
+(Ship's tables density Kglm3 
+) 
+(Hydrometer no. 
+) 
+Metric tonnes 
+Metric tonnes 
+Displacement (al 
+Kg/m3 density) 
+First trim correction 
+Second trim correction 
+T atal trim correction 
+Displacement corrected for trim 
+Correction for density average 
+Displacemen1 corrected for density 
+Total deduclibles 
+Displacement corrected for deduclibJes 
+Draughts, densities, fresh water and ballast soundings witnessed and agreed to by the Chief OHicer. Fuel oil 
+soundings witnessed and agreed to by the Chief Engineer unless olherwise stated in form "A" 
+
+===== PAGE 68 (594 chars) =====
+. . 
+UN· ECE • DRAUGHT SURVEY CODE 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "01" 
+UNLOADED 
+Corporate identification: 
+V(!ssOIMN: 
+SUIVay no: 
+STARTING SOUNDING: 
+From Hours: 
+To Hours: 
+Date: 
+Trim: 
+Compar1menl Title: 
+Maximum 
+Sounding 
+Sounding 
+Volume 
+Density of 
+Total 
+• Tank no. 
+height 
+I ullage 
+I ullage 
+corrected 
+water 
+weight 
+• Bilges 
+measured (-) 
+corrected for 
+for trim 1 list 
+in air 
+Melric 
+• Duct keel 
+metres 
+metres 
+trim II1S1 
+m3 
+Kg/m3 
+tonnes 
+metres 
+A - BALLAST 
+Total A 
+B - FRESH WATER 
+Total B 
+n Stalemenl of obstructions in sounding tube/s: 
+
+===== PAGE 69 (594 chars) =====
+UN· ECE • DRAUGHT SURVEY CODE 
+" 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "02" 
+UNLOADED 
+Corporate identification: 
+Vessel MN: 
+Survey no: 
+FINISHING SOUNDING: 
+Fran Hours: 
+To Hours: 
+Dale: 
+Trim: 
+Compartment Title: 
+Maximum 
+Sounding 
+Sounding 
+Volume 
+Density of 
+Total 
+• Tank no. 
+height 
+I ullage 
+I ullage 
+corrected 
+water 
+weight 
+" Bilges 
+measured (") 
+correc1ed for 
+lor trim I list 
+in air 
+Metric 
+"Duct keel 
+metres 
+metres 
+trim I list 
+m3 
+Kglm3 
+tonnes 
+metres 
+A - BALLAST 
+Total A 
+B - FRESH WATER 
+Total B 
+(') Statement 01 obstructions in s~nding tube/s: 
+
+===== PAGE 70 (743 chars) =====
+. . 
+UN· ECE • DRAUGHT SURVEY CODE 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "03" 
+UNLOADED 
+Corporato identification: 
+Vessel MN: 
+Survey no: 
+SOUNDINGS 
+STARTING SURVEY 
+FINISHING SURVEY 
+Compartment 
+Title: 
+Total 
+Sounding 
+Actual 
+Actual 
+Weighl 
+Sounding 
+Actual 
+Actual 
+Weight 
+Tank no. 
+sounded 
+Ullage 
+Density 
+Volume 
+Metric 
+Ullage 
+Density 
+Volume 
+Metric 
+Slop 1. 
+depth m. 
+metres 
+Kg/m3 
+m3 
+Tonnes 
+metres 
+Kglm3 
+m3 
+Tonnes 
+C - FUEL OIL 
+Total C 
+D - DIESEL OIL 
+Total D 
+SUMMARY OF DEDUCTIBLES 
+STARTING SURVEY 
+FINISHING SURVEY 
+metric tonnes 
+metric tonnes 
+Baliast water 
+Fresh water 
+Fuel oil 
+Diesel oil 
+Slops 
+Lubrificaling oil 
+Swimming pool water 
+Anchor & Chain 
+Others 
+Total Deductiblesl 
+I I 
+I 
+
+===== PAGE 71 (1616 chars) =====
+UN· ECE • DRAUGHT SURVEY CODE 
+· 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK 
+R~OADED 
+FORM "E" 
+UNLOADED 
+Cor,l::orale idenlification: 
+Vessel MN: 
+Survey no: 
+CARGO STATEMENT 
+Metric Tonnes 
+Starting Displacement Corrected 
+Finishing Displacement Corrected 
+Difference in Displacement; TOTAL CARGO IN BULK IS: 
+OBSERVATIONS: Shore scale quantity (if available) M.T. 
+I 
+I 
+Note on any unusual situation/s, exception/s from required Uniform Code standard, specific identification 
+(source, drawing no., date, title, certifying authority) of each ship's document used in translating recorded 
+measurements Into weights and, when applicable, reasons for surveyor's refusal or Impossibility to perform 
+the survey: 
+Metric Tonnes 
+Corrected light disptacement ; 
+Deductables-
+Lightship; 
+Constant-
+Mean of previous constants= 
+I certify that the constant calculated from this draught survey has been entered into the ship's ·Constant Certificate· 
+In my judgement the weather conditions, the sea condillons, and the conditions of the ship at the times the 
+draught surveys were conducted, were within acceptable limits and did not adversely affect the accuracy of 
+this survey. This Bona Fide report consisting of 
+__ pages, including this page, all duty inltlalied or signed 
+is issued without prejudice and is for the benefit of whom it may concem. 
+Name of surveying firm 
+(corporate identification) 
+By: 
+(Signature ot Surveyor's) 
+Name(s in print 
+I have participated in all stages of this draught survey, and agree with the results obtained. I acknowledge receipt at the ship's copy. 
+Signed: 
+Rank: 
+Name In print 
