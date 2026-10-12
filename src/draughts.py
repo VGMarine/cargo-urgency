@@ -49,12 +49,21 @@ def amd_fuller_form(d_fwd: float, d_aft: float) -> float:
     """A.M.D., fuller-form vessel (книга, Q6, стр. 29-30): (DF+DA)/2.
 
     Печатанное решение Q6 явно считает AMD = (5.80 + 6.20)/2 = 6.00 м.
-    Примечание (TODO scan): напечатанная формула метода 2(ii) распознана как
-    "(4 x DM) + 6 DF + DA" — знаменатель и расстановка скобок нечитаемы из OCR;
-    ни одна целочисленная трактовка с DM не воспроизводит 6.00, решение книги
-    использует (DF+DA)/2. Сверить по скану PDF index 39 (стр. 36 книги).
+    ЗАКРЫТО по оригиналу (бинарник PDF, стр. 28 книги, PDF index 35):
+    напечатанная формула метода 2(ii) — MAD = ((4 x DM) + 6 D_FP + D_AP)/11;
+    реализована отдельно в mad_method2ii, чтобы не смешивать с решением Q6.
     """
     return (d_fwd + d_aft) / 2.0
+
+
+def mad_method2ii(d_mid: float, d_fp: float, d_ap: float) -> float:
+    """Method 2(ii), fuller/box-shaped vessels (книга, стр. 28, PDF index 35).
+
+    Цитата текстового слоя оригинала: "Mean Adjusted Draught = (4 x DM) +
+    6 D FP + DAP" со знаменателем 11 (веса 4+6+1; согласуется с методом 2(i)
+    (6·DM+DF+DA)/8 для finer-lined судов).
+    """
+    return (4.0 * d_mid + 6.0 * d_fp + d_ap) / 11.0
 
 
 def hog_sag(d_mid_corrected: float, amd: float) -> tuple[str, float]:

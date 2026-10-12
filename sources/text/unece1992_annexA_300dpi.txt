@@ -1,0 +1,246 @@
+===== PAGE 124 (ECE/ENERGY/19 OCR @300dpi, Annex A listing) =====
+ECE/ENERGY/19
+page 115
+Annex A
+. The program will deduct these weights from the final corrected displacement
+calculating the net displacement (DISPLNT) as follows:
+DISPLNT = DISDEN - DED =
+: (line 170) (line 168) (line 169)
+= DISDEN - (BA+FW+F0+D0+L0+SL+SP+AC+MIS)
+The net displacement will be printed.
+3. COMPUTER PROGRAM
+The program described at the point 2 can be loaded in the pocket computer as
+follows:
+10 KEY OFF
+20 CLS
+30 REM SPU MOMMA M SS SASS AAS SAMS AAS SS MARSA ASST SM SM TSK SSA SS SSSR BS SS SSeS SSS SSS TTS
+40 REM MAIN PROGRAM
+50 REM  sxxxexxSesS anne aa cca ree ERE SSeS eRe sears ems ss sssssee sss
+60 PRINT
+70 PRINT "DRAUGHT SURVEY ed. October 1991 -~ 1.8"
+80 PRINT
+100 REM INPUT DATAS SUBROUTINE
+115 oOPpg="y¥"
+120 GOSUB 10000
+130 INPUT "Do you want to review your datas Y/N";CH$
+150 REM CONTROL OF DATAS SUBROUTINE
+170 IF CH$="Y" OR CH$="Y" THEN GOSUB 20000
+175 REM RESTART OR INPUT
+180 IF OP$="N" OR OP$="'n" THEN GOTO 80
+200 REM DRAUGHT CALCULATIONS SUBROUTINE .
+220 GOSUB 30000
+240 REM RESULTS ON THE SCREEN SUB-ROUTINE
+260 GOSUB 40000
+270 PRINT
+280 PRINT "1. Datas on printer”
+290 PRINT "2. Another Draught"
+300 PRINT "3. Back to Dos"
+310 INPUT “Select your option -~->";0P -
+320 IF OP=] THEN GOSUB 50000: CLS: GOTO 270
+330 IF OP=2 THEN GOTO 80
+340 IF OP=3 THEN SYSTEM
+350 END
+10000 REM seesesseernnnrasreeaanasea ramet eeress esses esses essssese ssa SSEs
+10003 INPUT DATAS
+_ 10005 REM sexsaerescssaseassssessasssssesrnsrssssssssastsstarassssenssesrsesss
+10007 INPUT "Meters or Inches MT(0Q) or IN(1)"; ¥
+10009 IF Y <21 AND Y<«>1 THEN GOTO 10007
+. 10010 INPUT “Length between perpendiculars (LBP)";LBD
+10020 INPUT "Forward port (FP)";FP
+
+===== PAGE 125 (ECE/ENERGY/19 OCR @300dpi, Annex A listing) =====
+ECE/ENERGY/19
+page 116
+Annex A
+10030 INPUT “Forward stbd (FS)";FS
+10040 INPUT “After port (AP)";AP -
+10050 INPUT "After stbd (AS)";AS
+10060 INPUT “Mid port (MP)“;MP :
+10070 INPUT "Mid stbd (MS)";MS .
+10080 INPUT "Dist. marks forward pp. (LF)";LF
+10090 INPUT “Dist. marks after pp. (LA)":LA .
+10100 INPUT "Dist. marks midship pp. (LM)";LM
+10110 INPUT “Stem aft(1) or fwd(-1)";STEMS
+10120 INPUT "Stern aft(1) or fwd(-1)";STERNS
+10130 INPUT "Mid aft(1) or fwd(-1)";MIDS
+10140 INPUT “Keel";KE
+10150 INPUT "Tonnes per centimetre (TPC)";TPC
+10160 INPUT "Length between centre of flotation and amidships(LCF)";LCF
+10170 INPUT "LCF aft(1) or fwd(-1)":LCFS
+10180 INPUT "MTC+D";MTC1
+10190 INPUT "MTC-D";MTC2
+10200 INPUT "Displacement (DISPL)";DISPL
+10210 INPUT “Table density (TD)";TD
+10220 INPUT "Observed density (O0D)";0D
+10230 print “Input deductibles:"
+10240 PRINT “1. ballast 2. fresh water 3. fuel oil"
+10250 PRINT "4. diesel oil 5. lube oil 6. slops"
+10255 PRINT "7. swimming pool 8. anchor & chain 9. others"
+10260 DED=0
+10270 FOR I=1 TO 9
+10280 PRINT I;".";
+10290 INPUT WEI
+10300 DED=DED+WEI
+10310 NEXT I
+10320 RETURN
+20000 REM SSR RGSS SMM SR SS OCS SSS SSS SM ST MASS Ss sees essere stse esses sss sssstssssrsssst
+20010 REM REVIEW OF DATA INPUT
+20020 REM sesaneescnsssscsesessssastnrseeesenseasesessseeserneereeseesssessses
+20030 CLS
+20040 PRINT "“FP=";FP
+20045 PRINT “FS="3FS
+20050 PRINT “AP=";AP
+20055 PRINT “AS=";AS
+20060 PRINT “MP=";MP
+20065 PRINT "MS=";MS
+20070 PRINT "LP=";LF;" ";
+20080 IF STEMS=1 THEN PRINT "AFT" ELSE PRINT "FWD"
+20090 PRINT “LA=";LA;" "3 .
+20100 IF STERNS=1 THEN PRINT "AFT" ELSE PRINT “FWD" ,
+20110 PRINT “LM=";LM;" "; ,
+20120 IF MIDS=] THEN PRINT "AFT" ELSE PRINT “FWD"
+20130 PRINT "KE=";KE *
+20140 PRINT "TPC=";TPC ‘
+20150 PRINT "“LCF=";LCF;" "3 ;
+20160 IF LCFS=1 THEN PRINT “AFT" ELSE PRINT "FWD" .
+20170 PRINT "MTCl=";MTC1
+
+===== PAGE 126 (ECE/ENERGY/19 OCR @300dpi, Annex A listing) =====
+ECE/ENERGY/19
+page 117
+Annex A
+. 20175 PRINT "MTC2=";MTC2 .
+20180 PRINT "“DISPL=";DISPL
+20190 PRINT “TD=";TD
+8 20195 PRINT "“OD=";0D
+20200 PRINT “Total deductibles (DED)=";DED
+20210 PRINT
+20220 INPUT “are the datas corrected Y/N";0P$
+20230 RETURN
+30000 REM enanecssssssseracseereeeeeaease reassess eRe esses eee TRS SS SSS SSSR STs
+30010 REM DRAFT CALCULATIONS
+30030 REM MEANS CALCULATIONS
+30040 FORE=(FP+FS)/2
+30050 AFT=(AP+AS)/2
+30060 MID=(MP+MS)/2
+30070 REM PP. CORRECTIONS
+30080 J=ABS(AFT~FORE)
+30090 IF FORE<AFT THEN Si=-1 ELSE Sl=1
+30100 P=ABS(LF+LA)
+30110 STEMCO=J*LF/(LBP-P)*S1*STEMS
+30120 STERNCO=J*LA/ (LBP-P)*S1*STERNS
+30130 MIDCO=J*LM/(LEP-P)*S1*MIDS
+30140 FC=FORE+STEMCO
+30150 AC=AFT+STERNCO
+30160 MC=MID+MIDCO
+30165 REM SAG AND HOG CORRECTION
+30170 FA=(FC+AC)/2
+30180 MM=(FA+MC)/2
+30190 SH=MC-FA
+30200 DHSC=(MM+MC)/2
+30210 MMCO=DHSC-~KE
+30220 REM TRIM CORRECTIONS ,
+30230 AR=ABS((AC-FC)*100)
+30240 IF AC<FC THEN S2=1 ELSE S2=1
+30250 CO1=ABS(AR*TPC*LCF/LBP)*S2*LCFS
+30260 IF Y=1 THEN CO1=C01/100
+30270 DMDZ=MTC1-MTC2 .
+30280 IF Y=0 THEN GOTO 30290 ELSE GOTO 30300
+30290. CO2Z=AR*AR*5*DMDZ/(LBP*1000)
+- 30300 CO2=AR/12*AR/12*6*DMDZ/(LBP/.0012) .
+30310 CO=C01+C02
+30320 DCO=DISPL+CO
+30330 REM DENSITY AND DEDUCTIBLES CORRECTIONS
+30340 DISDEN=DCO/TD*OD
+30350 SD=DISDEN-DCO
+30360 DISPLNT=DISDEN-DED
+. 30370 RETURN
+40000 REM sxxseraeaccasscnmarsmsrnsseEssssnsessmnssssasssssssaasssssesscssessess
+40010 REM PRINTING RESULTS ON THE SCREEN
+* 40020 REM axsaeaseerssrer ener eRer SSeS aT ese Re eK eS eR TRA em EAT ess esses snes ssss
+40030 CLS
+40040 PRINT "Draught forward mean: ";FORE
+. 40050 PRINT “Draught forward (corr.'d to f.pp.): "sFC
+
+===== PAGE 127 (ECE/ENERGY/19 OCR @300dpi, Annex A listing) =====
+ECE/ENERGY/19
+page 118
+Annex A
+40060 PRINT “Draught after mean: ";AFT
+40070 PRINT "Draught after (corr.'d to a.pp.). "ZAC .
+40080 PRINT “Draught fore & after mean: “;FA |
+40090 PRINT “Draught midship mean: “;MID
+40100 PRINT “Draught midship corrected: “;MC ;
+40110 PRINT "SAG (+) Hog(-): "“;SH ;
+40120 PRINT “Mean of means: ‘“;MM
+40130 PRINT “Draught for hog and sag: ";DSHC
+40140 PRINT “Mean of means corrected: “;MMCO
+40150 PRINT "First trim correction: ";COl
+40160 PRINT “Second trim correction: “;C0Q2
+40170 PRINT “Total trim correction: ";CO
+40180 PRINT “Displ.‘t corr.'d for trim: "“;DCO
+40190 PRINT "Displ't corr.'d for density: “;DISDEN
+40200 PRINT "Displ.'t corr.'d for deductibles: ";DISPLNT
+40210 RETURN
+50000 REM SRVCS SS SSS SST SSB SSCS SASS SS SSSSS THM SS SGC B AS MATL see SsSsSeSst esse ssssststsstsAzsts
+50010 REM PRINTING RESULTS ON PRINTER
+50020 REM SS SLRFL SSSR GC SSSA T LK SST SARK LTS SBA sess sess sess sess ss sss sess ssss
+50030 LPRINT "Draught forward port: ";FP
+50040 LPRINT “Draught forward stbd: ";FS
+50050 LPRINT "Draught forward mean: ";FORE
+50055 LPRINT "Stem correction: “;STEMCO
+50060 LPRINT “Draught forward (corr.'d to f.pp.): ";FC
+50070 LPRINT “Draught after port: ";AP
+50080 LPRINT “Draught after stbd: “AS
+50090 LPRINT "Draught after mean: ";AFT
+50095 LPRINT “Stern correction: ";STERNCO
+50100 LPRINT “Draught after (corr.'d to a.pp.)}: "AC
+50110 LPRINT "Draught fore & after means: “;FA
+50120 LPRINT "Draught midship port: ";MP
+50130 LPRINT "Draught midship stbd: ";MS
+50140 LPRINT "Draught midship mean: "“;MID
+§0150 LPRINT "“Midship correction: ";MIDCO
+* §0160 LPRINT "Draught midship corrected: ";MC
+50170 LPRINT "Sag(+) Hog{-): ";SH
+50180 LPRINT "Mean of means: ";MM
+50190 LPRINT “Draught for hog and sag: “;DHSC
+50200 LPRINT “Applicable keel: ";KE
+50210 LPRINT “Mean of means corrected: ";MMCO
+. §0220 LPRINT “Trim fwd(-) aft(+): “s;AR*S2
+50230 LPRINT “Observed density: “;0D
+50240 LPRINT "Table density: ";TD
+50250 LPRINT “Displacement: “;DISPL
+50260 LPRINT “First trim correction: ";COl ;
+50270 LPRINT Second trim correction: ";CO2
+50280 LPRINT "Total trim correction: ";CO
+50290 LPRINT "Displ.'t corr.‘d for trim: ";DCO t
+50300 LPRINT “Correction for density average: ";SD 7
+50310 LPRINT “Displ.‘t corr.'d for density: ";DISDEN
+50320 LPRINT "Total deductibles: “;DED
+50330 LPRINT “Displ.‘t corr.'d for deductibles: ";:DISPLNT :
+50340 RETURN
+
+===== PAGE 128 (ECE/ENERGY/19 OCR @300dpi, Annex A listing) =====
+ECE/ENERGY/19
+page 119
+Annex A
+
+. 4. ADVANTAGES OF THE USE OF COMPUTER PROGRAM
+
+The use of computer software has two main advantages:
+
+. -~ Saving of time which can then be spent to take more carefully the
+requested measures (draughts, sea density, deductable weights etc.)
+which would benefit strongly the accuracy of the survey results.
+
+-~ Avoiding the mathematical mistakes which are due to the short time
+that normally the Surveyor can spend on the ship to make this
+calculation.
+
+5. COMPUTERS PROGRESS
+
+The above program is bound to become obsolete over time due to the
+continuous progress taking place in the field of computers. Modern
+communication channels will soon permit the ship master to communicate basic
+data on the vessel to the draught Surveyor even before the arrival of the
+vessel in a harbour.
