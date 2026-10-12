@@ -188,7 +188,10 @@ def test_question11_wedge_volume():
 
 # ---- MIXTURES (стр. 42 книги, PDF index 50): плотность смеси ----
 def test_mixture_rd_formula():
-    # RD_mix = (V1*RD1 + V2*RD2)/(V1+V2) — прямая цитата формулы книги
-    v1, r1, v2, r2 = 100.0, 0.960, 50.0, 0.990
-    rd = (v1 * r1 + v2 * r2) / (v1 + v2)
+    # RD_mix = (V1*RD1 + V2*RD2)/(V1+V2) — прямая цитата формулы книги (стр. 42);
+    # тест вызывает реализацию src/mixture_rd.py, а не дублирует формулу инлайном
+    import mixture_rd
+    rd = mixture_rd.mixture_rd(100.0, 0.960, 50.0, 0.990)
     assert round(rd, 4) == 0.9700
+    with pytest.raises(ValueError):
+        mixture_rd.mixture_rd(0.0, 0.96, 0.0, 0.99)
