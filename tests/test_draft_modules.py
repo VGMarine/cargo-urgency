@@ -127,3 +127,56 @@ def test_deflection_correction_t_method3_alt1():
     assert c == pytest.approx(273.6)
     # зеркальный hog: DM 5.82, AMD 6.00 -> -27.36 t (по чек-листу стр.51 hog=-)
     assert dr.deflection_correction_t(5.82, 6.00, 0.76, 20.0) == pytest.approx(-273.6)
+
+
+# ---------- spec 006: сквозная цепочка ASSESSMENT SUMMARY (стр. 45/51) ----------
+
+def test_assessment_chain_q3_q7_q9_composition():
+    """Сборка чек-листа стр. 51 из независимых книжных контролиров.
+
+    Книга не даёт одного сквозного числового примера — поэтому тестируем
+    композицию: каждый шаг должен давать СВОЙ печатный контроль
+    (Q3 перпендикуляры, Q7 1st trim, Q9 плотность) + знак density (-).
+    Данные: Q3-осадки 6.35/7.88, LBP=170, misplacement 1.815/6.00 (стр. 24-25);
+    TPC=40 и LCF fwd 5 м (Q7); табличное водоизмещение 15250 t при rho 1.025,
+    проба 1.015 (Q9).
+    """
+    import assessment
+    i = assessment.AssessmentInputs(
+        d_fwd_mark=6.35, d_aft_mark=7.88, lbp_m=170.0,
+        dist_fp_to_df_m=1.815, dist_ap_to_da_m=6.00,
+        tpc=40.0, disp_at_mad_t=15250.0,
+        lcf_fwd_of_mid_m=5.0, rho_observed=1.015, rho_table=1.025)
+    r = assessment.corrected_displacement(i)
+    # шаг 1: perpendicular corrections (Q3: 6.35-0.017=6.333; 7.88+0.057=7.937)
+    assert round(r.d_fwd_perp, 3) == 6.333
+    assert round(r.d_aft_perp, 3) == 7.937
+    # AMD по книге стр.18 = (DF+DA)/2 от исправленных осадок
+    assert r.amd == pytest.approx((6.333 + 7.937) / 2, abs=1e-3)
+    # шаг 2: 1st trim со знаком таблицы стр.31 (LCF fwd & trim stern -> -),
+    # по марочному дифференту 1.53 м, LBP=170: -(5*40*153/170) = -180.0 t
+    assert r.corr_1st_trim_t == pytest.approx(-180.0, abs=0.01)
+    # шаг 3: density (< salt -> минус), контроль Q9 (множитель 1.015/1.025);
+    # в цепочке применяется к водоизмещению ПОСЛЕ тоннажных поправок
+    # (стр. 45: "adjusted with the 1st and 2nd trim corrections ... all in
+    # tonnes", затем correction for density) => от (15250-180).
+    assert r.corr_density_t == pytest.approx(-(15250 - 180.0) * 0.010 / 1.025,
+                                            abs=0.01)
+    # итог: 15250 - 180 - 147.02 = 14922.98
+    assert r.corrected_displacement_t == pytest.approx(14922.98, abs=0.01)
+
+
+def test_assessment_deflection_sign_hog_minus_sag_plus():
+    """Прогиб в цепочке: hog уменьшает, sag увеличивает водоизмещение."""
+    import assessment
+    base = dict(d_fwd_mark=6.00, d_aft_mark=6.00, lbp_m=100.0, tpc=20.0,
+                disp_at_mad_t=10000.0)
+    hog = assessment.AssessmentInputs(**base, deflection_factor=0.76,
+                                      d_mid_corrected=5.82)
+    sag = assessment.AssessmentInputs(**base, deflection_factor=0.76,
+                                      d_mid_corrected=6.18)
+    rh = assessment.corrected_displacement(hog)
+    rs = assessment.corrected_displacement(sag)
+    assert rh.deflection_corr_t == pytest.approx(-273.6)   # hog (-)
+    assert rs.deflection_corr_t == pytest.approx(+273.6)   # sag (+)
+    assert rh.corrected_displacement_t < 10000 < rs.corrected_displacement_t
