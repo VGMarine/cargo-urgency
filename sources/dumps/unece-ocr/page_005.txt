@@ -1,0 +1,52 @@
+ECE/ENERGY/19
+page v
+
+INTRODUCTION
+
+For over a century, draught surveys have been accepted as an accurate and
+convenient means of establishing the weight of bulk cargoes, They have heen
+the basis for the preparation of bills of lading and assessing various charges
+and port fees. The basic principle upon which the draught survey methodology
+is based is over 2,200 years old tracing back to Archimedes’ law of buoyancy.
+The application of this law of physics to ships was further refined by
+formulas developed by European naval architects in the nineteenth century.
+While this principle is the basis for the work of draught surveyors throughout
+the world, the procedures by which they are applied vary considerably from
+country to country and even from port to port.
+
+The purpose of this Code is to make these procedures reasonably uniform.
+It is further designed to provide a professional standard for the work of the
+draught surveyor. As the Code is also intended for the benefit of persons who
+may not have seafaring experience, certain aspects are explained in greater
+detail than might be considered necessary by master mariners. A glossary of
+terms has been added under Part 5. Additionally, this Code is intended to
+provide a source of information and serve as a reference book for those who
+make use of draught survey reports or equivalent weight certificates in the
+routine accomplishment of their commercial pursuits. It should be emphasized
+that in draught surveying there is no substitute for experience and that
+accuracy often depends on careful attention to details and proper and diligent
+handling of unusual circumstances which may arise from time to time. It is
+hoped that neophyte and practising draught surveyors along with all other
+persons who are involved with the commerce of bulk cargoes, will find this
+document to be of value.
+
+It is anticipated that in the years to come methods will be refined and
+new equipment will be developed which will improve the draught survey
+methodology. Therefore it is intended to revise the Code from time to time so
+as to keep abreast of such advances. Following this trend, there is further a
+
+need for:
+
+~ including in a vessel's design special features and apparatus intended
+to facilitate and refine draught readings and tank soundings;
+
+- improving the accuracy and standardizing the content and format of the
+ship's technical data especially in the area of tank calibration;
+
+- providing each vessel with a “Data Manual for Draught Surveys" which
+is certified by the vessel's home administration or its classification
+
+society;
+
+- improving surveyors’ equipment and devising new equipment taking
+advantage of advances in technology;
