@@ -1,0 +1,64 @@
+ECE/ENERGY/19
+page 102
+
+Transportable moisture limit
+
+Triangulation
+
+Trim
+
+Trim corrections
+
+the ship changes its mean draught by
+
+1 cm and if AW m2 is the area in m
+
+of the waterplane at which it is .
+floating, then:
+
+Change of volume = Aw x 0.01m3
+
+Change of
+displacement = Aw x 0.01 x 1.025
+tonnes in salt water
+TPC = Aw x 0.01025
+= AW
+97.5
+or TPC = Aw x 0.01 tonnes
+fresh water
+= Aw
+100
+
+Of a cargo which may liquefy, it
+represents the maximum moisture content
+ef the material which is considered
+safe for carriage in ships not
+complying with the special provisions
+of I.M.0. Solid Bulk Cargoes Code. It
+is derived from the flow moisture point
+(flow table test appendix D.1 of I.M.0.
+Solid Bulk Cargoes Code) or from data
+obtained from other test methods
+approved by the appropriate authority
+of the port State as being equally
+reliable. (See also Cargoes which may
+liquefy, Angle or repose and Flow
+state.)
+
+A voyage over three or more usually
+long passages in which a vessel may
+lift two or more cargoes. Normally
+entails ballast passages between
+discharge and subsequent loading ports.
+
+Difference between the mean draught
+forward and the mean draught aft, both
+the measurements having been corrected
+to the forward and aft perpendiculars
+where necessary.
+
+The corrections applied to the
+displacement of the vessel when the .
+vessel is not floating on an even keel. .
+
+sneer hse hh hhh hh th hhh hh hhh ehhh oh edhe ios

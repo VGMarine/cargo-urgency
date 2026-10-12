@@ -1,0 +1,76 @@
+Sample contamination
+
+Saturated
+
+Scale drawings
+
+Seawater density correction
+
+Ship/hull surveys
+
+Shipper
+
+Short loading
+
+Shut-out cargo
+
+Shuttle voyage
+
+Slow steaming
+
+ECE/ENERGY/19
+page 99
+
+The sample bucket should be washed out
+prior to use. Even if it is reserved
+for seawater samples only, residues of
+salt may have remained in the bucket as
+it dried possibly affecting the next
+reading.
+
+A sample of bulk cargo is saturated
+when all the voids between the grains
+are filled with liquid when the sample
+is at rest.
+
+Ship's plans prepared so that each
+centimetre of distance on the scale
+corresponds to a known distance on the
+vessel. For example a scale marked
+1/100 means that 1 cm on the drawing
+corresponds to 1 m on the ship itself.
+
+The difference between the observed
+density of the water in which the
+vessel is floating and the density of
+seawater.
+
+Any survey of the hull, structures,
+fittings, compartment layouts, weather
+decks of a vessel or other marine
+structure.
+
+For the purposes of this Code the term
+shipper means any person by whom or in
+whose name or on whose behalf a
+contract of carriage of goods by sea
+has been concluded with a carrier, or
+any person by whom or in whose name or
+on whose behalf the goods are actually
+delivered to the carrier in relation to
+the contract of carriage by sea.
+
+The loading of a vessel to less than
+its rated capacity.
+
+Cargo that should have been loaded but
+cannot because of bad stowage, or
+because the cargo is of an unacceptable
+quality, or the unscheduled departure
+of the vessel.
+
+A voyage conducted by a vessel between
+two ports on a regular basis.
+
+The operation of a vessel at less than
+its designed speed.

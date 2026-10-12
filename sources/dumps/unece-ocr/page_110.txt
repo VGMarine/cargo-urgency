@@ -1,0 +1,74 @@
+ECE/ENERGY/19
+page 100
+
+Slop tank
+
+Solid bulk cargo
+
+Sounding
+
+Sounding pipe
+
+Sounding tables
+
+Specific gravity
+
+Spot market
+
+Starboard side
+
+Stem correction
+
+A tank specifically designated for the
+collection of tank drainings, tank
+washings and other oily mixtures. .
+
+Is any material, other than liquid or
+gas, consisting of a combination of
+particles, granules or any larger
+pieces of material, generally uniform
+in composition, which is loaded
+directly into the cargo spaces of a
+ship without any intermediate form of
+containment.
+
+Distance between the bottom of a tank
+striker plate and the surface of the
+liquid which the tank contains.
+
+A fixed pipe through which soundings
+are taken.
+
+Calibration tables giving volumes or
+weights corresponding to liquid heights.
+
+Ratio beween the mass or weight in air
+of a given volume of a substance and
+the mass or weight in air of the same
+volume of distilled water. Both the
+temperature of the susbtance and the
+temperature of the water must be
+defined. There are thus various forms
+of specific gravity which can lead to
+considerable confusion, It is for this
+reason that the term apparent density
+is preferred for draught survey, as
+this corresponds to weights obtained by
+weighing on a weighbridge. (See also
+Density and Use of correct hydrometer.)
+
+The market that is characterized by the
+transportation contracts that normally
+cover a single voyage only.
+
+The right-hand side of the vessel as
+seen by an observer facing forward.
+
+Correction applied to the mean forward
+draught when the port and starboard
+forward draught scales are not situated
+at the forward perpendicular.
+
+4
+
+sense Pe SE nh hhh hhc eh nh hhh heheh ehhh a nt RRR
