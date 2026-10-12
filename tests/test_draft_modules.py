@@ -107,3 +107,13 @@ def test_q2_manometer_centreline_8_153():
     from readings import manometer_centreline_draught
     d = manometer_centreline_draught(8.00, 8.25, read_offset_m=8.5, beam_m=20.85)
     assert abs(d - 8.153) < 0.0005
+
+
+def test_deflection_correction_t_method3_alt1():
+    # книга, стр. 30 (Method 3 alternative 1): Corr = factor x TPC x hog/sag(cm)
+    import draughts as dr
+    # Q6-данные (sag): DM 6.18, AMD 6.00, factor 0.76, TPC 20 -> +27.36 t (sag=+)
+    c = dr.deflection_correction_t(6.18, 6.00, 0.76, 20.0)
+    assert c == pytest.approx(273.6)
+    # зеркальный hog: DM 5.82, AMD 6.00 -> -27.36 t (по чек-листу стр.51 hog=-)
+    assert dr.deflection_correction_t(5.82, 6.00, 0.76, 20.0) == pytest.approx(-273.6)

@@ -79,3 +79,16 @@ def mad_from_factor(amd: float, d_mid: float, factor: float) -> float:
     (Cw): для Cw=0.60 книга даёт factor=0.76 (Q6).
     """
     return amd + factor * (d_mid - amd)
+
+
+def deflection_correction_t(d_mid: float, amd: float, factor: float,
+                            tpc: float) -> float:
+    """Method 3 alternative 1 (книга, стр. 30, PDF index 38) — прогиб сразу в тоннах.
+
+    Цитата: "Correction (tonne) = factor x TPC x hog/sag (cm)"
+            "hog/sag (cm) = (DM - AMD) x 100"
+    Знак по CORRECTIONS CHECK LIST (стр. 51): hog (-), sag (+); формула с
+    знаками сама: DM<AMD (hog) => множитель <1 => водоизмещение уменьшаем.
+    Контроль знака: Q6 (sag, DM 6.18 > AMD 6.00) -> поправка положительна.
+    """
+    return factor * tpc * (d_mid - amd) * 100.0
