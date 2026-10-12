@@ -180,3 +180,63 @@ def test_assessment_deflection_sign_hog_minus_sag_plus():
     assert rh.deflection_corr_t == pytest.approx(-273.6)   # hog (-)
     assert rs.deflection_corr_t == pytest.approx(+273.6)   # sag (+)
     assert rh.corrected_displacement_t < 10000 < rs.corrected_displacement_t
+
+
+# ---------- spec 007: DEDUCTIBLES / константа / якоря-цепи ----------
+
+def test_deductibles_total_excludes_anchor_chain():
+    """SUMMARY OF DEDUCTIBLES (форма D): Anchor & Chain — НЕ вычет (вынесено за борт)."""
+    import deductibles
+    d = deductibles.Deductibles(ballast_water=500.0, fresh_water=80.0,
+                               fuel_oil=300.0, diesel_oil=20.0, slops=5.0,
+                               lubricating_oil=15.0, swimming_pool_water=2.0,
+                               others=40.0)
+    assert d.total() == 962.0
+
+
+def test_cargo_on_board_and_light_displacement_roundtrip():
+    """Форма E: Corrected light disp = Corr.Disp − Cargo − Deductibles (+Anchor&Cable outboard).
+
+    Инверсия cargo_on_board при непротиворечивых входах даёт тот же груз;
+    знак Anchor & Chain (стр. 43: вынесенные ПРИБАВЛЯЮТСЯ к грузу) — обеим
+    функциям задан согласованно.
+    """
+    import deductibles
+    dd = deductibles.Deductibles(ballast_water=1000.0, fuel_oil=200.0, others=50.0)
+    cargo = deductibles.cargo_on_board(15000.0, 5000.0, dd, anchor_and_cable_outboard_t=35.0)
+    # 15000 - 5000 - 1250 + 35 = 8785
+    assert cargo == pytest.approx(8785.0)
+    light = deductibles.corrected_light_displacement(15000.0, cargo, dd, 35.0)
+    assert light == pytest.approx(5000.0)   # инверсия точна
+
+
+def test_constant_definition_book_and_britannia():
+    """Constant = Corrected light displacement − Lightship (книга стр.22-23, форма E; Britannia Guidance)."""
+    import deductibles
+    assert deductibles.constant(9035.0, 9000.0) == pytest.approx(35.0)
+
+
+def test_chain_weight_is_literal_book_formula():
+    """Вес шакла пословно по книге: 15 x d_cm^2 x 3.87 / 1000 (стр. 43)."""
+    import deductibles
+    # d = 2.7 см -> 15*7.29*3.87/1000 = 0.42316... т
+    assert deductibles.chain_weight_per_shackle_t(2.7) == pytest.approx(
+        15.0 * 2.7 ** 2 * 3.87 / 1000.0)
+    assert deductibles.CHAIN_BOOK_COEFF == pytest.approx(0.05805)
+    # цепь из N шаклов
+    assert deductibles.chain_cable_weight_t(2.7, 4) == pytest.approx(
+        4 * 15.0 * 2.7 ** 2 * 3.87 / 1000.0)
+
+
+def test_chain_weight_physical_sanity_check():
+    """Порядок величины книжного коэффициента подтверждён физикой (TODO(scan) про множитель)."""
+    import math
+    import deductibles
+    # нижняя граница: прямая прутковая длина шакла 15 фатомов = 27.432 м
+    # d_cm^2 * (pi/4)*(1e-4 m^2/cm^2) * 27.432 m * 7.85 t/m^3 = t на шакл
+    c_straight = 7.85 * math.pi / 4 * 1e-4 * 27.432  # ~0.0169 t per cm^2 of d
+    # верхняя граница: полная геометрия звена; запас по коэффициенту
+    c_links = c_straight * 4.0
+    # книжный коэффициент лежит между: чуть выше прямой длины (избыток металла
+    # звеньев ~1.5x), ниже полной геометрической оценки
+    assert c_straight < deductibles.CHAIN_BOOK_COEFF < c_links

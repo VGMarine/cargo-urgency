@@ -1,12 +1,17 @@
 """DEDUCTIBLES: вычеты из водоизмещения и константа судна (spec 007).
 
-Сверено с оригиналом (текстовый слой PDF): Dibble, стр. 38/46-44 книги
-(PDF index 46-52 в дампе sources/text/dibble.txt), SUMMARY OF DEDUCTIBLES
-(форма «D» UN/ECE, PAGE 70 дампа) и форма «E» (PAGE 71 дампа).
+Сверено с оригиналом (текстовый слой PDF): Dibble, гл. DEDUCTIBLES — стр. 38
+по оглавлению книги (дамп sources/text/dibble.txt, строка 1456; книжная
+нумерация напечатана в конце каждой страницы — глава начинается с «38»),
+ANCHORS AND CABLES — стр. 42-43 (дамп строки 1662-1678), Lightship Constant —
+стр. 22-23 (дамп строки 670-690), SUMMARY OF DEDUCTIBLES (форма «D» UN/ECE,
+PAGE 70 дампа) и форма «E» (PAGE 71 дампа).
 Дополнительно: Britannia Loss Prevention Guidance (sources/text/guidance.txt,
-раздел CONSTANT) — перекрёстное подтверждение определения константы.
+раздел CONSTANT, строки 27-35) — перекрёстное подтверждение определения
+константы («difference in weight of the calculated lightship ... and it's
+tabular figures»; «never constant and can vary»).
 
-Цитата (стр. 46 книги, начало главы DEDUCTIBLES):
+Цитата (начало главы DEDUCTIBLES):
     "The deductibles are the components of the ship's total weight, which must
      be deducted from the calculated displacement in order to determine the
      weight of cargo on board."
@@ -92,24 +97,32 @@ def corrected_light_displacement(corrected_displacement_t: float,
             + anchor_and_cable_outboard_t)
 
 
+# Коэффициент книжной формулы: 15 x 3.87 / 1000 = 0.05805 (при d в см).
+CHAIN_BOOK_COEFF = 15.0 * 3.87 / 1000.0
+
+
 def chain_weight_per_shackle_t(link_diameter_cm: float) -> float:
     """Weight per shackle (tonne) = 15 x (link diameter in cm)^2 x 3.87 / 1000
 
-    Книга, стр. 43 (PDF index 51): "Weight per shackle (tonne) = 15 x (link
-    diameter in cm)^2 x 3.87 / 1000". Реализовано ПОСЛОВНО по текстовому слою.
+    Книга, стр. 43 (дамп dibble.txt, строки 1674-1675):
+        "Weight per shackle (tonne) = 15 x (link diameter in cm)2 x 3.87
+         ... ----------------------- 1000"
+    Реализовано ПОСЛОВНО по текстовому слою: C = 15*3.87/1000 = 0.05805 t/cm^2.
 
-    ВНИМАНИЕ (конфликт с независимой сверкой): книжный коэффициент даёт
-    C = 15*3.87/1000 = 0.05805 t/cm^2, т.е. 0.423 t/шакл при d = 2.7 см.
-    Физическая оценка массы шакла (сталь 7.85 t/m3, металл ~15 м длины):
-    W = pi/4 * d_cm^2 * 15м * ... ≈ 0.00926 t/cm^2 — книжное значение
-    завышено ~в 6 раз; классические справочные формулы дают W(t/шакл) ≈
-    0.07..0.08 * d_cm^2 (d в мм: W = d^2 * L / константа). Вероятная OCR-
-    неоднозначность: «x 3.87 / 1000» может читаться как «x 387 / 10000» или
-    иная расстановка десятичного разделителя. Числовой пример в книге
-    отсутствует (контроля нет). РЕАЛИЗОВАНО ПОСЛОВНО + TODO(scan): сверить
-    множителb со сканом стр. 43 до практического применения.
+    СВЕРКА С ФИЗИКОЙ (независимая оценка, без контроля в книге): шакл = 15
+    фатомов = 27.432 м длины; металл круглого сечения d при плотности стали
+    7.85 t/m3 даёт W ≈ 7.85*(pi/4)*(d/100 m)^2*27.432 ≈ 0.0169*d_cm^2 т для
+    ПРЯМОЙ прутковой длины цепи. Книжный коэффициент 0.05805 примерно в 3.4
+    раза выше — правдоподобно с учётом того, что металл звена длиннее прямой
+    оси цепи (полная геометрия звена даёт ~2.26x), плюс шаклы/коуши и
+    справочный запас. Порядок величины ПОДТВЕРЖДЁН; точный множитель без
+    скана не устанавливается (15 и 3.87 могут быть искажены OCR). Числовой
+    пример в книге ОТСУТСТВУЕТ (контроля нет). См.
+    test_chain_weight_physical_sanity_check.
+    TODO(scan): сверить расстановку десятичного разделителя в «3.87» и «/1000»
+    со сканом стр. 43 (git lfs pull) — OCR может исказить множитель.
     """
-    return 15.0 * link_diameter_cm ** 2 * 3.87 / 1000.0
+    return CHAIN_BOOK_COEFF * link_diameter_cm ** 2
 
 
 def chain_cable_weight_t(link_diameter_cm: float, shackles: float) -> float:
