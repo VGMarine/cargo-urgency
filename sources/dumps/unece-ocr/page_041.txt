@@ -1,0 +1,87 @@
+215
+218
+
+219
+220
+
+223
+233
+
+234
+235
+
+This
+
+235
+237
+
+238
+239
+
+240
+241
+
+242
+243
+
+252
+267
+
+268
+
+271
+
+272
+275
+
+ECE/ENERGY/19
+page 31
+
+- Buct keets and swimming pools: care must be taken to include soundings
+of special spaces such as duct keels, or inspection of the swimming
+pools, etc., in the starting and finishing conditions. Water in the
+swimming pools shall be listed separately, from ballast of all other
+compartments, and entered in line 357 of Form "“D/3".
+
+- Total weight in metric tonnes of ballast water listed in previous
+lines should be entered on the right hand side and also on line 351.
+
+~ Fresh water: the quantity of fresh water listing each tank is to
+be established by sounding or by gauge if fitted, and corrections made
+when applicable for heel and trim. The total is to be entered on line
+352 of Form "D/3".
+
+~ Enter in this space an indication of possible obstructions in sounding
+tube or tubes and identify each problem encountered. In case of need
+add an extra page to illustrate in detail the problem and how it was
+faced in the situation.
+
+FORM "D/2"
+form needs to be filled during the finishing survey.
+
+- Indicate in the appropriate box if survey relates to cargo
+loaded or unloaded.
+
+- In these two lines the identification of the corporation or the
+private professional need to be provided.
+
+- Identify the vessel name and the serial no. of the survey.
+
+- Enter with the starting and the finishing hour of ballast (and
+possibly fresh water) soundings: indicate hours from 00 to 24 and
+minutes from 00 to 60. Enter subsequently with date or dates and
+specify trim of the vessel while the soundings for ballast and
+possibly fresh water took place.
+
+- All ballast tanks need to be listed in the same order as in form "D/1"
+and the value sounded for each tank entered in the appropriate columns
+with necessary corrections.
+
+- All bilges checked and listed as in form “D/1" with pertinent
+data if necessary.
+
+- Duct keel and any other compartment listed in form "D/1" needs to
+be listed also in this form and applicable values entered in the
+appropriate column. Surveyors are warned that the erroneous
+assumption possibly made on “empty” or “full” duct keel, eventually
+due to the difficulty of sounding may lead to surprising discrepancies.

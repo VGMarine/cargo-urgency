@@ -1,0 +1,56 @@
+ore
+
+ECE/ENERGY/19
+page 18
+
+033° (- Identify the name (or the names) of the surveyors performing the
+starting and the finishing survey.
+
+034 - Identify the Master, It is not unusual that the Master of the
+035 finishing survey may be different than the Master of the 4
+starting survey. : -
+
+036 - These lines will serve to identify the Chief Officer and the Chief
+037 Engineer. Not infrequently the names will be different from starting
+to finishing survey.
+
+038 - In these four lines should be identified respectively the names and
+
+039 the ranks of the witness of the draught readings and of the tank
+040 soundings. Not infrequently the names in these lines will be the same
+041 as the Chief Officer (who generally assists in the draught readings)
+
+and of the Chief Engineer (who generally assists in the tank
+soundings).
+
+042 - In this line should be identified the terminal, pier, or berth where
+the vessel was located at the time of the Starting and finishing
+surveys.
+
+043 - These lines are provided for recording the weather temperature in
+
+045 centigrade and the sea conditions.
+047) - Indicate the heading of the ship.
+048 - Indicate the direction of the wind.
+
+049° - Indicate the speed of the stream in Km/h only in ports where such
+element is of relevance.
+
+050 - Indicate status of the tide at the time when the starting and
+finishing surveys were conducted.
+
+052 - Indicate such information on ice only when applicable.
+
+054 - Cargo handling equipment brought temporarily on board should be
+
+055 Gescribed in these lines and tare weight of it properly identified.
+056 - Normally in these lines is identified the weight of the anchor and of
+057 the chain and/or other temporarily missing ship's equipment.
+
+FORM "B"
+
+058 - Specify in the appropriate box if the Survey relates to the cargo
+060 loaded or unloaded.
+
+O61 - In these two lines the identification of the corporation or the
+062 private professional need to be provided.

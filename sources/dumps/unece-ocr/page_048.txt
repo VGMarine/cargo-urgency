@@ -1,0 +1,52 @@
+ECE/ENERGY/19
+page 338
+
+PART 1
+SECTION D
+IMPROVING ACCURACY
+
+In a draught survey operation several parties are involved and it is to
+the advantage of each party to join the efforts to increase the accuracy. The
+parties involved are:
+
+A. The buyers, the sellers, the charterers, the terminals and the
+
+Assuming that buyers, sellers and charterers are equally concerned about
+the correct weight of the cargo, also for the master (respectively chief
+officer to whom the responsibility of the cargo weight is delegated) shortages
+and discrepancies may be a problem.
+
+In order to avoid this, it is strongly recommended that, once a vessel is
+nominated, a telex be sent to the master informing that the bill of lading
+weight will be established by draught survey. This, in order to indicate that
+his vessel is to meet certain requirements at time of arrival at
+load/disport. If not, the vessel may be placed in off-hire and the
+master/owner be held responsible for all related costs.
+
+B. Tel rm. t Lv. m. f vi
+
+A suggested format for such a telex is quoted below:
+
+Suggested telex format
+
+To the Master, M.V.
+Copy to performing surveyor
+
+Prom os (the charterer's agent)
+
+Subject: Presentation of vessel on arrival in full readiness for
+draught survey to be conducted in accordance with the UN/ECE
+Draught Survey Code 1991.
+
+Sir,
+
+Please be advised that, under the terms and conditions of your charter
+party, you must present your vessel in full readiness for an independent
+marine surveyor, acting on our behalf, to conduct a draught survey to
+establish bill of lading quantity. The draught surveyor will board your
+vessel upon arrival at the cargo handling berth.
+
+1. Vessel shall arrive at the loading (or unloading) port with a trim not
+exceeding her ballast tank trim correction tables and without list (in any
+case the list must not exceed 1/2 degrees).
+

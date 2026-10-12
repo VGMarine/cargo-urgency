@@ -1,0 +1,53 @@
+ECE/ENERGY/19
+page 35
+
+PART 1
+SECTION C
+FACTORS AFFECTING DRAUGHT SURVEYS
+
+Quite apart from the points made in other parts or sections of this code
+certain inherent limits of approximation remain in this technology like in any
+other weighing process meant to measure guickly and inexpensively large masses
+of materials.
+
+1. Incorrect hydrostatic information or draught marks
+
+Investigations carried out in specially performed draught surveys have
+indicated that there can be significant errors in the determination of
+displacement due to typographical errors or arithmetical errors in the ship's
+hydrostatic tables. This could be improved if the tables furnished to the
+surveyor bore an approval stamp by the flag government or the classification
+society.
+
+After a number of years careless re-painting of draught marks, especially
+if they have not been permanently marked on the hull, can cause erroneous
+readings. If there is any doubt, the draught marks should be re-sited at the
+next dry docking.
+
+2. xr ibrations
+
+This is normally ascertained after a number of draught surveys when a
+constant error may appear. It may be verified by a careful draught survey
+when just the tank/tanks in question are filled or emptied with no other
+weight changes. Classification societies, upon request of the shipowners, may
+however issue the special calibration certificates for each tank or
+compartment of the vessel.
+
+3. Mud and/or scale in ballast tanks
+
+The quantity of mud and/or scale will increase over a period of years,
+depending on the sediment in any ballast taken, on the extent of scale
+formation and on the cleaning which is carried out. It is difficult to
+quantify. The effect on ballast calculations can be minimized unless there
+are reasons to the contrary by leaving a measurable quantity of water in the
+ballast tank instead of pumping it dry. The calculation would then use a
+difference in known water quantities rather than assume that a tank is
+completely empty: in this way the error would be confined within the density
+differential of the mud and the ballast water.
+
+Regularly, large bulk carriers arrive at unloading ports with a slight
+trim by the head as a result of burning fuel from the aft located fuel tanks
+during long sea passages. Since generally the sounding pipes are located aft
+enly, dry soundings of ballast tanks do then not necessarily mean that no
+water is present, since any water will accumulate in the fore end. When the
+ballast tables are subsequently entered with zero sounding and the head trim,

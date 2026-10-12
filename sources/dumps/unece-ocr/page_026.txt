@@ -1,0 +1,56 @@
+ECE/ENERGY/19
+page 16
+
+6. Free ballast in cargo holds should not be Present, however, the
+amount of such ballast must be precisely determined or eliminated
+before the survey can start.
+
+7. All draught marks, deckline marks and Plimsoll marks should be
+permanently indicated by raised figures or figures outlined with a .
+weld bead and shall be clearly legible. While the draught readings
+are being made, there should be no transfer of liguids or movement of
+heavy equipment which could alter the list or the trim.
+
+8. It should be reported to the surveyor, and he should be alert for,
+any addition or removal of weight, other than the cargo, which occurs
+while the survey is in progress. Every effort should be made to
+delay the requirement for such weight changes until after the survey
+observations have been completed.
+
+9. Further to item (8) above, it is imperative that no cargo shall be
+loaded or discharged before the surveyor has completed his initial
+observations, readings and measurements, and given his express
+consent for cargo operations to commence.
+
+10, All sounding pipes must be accessible, unobstructed, and capable of
+serving their intended purpose. All gauges, furnished in lieu of
+sounding pipes, shall be in proper working order.
+
+3. Accuracy
+
+For the purpose of uniformity, all draughts, soundings and other figures
+shown in the survey, shall be in the order of two (2) decimals as, considering
+all factors inherent in draught Surveys, anything further is considered
+superfluous. For sea water density, four (4) decimals must be used.
+
+4. n i mpleti forms "A" th "NEY
+f Dr ry.
+
+The identification numbers stated in the following instructions refer to
+the Line Numbers on the left hand border of the Sample Forms "A" through “E"
+of the UN/ECE Draught Survey Code, Edition October 1991 - 1.8, with cross-
+references to line numbers of other Forms.
+
+FORM "A" (Preface page)
+
+The information presented on this page is meant to encompass the general
+information pertinent to any cargo weight determination derived from draught
+survey. There may be additional data related to Specific cases. These can be
+included as detailed in the commentary of each line:
+
+ool - Indicate if draught survey report refers to loaded or
+
+002 unloaded cargo. In case of need a rubber stamp can be -
+
+003 added for such other qualifications of the report such as 7
+“Certificate of weight", etc.

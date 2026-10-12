@@ -1,0 +1,28 @@
+ECE/ENERGY/19
+page 42
+
+- Commissary stores and crew's personal baggage and stores
+- Thermodynamic deformation (relevant on large hulls)
+
+- Accumulation of additional equipment, supplies, replaced spare parts
+which are retained, extra wire rope, cordage, etc.
+
+- Build-up layers of paint and marine growth on exterior hull
+- Residues of ballast water on boundaries of tanks
+- Mud or scale in ballast tanks
+
+The constant has no effect on the accuracy of the weight of the cargo as
+determined by the draught survey for any single cargo, if it does not change
+between the start and the finish of surveys. If a good record of the actual
+constant is maintained over the life of the ship (see page 32) it is very
+useful in cross-checking the accuracy of the survey. The following check
+calculation should always be made at the end of the start or the finish
+survey, whichever is the condition, i.e. before the cargo is loaded or after
+it has been discharged:
+
+ceeoeccneesesseee Corrected displacement
+steeeeeeeeeseeess-Non-cargo weights (tankage, ballast, etc.)
+sceeeccecceoevessLightship weight (in T & S booklet)
+
+een cee sence ee eee  RCONStAant
+

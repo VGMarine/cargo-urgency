@@ -1,0 +1,58 @@
+ECE/ENERGY/19
+
+page 33
+
+Summary of deductibles
+
+346 - All figures of these lines have to be entered accurately, filling
+
+362 in the starting survey and the finishing survey data as follows:
+
+351 - In the starting survey table needs to be entered the summation of
+line 219. In the finishing survey tables the swnmation of line 276.
+
+352 - In the starting survey the summation of line 232 and in the finishing
+survey the summation of line 290.
+
+353° - Summations of line 333 need to be entered under the respective
+starting and finishing table.
+
+354 -~- Summations of line 343 respectively under starting and finishing.
+
+355 - Subtotals possibly entered in section of fuel oil need to be entered
+in this line respectively under starting and finishing survey as
+appropriate.
+
+356 - The totals of lube oil shall be generated in the total quantity
+directly from ship's documents and entered under starting and
+finishing survey.
+
+357  - The water contained in the swimming pool must be entered as
+appropriate under starting and finishing survey.
+
+358 - Enter the weight of the anchor(s) and chains, under starting and
+finishing.
+
+359 - Enter in this line every other weight other than cargo identified in
+the starting and finishing survey.
+
+361 - Summation of all above listed items represents the total weight of the
+deductibles to be entered in line 169 and to be deducted from the
+starting and the finishing displacement of line 168 to obtain the
+displacement corrected for deductible of line 170.
+
+FORM "E"
+
+This is the concluding part of the draught survey.
+
+364 - Indicate in the appropriate box if survey relates to cargo
+
+366 loaded or unloaded.
+
+367 ~ In these two lines the identification of the corporation or the
+
+368 private professional need to be provided.
+
+369 - Identify the vessel name and the serial no. of the survey.
+
+370

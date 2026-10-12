@@ -1,0 +1,55 @@
+ECE/ENERGY/19
+page 36
+
+considerable quantities of residual ballast water are found. Again, this
+water does not actually have to be present. Consequently, when one assumes
+empty or tabulated quantities, both may be wrong.
+
+4. m_ shi we
+
+Marine growth on the bottom of the ship, especially if dry docking is
+delayed or there is a failure in the antifouling paint, adds weight to the
+ship. But, because this weight does not change between the start and finish
+surveys, it has no effect on the calculation of the cargo weight, unless the
+vessel is docked for a long period or the antifouling paint deteriorates,
+
+5. Water disturbance
+
+Normally due to wind, swell, or passing traffic. Accurate reading of the
+draught requires the use of a draught reading tube such as one of those
+Gescribed in Section 1 of Part 2 "Draught Survey Instruments",
+
+6. Variations in sea-water density
+
+If a loaded vessel has a small underkeel clearance, the sea-water may
+hold mud/sediment in suspension, or its density could be affected by chemicals
+in solution, This may be apparent from the bottom layer sample. If it is
+Suspected, a sea-water sample should be taken at the maximum draught as a
+check. In river ports or in proximity of river mouths or of industrial plants
+there may be numerous layers of water with differing densities, which may
+substantially affect the accuracy of the water sample unless properly detected.
+
+7. Vessel _ squat
+
+When a vessel is moored in a tidal stream or a fast flowing current, in
+shallow water, it will squat in the water, i.e. its @raught will increase.
+This is due to a fall in the pressure of the water between the bottom of the
+hull and the sea-bed. The sinkage is due to a number of complex factors due
+to the hydrodynamic properties of the hull, especially where underkeel
+clearance is small and which cannot be accurately determined by theoretical
+calculations. There appears to be no effect at current speeds
+below 2.5 knots. If conditions are conducive to squat the surveyor and the
+master should monitor carefully that the vessel is fully afloat and not
+touching the bottom, and for best accuracy, consider waiting for slack water,
+or shifting the vessel to another berth where the effects of squat are known
+to be less.
+
+8. As i hull ion:
+
+If the mean draught midships differs from the mean of the forward and
+after draughts it is assumed that the deflection of the hull shape takes the
+form of @ parabolic curve. This assumption is inherent in the two-thirds and
+quarter-mean methods of correcting for hull deflection. I£ there is no
+difference between the mean draught midships and the mean of the forward and
+after draughts it is assumed that the hull shape has not been deflected. Both
+

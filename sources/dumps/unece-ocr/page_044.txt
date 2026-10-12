@@ -1,0 +1,58 @@
+we
+
+ECE/ENERGY/19
+page 34
+
+376 - Enter the corrected displacement of the starting survey, as per
+line 170.
+
+378 ~- Enter the corrected displacement of the finishing survey as per
+line 170.
+
+Calculation of cargo weight
+
+380 ~ When both the starting and finishing surveys have been completed:
+
+Cargo = Corr. Displacement - Corr. Displacement
+Weight Loaded Unloaded
+(line 380) (line 170) (line 170)
+
+383 - When such data is available and for statistical purposes only, enter
+in the provided space the shore scale quantity converted in metric
+tonnes. The scale weight should in no way whatsoever influence the
+
+1 n i h i he mi remen n
+galculations he has made,
+389 ~ These lines should be filled with illustration of unusual situations
+400 (extra pages can be added if needed); with specific identification
+
+of vessel's documents used; and, in case of need, with the
+identifications of the reasons for surveyor's refusal or impossibility
+to perform the survey. In such instances, provided facts are
+objectively listed, the surveyor shall be entitled to the agreed fee
+like if the survey had been made.
+
+401 - Enter calculation of the constant.
+408 - In the situation described in the previous sentence these four lines
+411 need to be reworded (i.e. “where not within" - in lieu of “where
+
+within" and "did adversely affect" instead of “did not adversely
+affect") or voided completely.
+
+412 ~- Enter total number of pages including pages possibly added to the
+seven pages of the UN/ECE Draught Survey Code Forms (Ed.
+October 1991-1.8).
+
+416 - In these two lines the identification of the corporation or the private
+417 Professional need to be provided,
+
+418 - Signature of the surveyor or surveyors and indication underneath of the
+
+422 full names in print and title(s). Surveyors are warned that each page
+of the survey needs to be signed or initialled by the surveyor(s).
+Moreover it is good practice by the surveyor to tender the manuscript
+of the document for the signature of the Master (or alternatively of
+the Chief Officer and the Chief Engineer) only as witness and for ‘
+endorsement of the vessel's data by themselves released to the
+surveyor.
+

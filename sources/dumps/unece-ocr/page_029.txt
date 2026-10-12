@@ -1,0 +1,61 @@
+063° -
+064
+
+086 -
+087
+
+oss -
+
+090 -
+
+ECE/ENERGY/19
+page 19
+
+Identify the vessel name and the serial number of the
+survey.
+
+Tick the appropriate box to record the criteria for calculating the
+corrections,
+
+Identify the ship's approved hydrostatic data. In this connection it
+needs to be stressed that the range of hydrostatic data shall be from
+light ship draught to the deepest draught permitted by the Load Line
+assignment.
+
+Tick the appropriate box regarding the degree of tank calibration.
+
+Enter the range of “tables for correcting tank calibrations for trim”
+available. In case trim should exceed the range of tables, the
+surveyor will stop his activity until such time when the ship will be
+trimmed again within the range of the approved tables.
+
+Enter in sequence the shipyear no., the hull no. and the place
+and date of the document from which the information was obtained.
+
+Any discrepancy which would be obvious to a qualified surveyor should
+be summarized in these two lines. In case space should not be
+sufficient, an extra page can be added to explain more in detail the
+problems faced.
+
+Ship's particulars in these lines can be filled in by the Master in
+advance of survey start in order to reduce the time of the
+preliminary formalities. Naturally the surveyor can ask to verify
+the relevant figures from the original approved documents.
+
+i nh
+
+At the termination of the survey which takes place when the cargo is
+not on board, i.e. either before it has been loaded or after it has
+been discharged, the following calculation shall be made for
+comparison with the previous history of the ship:
+
+Constant = Corrected - Light ship Weight listed
+Displacement in approved Trim & Stability
+(Unloaded) Booklet
+
+{line 090) = (line 170) - (line 092)
+
+This undefined weight should not be accepted as a “constant” for the
+vessel, but should be recalculated at each draught survey and should
+be recorded on a light ship correction certificate which should be
+maintained on board the ship, recording the following information:

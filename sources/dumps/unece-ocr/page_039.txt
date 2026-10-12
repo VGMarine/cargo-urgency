@@ -1,0 +1,67 @@
+ECE/ENERGY/19
+page 29
+
+(c) If£ fuel, fresh water, or other consumables are taken on board
+between the start and finish surveys, the increase in weight indicated
+by the delivery invoices, shall be calculated into the change in
+weight due to "in port" consumption, provided such indicated weights
+appear “reasonable”. Otherwise, the actual weights of fuel and water
+should be determined at the initial and final draught survey.
+
+(a4) In the situation where the vessel is in port for a protracted
+period between the starting survey and the finishing survey, the
+measurement and calculation of the deductible weights on Forms "D/1",
+"D/2", and "D/3" shall be conducted at both the starting and the
+finishing surveys.
+
+(e) In the unusual case where the condition of the ship, at the time
+of the starting survey, is not conducive to the accurate determination
+of the tankage, the measurements and calculations listed on Forms
+"D/1", “D/2", and "D/3", with the exception of the Ballast Tanks, may
+be deferred until the finishing survey. The weight attributable to
+the "in port" consumption shall be added to the weight reported at the
+finishing survey. This situation should be noted in the footnotes.
+
+(£) In some exceptional cases there is a non-cargo weight adjustment
+which must be dealt with differently than provided for on Form "D/3",
+lines 357-359. This occurs when a significant weight, which is part
+
+of the ship's structure or basic equipment (i.e. is included in the
+approved light ship weight), is not on board at the time of the survey.
+If the deficiency exists at the time of both the starting and the
+finishing survey, it has no effect on the cargo weight but it will
+increase the constant as shown on Form "B", line 090. If the deficiency
+exists at the time of one of the surveys but not the other, it will
+affect the cargo weight also. Therefore, the deficiency must be
+corrected in the final cargo weight as shown on Form "E", lines 376-380.
+The details of such correction shall be included on Form "E".
+
+Calculati ¢ Final ¢ 4 Displ
+
+170
+
+Corrected = Displacement (3) - Deductible
+
+Displacement Weight
+
+(line 170) (line 168) (line 169)
+FORM "DB/1"
+
+This form needs to be filled during the starting survey.
+
+178
+180
+
+181
+182
+
+183
+184
+
+Indicate in the appropriate box if the survey relates to the cargo
+loaded or unloaded.
+
+In these two lines the identification of the corporation or the
+private professional need to be provided.
+
+Identify the vessel name and the serial no. of the survey.

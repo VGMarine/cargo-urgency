@@ -1,0 +1,56 @@
+ECE/ENERGY/19
+page 28
+
+(b) The weight of the ship and all that is in her must be adjusted for
+the difference in the actual weight, in air, of the water displaced by
+the ship and the assumed weight used by the naval architect in computing
+the draught versus displacement table. This correction is made in
+accordance with the following formula:
+
+Density Corr. 9) x Displacement (2)
+(line 167) RD (line 161)
+
+where: RD = Density of water specified in the ship's
+hydrostatic data (line 158)
+MD = Average density of water as measured in accordance
+with paragraph (a) (line 157)
+
+Disregard the resulting algebraic sign because the correction
+will be applied in accordance with the rule set forth in the next
+
+paragraph,
+lculati isplacem
+168 ~- Displacement (3) = Displacement (2) + Density Corr.
+(line 168) (line 166) {line 167)
+
+The sign of the Density Correction is dependent on the relationship
+between the measured density and the reference density used in the
+hydrostatic data. Thus, if the measured density is less than the
+reference density, the density correction is minus and vice versa.
+
+1 i otal ibl
+
+169 ~ In the draught survey calculations there must be a means for
+discriminating between the weight attributable to the cargo and the
+weight attributable to other burdens within the ship. The means for
+this is provided by identifying and summing all non-cargo weights as
+measured and calculated on Forms "D/1", "D/2", and "D/3". The
+following special instructions apply:
+
+(a) In the starting survey, all the deductible weights, which are on
+board at the time of the survey, must be identified and the weight
+attributable to each must be stated in the draught survey report.
+Summation of these items furnishes the Total Deductible Weight.
+
+(b) Unless important alterations occurred from starting to
+
+finishing survey such as discharge of fresh water near completion
+
+to accommodate cargo; in the finishing survey, the procedure
+
+required by paragraph (a), need not be repeated. Instead, only the
+ballast tanks, on Form "D/2", must be measured and calculated a second
+time. The weight, at the time of the finishing survey, of the fuel,
+fresh water, and other consumable liquids shall be determined by
+deducting the “in port" consumption from the weight reported at the
+starting survey.

@@ -1,0 +1,53 @@
+ECE /ENERGY/13
+
+page 9
+U.N. « ECE - DRAUGHT SURVEY CODE
+| |LOADED
+[ |UNLOADED
+CARGO STATEMENT
+
+Starting Displacement Corrected
+
+Finishing Displacement Corrected
+
+Difference in Displacement = TOTAL CARGO IN BULK IS:
+
+OBSERVATIONS: Shore scale quantity (if available) M.T.
+
+Note on any unusual situation/s, exception/s from required Uniform Code standard, specific identification
+(source, drawing no., date, title, certifying authority) of each ship's document used in translating recorded
+measurements into weights and, when applicable, reasons for surveyor's refusal or impossibility to perform
+the survey:
+
+Metric Tonnes
+
+Corrected light displacement =
+Deductables=
+
+Lightship=
+
+Constant=
+
+Mean of previous constants=
+
+| certily that the constant calculated from this draught survey has been entered into the ship's “Constant Certificate”
+
+In my judgement the weather conditions, the sea conditions, and the conditions of the ship at the times the
+draught surveys were conducted, were within acceptable limits and did not adversely affect the accuracy of
+this survey. This Bona Fide report consisting of _. Pages, including this page, all duly initialled or signed
+is issued without prejudice and is for the benefit of whom it may concern.
+
+Name of surveying firm (corporate identification)
+
+By:
+a
+
+{Signature of Surveyors)
+
+Name?/s in print
+all Slndes of iNle auch cunvoe hee nnn ae eee eee
+J have partecipated in ail stages of this draught survey, and agree with the results oblained. | acknowledge recelpt of the ship's copy.
+
+Name in print:
+
+Ed. October 15, 1991 - 1.8 - Microsoft Excel 2.2 7-7

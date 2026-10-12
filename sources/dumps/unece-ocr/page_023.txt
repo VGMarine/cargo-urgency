@@ -1,0 +1,52 @@
+ECE/ENERGY/19
+page 13
+
+ports, the final draught survey certificate forms the basis on which harbour
+rates, loading, stevedoring and other service charges are levied, as well as
+completion of the Bill of Lading for the vessel. It is therefore in the
+interests of both the Shipper or Receiver and the Vessel Agent to ensure that
+a satisfactory draught survey has been completed. Payment for draught Surveys
+on loading normally is the responsibility of the shipper and on unloading of
+the receiver. In practice these charges are normally incorporated into the
+cargo Superintending fees. In cases of dispute between the shipper and the
+ship's master over any draught survey, the master retains the right to arrange
+for a second, independent survey to be conducted but, in such cases, the cost
+of the second survey should be borne by the vessel operator.
+
+7. ri i nei
+
+Particularly for comparison of load port and discharge port draught
+surveys it is essential to consider the eventual Superficial moisture drainage
+eccurred during the transit time.
+
+As per world practice, moisture determination takes Place on all minerals
+before loading and after unloading, the difference between the two figures can
+only be with a negative sign at disport. If and when data are otherwise, this
+vital element cannot be utilized and comparability becomes less reliable.
+
+When all factors and actors work properly this moisture difference should be
+equal to “bilge drainage" plus evaporation less sprinkled water on the
+load/unload belts for dust controlling apparatus.
+
+It is strongly recommended that arrangements be made between shippers and
+consignees, whereby copies of Moisture Certificates and Draught Survey
+Certificates at the loading and out-turn ports are exchanged for each cargo.
+Where such arrangements have been entered into, the shipper should provide the
+consignee with the following information by telex, facsimile or other method
+which will ensure that the information is available prior to discharge:
+
+~ copy of Moisture Certificate(s) at loading port or ports;
+
+~ copies of Certificates of Draught Survey(s) conducted at the loading
+port or ports;
+
+- motes provided by the surveyor in relation to sea and weather
+conditions at the time of loading, together with any comments on
+deficiencies found with the vessel or its equipment or difficulties
+encountered in the use of the ship's tables.
+
+It is important that the consignee or Surveyor at the disport also be
+provided with a record, certified by the master or a ship's officer of any
+tonnages pumped overboard from bilges during the voyage as a loss in cargo
+weight may occur through drainage and/or evaporation particularly on a long
+voyage involving significant climatic changes.

@@ -1,0 +1,50 @@
+ECE/ENERGY/19
+page 21
+
+The draughts shall be read at the forward and after marks and at
+midships, port and starboard, and recorded immediately before cargo
+loading/discharging operations commence and, again, immediately after
+cargo loading/discharging operations are completed.
+
+All draught readings shall be witnessed and agreed to by a licensed
+deck officer (complete line 39 on Form "A"). If the readings cannot
+be properly observed from the pier or from a ladder over the side, the
+readings over the side shall be made from a small boat manoeuvred to
+the proximity of the marks. If turbulent conditions of the water
+Surface prevent accurate readings and when local conditions will
+allow, a draft reading tube which dampens out the surface oscillations
+shall be employed. At exposed ports, the use of a boat may be
+impractical or even dangerous. In such situations a suitable
+alternative is to read the nearside draught marks and to employ a
+manometer to determine the offside draughts, by calculating
+proportionally the effect of vessel heel. The use of a manometer can
+also enable calculations of heel when the vessel is subject to rolling
+as a result of sea conditions.
+
+Irrespective of the availability of the midship draught marks, the
+midship draughts, port and starboard, should be determined by
+measuring the freeboards from the deck line to the waterline.
+
+To obtain an accurate depth of the ship, add the Summer freeboard,
+listed on the ship's Load Line Certificate, to the Summer Draught. It
+needs to be noted that the Load Line Certificate should always be
+sighted as this is the legal source for this information (not the
+Plimsoll mark on the side of the vessel). From this depth, subtract
+the port and starboard freeboards, thus obtaining midship draughts.
+
+The mean draught at the mark is the numerical average of the readings
+observed on the port and starboard sides.
+
+th M Perpendicular
+The draught readings at the marks must be corrected to the
+
+equivalent readings which would obtain at the Forward and After
+Perpendiculars as specified by the following formula:
+
+Draught at = Draught at + Corr.
+Perpendicular Mark to PP
+Corr. (2 }
+topp =~ * (pi * Py)
+where: TI = Trim between draught marks
+D1 «= Distance between draught marks
+D2 = Distance from draught mark to perpendicular

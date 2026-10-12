@@ -1,0 +1,51 @@
+ECE/ENERGY/19
+page 15
+
+PART 1
+SECTION B
+UTILIZATION OF THE UN/ECE DRAUGHT SURVEY CODE
+
+FORMS "A" THROUGH "E"
+
+1. Format and procedure
+
+In order to establish a uniform procedure to be followed between loading
+and out-turn surveys, the coded format, together with the accompanying
+explanation given in this document, should be followed. It is understood that
+slight alterations or additions may be necessary to form "A" lines 001 to 010
+due to specific requirements of the principals involved. It should be evident
+that if cargo is measured at both loading and discharging ports, it is of the
+utmost importance that the draught survey at each port should be carried out
+by uniform procedures utilizing the same report format. For multiport loading
+or discharge the performance of the draught survey by the same individuals
+will improve the reliability of the final certificates.
+
+2. Vv nce
+The vessel presented for survey should meet the following:
+1. Vessel should be in general good condition and fully afloat.
+
+2. Vessel should present to the surveyor documents as prescribed in the
+section on documents.
+
+3. The ship should have a zero list but, in any case, the list must not
+exceed 1/2 degree,
+
+4. The ship should have negligible trim but, in any case, the trim must
+not exceed the range of the trim corrections furnished with the
+ship's tank sounding tables.
+
+5. As many ballast tanks as possible should be either empty or pressed
+up. This is an ideal situation only when the vessel has a negligible
+trim, and a sufficiently tall tank sounding pipe such that when the
+tank is fully pressed up, a proper sounding can be taken to verify
+this "full" state. Whenever the vessel has a trim, or whenever
+“voids" of air are suspected to be present in a ballast tank, then
+the most accurate method of obtaining the true weight of the ballast
+water onboard is for the sounding caps to be left off all top-side
+(or under-deck) tanks. In this way an actual sounding can be
+obtained, and an accurate volume of ballast water obtained from the
+tank calibration tables. If the sounding caps were screwed tightly
+down, and the tanks pressed up by overflowing the ballast through the
+tank ventilators, the ship's staff may be sure the tank is full, but
+in the absence of a sounding they cannot prove it, and even so, voids
+of air may still be present.

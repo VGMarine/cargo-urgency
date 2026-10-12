@@ -1,0 +1,56 @@
+ECE/ENERGY/19
+page 26
+
+(a) In the relatively unusual case where the hydrostatic data is
+referred to the moulded base line, the thickness of keel plate
+{line 153) must be deducted from the M/M/M draught before entering
+the hydrostatic tables.
+
+(b) In the event that the ship has hydrostatic curves instead of
+tables, displacement (1), i.e. line 161, shall be obtained by reading
+a displacement, from the curves at the closest delineated calibration,
+and applying a correction for the actual M/M/M draught as follows:
+
+D{1) = DC + TPC x (difference between CD and M/M/M)
+
+where: D(1) = Displacement (1) (line 161)
+DC = Displacement read at calibration
+CD = Calibration draught utilized
+
+= Tonnes per centimetre
+
+The sign is applied according to whether the M/M/M is above or below
+the calibrated draught which was utilized in the calculation.
+
+ion 1) 2
+166 Displacement (2) = Displacement (1) + Trim Corr.
+(line 166) (line 161) (line 164)
+
+This calculation is not necessary if the displacement is calculated
+directly by the method set forth in paragraph (c) of the section on
+Calculation of M/M/M draught, which includes the effects of both trim
+and hull deflection, i.e. the value obtained by such method is
+Displacement (2).
+
+1 ion rim is ion
+
+162 ~ (a) Except when the displacement is corrected for trim by the
+
+163 method described in paragraph (c) of the section on the
+
+164 calculation of M/M/M draught or except when trim correction tables are
+available, the correction for trim shall be calculated by means of the
+following formula:
+
+LCF Corr. | JPC x LCF x
+{line 162) ~ LBP
+The sign of the correction shall be in accordance with the following
+table:
+TRIM LCF Pwd [ LCF Aft |
+Aft - + |
+ponenenennne nt eennn ene waneeeenn ---4
+: Fwd + -
+2
+Nemoto Corr. 2) «x T
+
+(line 163) LBP

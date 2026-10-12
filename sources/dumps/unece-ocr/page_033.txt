@@ -1,0 +1,40 @@
+ECE/ENERGY/19
+Page 23
+
+(a) If hog or sag exists, the draught applied in the displacement
+calculations shall be adjusted in accordance with the following
+formulas:
+
+M = pip Pap (line 143)
+
+M/M = + MS (line 151)
+
+/M + (line 152)
+2
+
+Dfp = draught at For'’d Perp. (line 134)
+
+Dap = draught at After Perp. (line 141)
+
+MS = draught at Amidships (line 149)
+
+M/M/M = draught applied in the displacement calculations (line 152)
+
+(b) If the ship is provided with an approved table which furnishes a
+correction for hull deflection, then this correction shall be used in
+lieu of the correction prescribed by paragraph (a). A statement of
+such usage shall be clearly documented on Form “E", so that the same
+methodology will be applied in any other draught surveys conducted on
+the same voyage.
+
+(c) If it is agreed before the voyage commences, that the
+displacement will be calculated by integration of the transverse
+section areas representing the immersed portion of the hull as
+actually trimmed and deflected, with appropriate correction for the
+weight of the shell plating and the appendages, then this method shall
+be used in lieu of the correction prescribed by paragraph (a). The
+total hull deflection measured amidships shall be apportioned at each
+station between the Forward and After Perpendiculars by the parabolic
+coefficient set forth in Table I. A statement of such usage shall be
+clearly documented on Form "E" so that the same methodology will be
+applied in subsequent surveys as agreed.

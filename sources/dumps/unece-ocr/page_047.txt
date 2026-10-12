@@ -1,0 +1,30 @@
+ECE/ENERGY/19
+page 37
+
+assumptions may be incorrect. In practice, the hull deflection may not be a
+parabolic curve or there may be deflections between the ends of the vessel and
+the midships points (i.e. as a modified sine curve).
+
+If the draught is not read at all six draught marks, the hull may be
+twisted without the fact being known.
+
+9. Solar bending
+
+Vessels of approximately 50,000 tonnes deadweight and upwards may be
+subject to hull deflections caused by solar bending of the deck and structure
+above the waterline. The effect would normally be a hogging which can be
+appreciable. Some readings taken on a 74,000 tonnes dwt bulk carrier and
+reported in "Seaways" (March 1987) showed that the fully loaded vessel was
+sagged S5cms at 0700 and hogged 27.5cms at 1700 on the same day with no
+movement of weight within the vessel (apart from normal oil/water consumption
+for an anchored vessel).
+
+30. f roxi r ion
+
+The mathematical methods used to correct for trim and/or hull deflection
+(hog or sag) if these conditions exist, are approximations because of
+limitations of time, expense and the work site. However, if the same methods
+are correctly and uniformly employed in all surveys, the resultant error in
+the exact cargo weight will be minimal. However, if in better equipped ships,
+correction tables for trim and/or hull deflection are available, then such
+tables should be used instead of the approximate methods.
