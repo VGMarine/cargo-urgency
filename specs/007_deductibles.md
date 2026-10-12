@@ -10,7 +10,7 @@
   - SUMMARY OF DEDUCTIBLES — форма «D» UN/ECE (PAGE 70 дампа, строки 2708–2723);
   - Форма «E» UN/ECE (PAGE 71 дампа) — Difference in Displacement = TOTAL CARGO IN BULK;
   - Перекрёстный источник: Britannia Loss Prevention Guidance (sources/text/guidance.txt, раздел CONSTANT).
-- Файл оригинала: sources/originals/dibble.pdf (LFS-указатель; точечные неоднозначности — TODO(scan))
+- Файл оригинала: PDF в репозитории отсутствует (в sources/originals/ лежат только кодек UN/ECE и guidance); работа по текстовому слою sources/text/dibble.txt. Точечные неоднозначности — TODO(scan).
 - Версия/издание, язык: англ., OCR-дампы сверялись перекрёстно
 
 ## 2. Формула (как напечатано, цитаты)

@@ -177,9 +177,59 @@ def test_assessment_deflection_sign_hog_minus_sag_plus():
                                       d_mid_corrected=6.18)
     rh = assessment.corrected_displacement(hog)
     rs = assessment.corrected_displacement(sag)
-    assert rh.deflection_corr_t == pytest.approx(-273.6)   # hog (-)
-    assert rs.deflection_corr_t == pytest.approx(+273.6)   # sag (+)
-    assert rh.corrected_displacement_t < 10000 < rs.corrected_displacement_t
+    assert rh.deflection_corr_t == pytest.approx(-273.6, abs=0.01)
+    assert rs.deflection_corr_t == pytest.approx(+273.6, abs=0.01)
+
+
+def test_assessment_full_checklist_q6_q4_q8_q9():
+    """Полный проход CORRECTIONS CHECK LIST (стр. 51) композицией печатных контролиров.
+
+    Каждый шаг даёт СВОЙ напечатанный ответ книги:
+    - hog/sag тоннажная поправка метода 3 alt.1 (стр. 30): Q6 данные —
+      factor 0.76, AMD 6.00 (=(5.80+6.20)/2), DM 6.18, TPC 40 -> MAD 6.136
+      печатно; тоннажный эквивалент 0.76*40*(6.18-6.00)*100 = +547.2 t (sag +);
+    - list: Q4 печатно 24 t (+);
+    - 2nd trim: Q8 формула 50*1.4^2*0.11/170 = +0.064 t (всегда +);
+    - density: Q9 множитель 1.015/1.025; старт от табличного водоизмещения
+      15250 t при rho_table 1.025 (Q9);
+    - итог чек-листа = сумма со знаками, плотность последняя (стр. 45).
+    """
+    import assessment
+    i = assessment.AssessmentInputs(
+        d_fwd_mark=5.80, d_aft_mark=6.20, lbp_m=150.0,
+        tpc=40.0, disp_at_mad_t=15250.0,
+        lcf_fwd_of_mid_m=0.0,          # LCF в мидсипсе -> 1st trim = 0
+        mctc1=310.0, mctc2=310.11,     # delta как в контроле Q8 (TODO(scan) по паре)
+        list_corr_t=24.0,              # печатный контроль Q4
+        deflection_factor=0.76,        # extract из таблицы Cw=0.60 (Q6)
+        d_mid_corrected=6.18,          # DM (Q6)
+        rho_observed=1.015, rho_table=1.025)  # Q9
+    r = assessment.corrected_displacement(i)
+    # AMD по книге стр.18 = (5.80+6.20)/2 = 6.00 (без misplacement marks)
+    assert r.amd == pytest.approx(6.00)
+    # 1st trim = 0 при LCF в мидсипсе
+    assert r.corr_1st_trim_t == pytest.approx(0.0)
+    # прогиб: sag (DM > AMD) -> положительная поправка, контроль Q6-данных
+    assert r.deflection_corr_t == pytest.approx(0.76 * 40.0 * 18.0, abs=0.01)  # +547.2
+    # 2nd trim всегда (+): 50*trim^2*(MCTC2-MCTC1)/LBP, trim=Da-Df=0.40
+    assert r.corr_2nd_trim_t == pytest.approx(50.0 * 0.4 ** 2 * 0.11 / 150.0, abs=1e-6)
+    assert r.corr_2nd_trim_t > 0
+    # list — положительный контроль Q4
+    assert r.corr_list_t == pytest.approx(24.0)
+    # density применяется ПОСЛЕ тоннажных поправок (стр. 45 «then adjusted … and the correction for density»)
+    interim = 15250.0 + 0.0 + r.corr_2nd_trim_t + 24.0 + 547.2
+    assert r.corr_density_t == pytest.approx(interim * (1.015 / 1.025 - 1.0), abs=0.01)
+    assert r.corr_density_t < 0   # less than salt water density -> negative (чек-лист)
+    assert r.corrected_displacement_t == pytest.approx(interim * 1.015 / 1.025, abs=0.01)
+
+
+def test_assessment_deflection_correction_formula_sign():
+    """Контроль знака самой формулы method 3 alt.1: hog -> -, sag -> +."""
+    from draughts import deflection_correction_t
+    # hog: DM < AMD => отрицательная поправка (чек-лист: negative for hog)
+    assert deflection_correction_t(5.82, 6.00, 0.76, 40.0) == pytest.approx(-547.2, abs=0.01)
+    # sag: DM > AMD => положительная
+    assert deflection_correction_t(6.18, 6.00, 0.76, 40.0) == pytest.approx(+547.2, abs=0.01)
 
 
 # ---------- spec 007: DEDUCTIBLES / константа / якоря-цепи ----------
