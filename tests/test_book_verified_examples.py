@@ -225,3 +225,54 @@ def test_question2_manometer_centreline():
     d = dr.centreline_draught_from_manometer_m(port_m=8.00, diff_full_beam_m=0.25,
                                                half_reading_dist_m=8.50, beam_m=20.85)
     assert round(d, 3) == 8.153  # печатный ответ книги
+
+
+# ---- QUESTION 10 (стр. 40 книги, PDF page_048): замер в танке при дифференте ----
+def test_question10_sounding_trim_correction():
+    import tank_sounding as ts
+    # Условие: LBP 120 м, trim 2.0 м на корму; танк 24.0 x 8.2 м.
+    # КОНСОЛИДАЦИЯ (полностью согласована с дампом page_048.txt):
+    # условие «трубка в 3.0 м перед кормовой переборкой» + чертёж книги
+    # (подстановка 9.0 x 2.0 / 120) => расстояние трубки до ЦЕНТРА танка d = 9.0 м
+    # (центр в 12 м от переборки; 12 − 3 = 9), трубка ПОЗАДИ центра.
+    # Знак по таблице книги: sounding aft of centre + trim Aft => Negative: −0.15.
+    d = ts.tube_offset_from_centre_m(3.0, 24.0, end_is_aft=True)
+    assert d == -9.0  # трубка в 3 м от кормовой переборки => на 9 м ПОЗАДИ центра
+    corr = ts.trim_sounding_correction_m(d, 2.0, 120.0)
+    assert round(corr, 2) == -0.15          # книга: Correction to sounding = -0.15 m
+    eq = ts.even_keel_sounding_m(1.05, corr)
+    assert round(eq, 2) == 0.90             # книга: Even keel sounding = 0.90 m
+    v = ts.rectangular_tank_volume_m3(24.0, 8.2, eq)
+    assert round(v, 1) == 177.1             # печатный ответ книги: 177.1 m3
+
+
+# ---- Глоссарий/приложения (стр. 53 книги, PDF page_061): Alternative Hydrometers ----
+def test_hydrometer_scale_corrections():
+    import hydrometer as hy
+    # Книга: true density minus 0.0011; RD(15/4) minus 0.0011; RD(15/15) minus 0.002
+    assert round(hy.apparent_density(1.025, "true"), 4) == 1.0239
+    assert round(hy.apparent_density(1.025, "rd_15_4"), 4) == 1.0239
+    assert round(hy.apparent_density(1.025, "rd_15_15"), 4) == 1.0230
+    assert hy.apparent_density(1.025, "apparent") == 1.025
+
+
+# ---- MIXTURES: рефакторинг теста на модуль src/mixture_rd.py ----
+def test_mixture_rd_module():
+    import mixture_rd as mx
+    assert round(mx.mixture_rd(100.0, 0.960, 50.0, 0.990), 4) == 0.9700
+
+
+def test_question10_consistency_check():
+    """Контроль знаковой системы модуля tank_sounding на простых числах."""
+    import tank_sounding as ts
+    # трубка ПЕРЕД центром на 3 м (15 м от кормовой переборки) → поправка +0.05
+    d_fwd = ts.tube_offset_from_centre_m(15.0, 24.0, end_is_aft=True)
+    assert d_fwd == 3.0
+    assert round(ts.trim_sounding_correction_m(d_fwd, 2.0, 120.0), 2) == 0.05
+    # трубка ПОЗАДИ центра на 3 м (9 м от кормы) → как в Q10: −0.05 (решение книги)
+    d_aft = ts.tube_offset_from_centre_m(9.0, 24.0, end_is_aft=True)
+    assert d_aft == -3.0
+    assert round(ts.trim_sounding_correction_m(d_aft, 2.0, 120.0), 2) == -0.05
+    # трубка точно в центре → поправки нет
+    d_c = ts.tube_offset_from_centre_m(12.0, 24.0, end_is_aft=True)
+    assert d_c == 0.0 and ts.trim_sounding_correction_m(d_c, 2.0, 120.0) == 0.0
