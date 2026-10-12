@@ -44,3 +44,26 @@ def centreline_draught_from_manometer_m(port_m: float, diff_full_beam_m: float,
     """
     d_full = beam_m * diff_full_beam_m / (2.0 * half_reading_dist_m)
     return port_m + d_full / 2.0
+
+
+def amd_finer_form(d_fwd: float, d_aft: float, d_mid: float) -> float:
+    """Mean adjusted draught, finer-lined vessel (книга, Q5, стр. 29).
+
+    AMD = (6*DM + DF + DA)/8. Выверено по печатному ответу книги 6.03:
+    единственное DM, воспроизводящее ответ — 6.03 (OCR 'G.ll' консолидировано).
+    """
+    return (6.0 * d_mid + d_fwd + d_aft) / 8.0
+
+
+def amd_fuller_form(d_fwd: float, d_aft: float) -> float:
+    """A.M.D., fuller-form vessel (книга, Q6, стр. 29-30): (DF+DA)/2."""
+    return (d_fwd + d_aft) / 2.0
+
+
+def mad_from_factor(amd: float, d_mid: float, factor: float) -> float:
+    """Method 3 (книга, стр. 29-30): MAD = AMD + factor*(DM - AMD).
+
+    factor считывается из графика по коэффициенте полноты ватерлинии
+    (Cw): для Cw=0.60 книга даёт factor=0.76 (Q6).
+    """
+    return amd + factor * (d_mid - amd)
