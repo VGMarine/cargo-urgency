@@ -95,6 +95,9 @@ PRINT, 50000 LPRINT) находится в `sources/text/unece1992_ocr.txt`, PDF
       Зафиксированное расхождение с книгой: листинг считает MIDCO ПОЛНЫМ
       тримом J, а Dibble EXAMPLE стр. 33–34 — половинным (test_midco_full_
       trim_quirk_recorded; для ровного корпуса совпадают).
-- [ ] Дословный листинг BASIC — требует high-res кропа стр. 116–118.
+- [x] Дословный листинг BASIC — ЗАКРЫТО (2026-10-13): high-res OCR @300 dpi
+      (`sources/text/unece1992_annexA_300dpi.txt`, PDF index 124–128);
+      артефакт строки 30240 подтверждён кроп-анализом @900–1200 dpi как
+      `IF AC<FC THEN S2=-1 ELSE S2=1`.
 
 СВЕРЕНО с оригиналом (OCR; sha256 источника зафиксирован).
