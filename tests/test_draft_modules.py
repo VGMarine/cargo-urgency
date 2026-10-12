@@ -86,3 +86,24 @@ def test_first_trim_correction_sign_table():
 def test_bad_density_raises():
     with pytest.raises(ValueError):
         density.density_correction(10.0, rho_observed=0.5)
+
+
+def test_q1_wave_cycle_mean_10_50():
+    """Q1 (книга стр. 17): reject max/min, среднее оставшихся 10 = 10.50 м.
+
+    Две повреждённые OCR-ячейки ('J 1.25', '9.(i()') консолидированы как
+    11.25 и 9.90 — единственная пара правдоподобных читок, дающая печатную
+    сумму 105.0 ПРИ УСЛОВИИ точного отбрасывания 11.40 и 9.60 (как в ANSWER).
+    TODO(scan): сверить с оригиналом страницы.
+    """
+    from readings import wave_cycle_mean
+    q1 = [11.25, 9.80, 11.40, 9.70, 11.35, 9.75, 11.10, 9.60,
+          11.00, 9.90, 11.25, 9.90]
+    assert abs(wave_cycle_mean(q1) - 10.50) < 1e-9
+
+
+def test_q2_manometer_centreline_8_153():
+    """Q2 (книга стр. 20): port 8.00, stbd 8.25, offset 8.5 м, beam 20.85 м."""
+    from readings import manometer_centreline_draught
+    d = manometer_centreline_draught(8.00, 8.25, read_offset_m=8.5, beam_m=20.85)
+    assert abs(d - 8.153) < 0.0005
