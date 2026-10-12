@@ -108,14 +108,18 @@ def test_run_survey_reproduces_q3_mark_corrections():
     assert round(r.ac - Q3_DA, 3) == +0.057       # Q3 печать correction aft
     assert round(r.fc, 3) == 6.333                # Q3 печать corrected fwd
     assert round(r.ac, 3) == 7.937                # Q3 печать corrected aft
-    # Алгебраическое тождество методов при mids=1, lm=0 (MIDCO=0):
-    # mean-of-means (mm) = (FA+MC)/2 = Fuller (FC+AC+6·MC)/8 — точно.
-    fuller = (r.fc + r.ac + 6 * r.mc) / 8.0
-    assert r.mm == pytest.approx(fuller)
+    # Тождество методик действует только при MC == FA (ровный киль или
+    # симметричный прогиб). Здесь метки смещены асимметрично ⇒ MIDCO=0,
+    # но FA != MC (трим по перпендикулярам изменился), поэтому:
+    fa = (r.fc + r.ac) / 2.0
+    assert r.mm == pytest.approx((fa + r.mc) / 2.0)          # mean-of-means
+    fuller = (r.fc + r.ac + 6 * r.mc) / 8.0                  # Fuller 6/8
+    assert r.dhsc == pytest.approx(fuller)                   # листинг: DHSC=(MM+MC)/2 == Fuller
+    assert not pytest.approx(r.mm).__eq__(fuller)            # при hog/sag методы расходятся
     assert fuller == pytest.approx(6.3587, abs=5e-4)
-    # При триме 1.604 м обе методики дают 6.359 — заметно больше печатной
-    # AMD 6.09 из Q5 (там DF/DA 5.64/6.42); расхождение методов при
-    # nonzero MIDCO зафиксировано в specs/003b и
+    assert r.mm == pytest.approx(6.6174, abs=5e-4)
+    # Числа заметно больше печатной AMD 6.09 из Q5 (там DF/DA 5.64/6.42);
+    # расхождение методов при nonzero hog/sag зафиксировано в specs/003b и
     # test_mean_of_means_differs_from_fuller_with_trim.
 
 

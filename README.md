@@ -116,7 +116,7 @@ examples/            # входные данные контрольных при
       deflection_end_correction), src/draughts.py (hog_sag,
       simpson_weighted_draught), src/trim.py (first_trim_correction_t_sign со
       знаками таблицы стр. 31) — реализованы и покрыты тестами.
-- [x] Тесты проходят: `python3 -m pytest` → **43 passed** (контрольные числа
+- [x] Тесты проходят: `python3 -m pytest` → **48 passed** (контрольные числа
       книги: Tan22°×4.121=1.665; Q3 6.333/7.937; EXAMPLE 5.983/7.511;
       Q7 53.33 t; Q8 +7.4 t (OCR-пара MCTC 310.0/322.9, LBP=170);
       Q9 15101.2 t; Q10 0.15→0.90→177.1 м³; Q11 wedge 36.75 м³;
