@@ -116,12 +116,14 @@ examples/            # входные данные контрольных при
       deflection_end_correction), src/draughts.py (hog_sag,
       simpson_weighted_draught), src/trim.py (first_trim_correction_t_sign со
       знаками таблицы стр. 31) — реализованы и покрыты тестами.
-- [x] Тесты проходят: `python3 -m pytest` → **31 passed** (контрольные числа
+- [x] Тесты проходят: `python3 -m pytest` → **43 passed** (контрольные числа
       книги: Tan22°×4.121=1.665; Q3 6.333/7.937; EXAMPLE 5.983/7.511;
       Q7 53.33 t; Q8 +7.4 t (OCR-пара MCTC 310.0/322.9, LBP=170);
       Q9 15101.2 t; Q10 0.15→0.90→177.1 м³; Q11 wedge 36.75 м³;
       печатная формула метода 2(ii) /11; +9 тестов порта Annex A BASIC
-      tests/test_unece_annex_a.py).
+      tests/test_unece_annex_a.py; +12 тестов pydantic-модели форм A–E
+      tests/test_unece_forms.py: Q3, MoM==Fuller только при нулевом триме,
+      Q9 15101.2 t, форма E Difference, валидация alias/знаков).
 - [x] specs/004 — сводный чек-лист знаков поправок (стр. 51 книги) с
       перекрёстными проверками против specs 001–003b и таблицей знаков 1st trim.
 - [x] Остаточные TODO(scan) — ЗАКРЫТЫ (2026-10-12):
@@ -138,7 +140,9 @@ examples/            # входные данные контрольных при
       `E_ECE_ENERGY_19.pdf` (он же `1992_UNECE_…pdf`, sha256 идентичны)
       полностью распознан OCR (tesseract 5.3.0, 200 dpi, 150 стр.) →
       `sources/text/unece1992_ocr.txt`; поля форм систематизированы в
-      specs/005_unece_forms_A-E.md.
+      specs/005_unece_forms_A-E.md; машиночитаемая pydantic-модель отчёта —
+      src/unece_forms.py + tests/test_unece_forms.py (ЗАКРЫТО 2026-10-13,
+      spec 005 §4).
 - [x] Программа BASIC (Annex «A» кодекса) — алгоритм восстановлен OCR и
       сверен с формулами specs 002–004 → specs/006_unece_annexA_basic.md;
       Python-порт `src/unece_annex_a.py` + тесты `tests/test_unece_annex_a.py`

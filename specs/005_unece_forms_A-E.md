@@ -41,8 +41,18 @@
 ## 4. Статус
 - [x] Скан доступен в бинарном виде; OCR выполнен полностью (150 стр.).
 - [x] Поля всех форм извлечены и систематизированы (таблица §2).
-- [ ] Перенос в машиночитаемый формат (JSON/pydantic-модель отчёта) — следующая
-      задача; сверять каждое поле с high-res кропом страниц 13–19 при сомнении
-      (OCR мелкого типографского текста форм местами шумен).
+- [x] Перенос в машиночитаемый формат (JSON/pydantic-модель отчёта) — ЗАКРЫТО
+      (2026-10-13): `src/unece_forms.py` — pydantic v2 модели SurveyMeta (форма A),
+      ShipHydroStatics (форма B, включая distance marks «forward − aft +»),
+      DraughtReadings (форма C: поля с alias по номерам линий бланка, цепочка
+      mean→corrected→FA/MC→mean of means→moulded corr (line 152/154 note)→trim
+      fwd(−)aft(+)→1st/2nd trim→density→deductibles), SurveyReport (форма E:
+      Difference = TOTAL CARGO IN BULK, LOADED/UNLOADED). Формы D/1–D/3 покрыты
+      полем total_deductibles_t (сводка) + src/soundings.py (детали танков).
+      Тесты `tests/test_unece_forms.py` (12 шт.): Q3 6.333/7.937, тождество
+      MoM==Fuller только при нулевом триме (+ зафиксировано различие при триме —
+      согласуется с specs/003b), Q9 15101.2 t, порядок вычетов, валидация alias
+      и знаков. При сомнении сверять каждое поле с high-res кропом стр. 13–19
+      (OCR мелкого типографского текста местами шумен).
 
 СВЕРЕНО с оригиналом (через OCR; sha256 источника зафиксирован в §1).
