@@ -117,9 +117,11 @@ def run_survey(fp: float, fs: float, ap: float, as_: float, mp: float, ms: float
 
     # 30220–30260: first trim correction
     ar = abs((ac - fc) * 100.0)     # см
-    # 30240: OCR читается "IF AC<FC THEN S2=1 ELSE S2=1" — явный артефакт
-    # скана (оба колена дают 1). По правилу знаков Dibble стр. 31/spec 004
-    # (и по строке принта 50220 "Trim fwd(-) aft(+): AR*S2"):
+    # 30240: high-res кроп строки (OCR @900–1200 dpi, анализ глифов) читается
+    # "IF AC<FC THEN S2=-1 ELSE S2=1": в THEN-ветви перед "1" отдельный глиф
+    # "-" (отсутствует в ELSE-ветви), что подтверждает восстановление флага по
+    # правилу знаков Dibble стр. 31/spec 004 и строке принта 50220
+    # "Trim fwd(-) aft(+)":
     s2 = 1 if ac > fc else -1       # +1 = trim by the stern
     # 30250 метрически: layer(m) = AR/100 * LCF/LBP; tonnes = layer*TPC*100
     # => CO1 = AR*TPC*LCF/LBP*S2*LCFS (AR в см — степень сокращается)

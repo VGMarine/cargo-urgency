@@ -147,7 +147,9 @@ examples/            # входные данные контрольных при
       сверен с формулами specs 002–004 → specs/006_unece_annexA_basic.md;
       Python-порт `src/unece_annex_a.py` + тесты `tests/test_unece_annex_a.py`
       (Q3/Q5/Q7/Q8/Q9, артефакт OCR 30240 закрыт) — ГОТОВО (2026-10-12).
-      Остаточное: дословный листинг BASIC (кроп стр. 116–118 в 300 dpi).
+      ДОСЛОВНЫЙ high-res листинг Annex A: `sources/text/unece1992_annexA_300dpi.txt`
+      (стр. PDF index 124–128 @300 dpi); артефакт 30240 подтверждён кроп-анализом
+      @900–1200 dpi как `IF AC<FC THEN S2=-1 ELSE S2=1` — ЗАКРЫТО (2026-10-13).
 
 ## Правила безопасности работы (анти-потеря)
 
