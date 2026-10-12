@@ -227,13 +227,13 @@ def test_question2_manometer_centreline():
 def test_question10_sounding_trim_correction():
     import tank_sounding as ts
     # Условие: LBP 120 м, trim 2.0 м на корму; танк 24.0 x 8.2 м.
-    # КОНСОЛИДАЦИЯ: в условии книги распознано "3.0 m forward of the aft bulkhead",
-    # но это даёт поправку −0.45 и не воспроизводит печатный ответ (−0.15 / 177.1 м³).
-    # Строго самосогласованная геометрия: трубка в 9.0 м от кормовой переборки
-    # (= 3.0 м ПЕРЕД центром танка): x = 3×2/120 = 0.15 (знак − по таблице знаков).
-    # Версия «3.0 от переборки» тоже зафиксирована тестом ниже как расхождение источника.
-    d = ts.tube_offset_from_centre_m(9.0, 24.0, end_is_aft=True)
-    assert d == 3.0
+    # КОНСОЛИДАЦИЯ (полностью согласована с дампом page_048.txt):
+    # условие «трубка в 3.0 м перед кормовой переборкой» + чертёж книги
+    # (подстановка 9.0 x 2.0 / 120) => расстояние трубки до ЦЕНТРА танка d = 9.0 м
+    # (центр в 12 м от переборки; 12 − 3 = 9), трубка ПОЗАДИ центра.
+    # Знак по таблице книги: sounding aft of centre + trim Aft => Negative: −0.15.
+    d = ts.tube_offset_from_centre_m(3.0, 24.0, end_is_aft=True)
+    assert d == -9.0  # трубка в 3 м от кормовой переборки => на 9 м ПОЗАДИ центра
     corr = ts.trim_sounding_correction_m(d, 2.0, 120.0)
     assert round(corr, 2) == -0.15          # книга: Correction to sounding = -0.15 m
     eq = ts.even_keel_sounding_m(1.05, corr)
@@ -258,10 +258,17 @@ def test_mixture_rd_module():
     assert round(mx.mixture_rd(100.0, 0.960, 50.0, 0.990), 4) == 0.9700
 
 
-def test_question10_as_printed_condition_diverges():
-    """Документация расхождения источника Q10: буквальные «3.0 м от кормовой
-    переборки» дают −0.45 и 144.0 м³ ≠ печатного ответа книги (−0.15 / 177.1)."""
+def test_question10_consistency_check():
+    """Контроль знаковой системы модуля tank_sounding на простых числах."""
     import tank_sounding as ts
-    d = ts.tube_offset_from_centre_m(3.0, 24.0, end_is_aft=True)  # -9.0 (позади центра)
-    corr = ts.trim_sounding_correction_m(d, 2.0, 120.0)           # +0.45? нет: -(d*t/LBP)
-    assert round(abs(corr), 2) == 0.45
+    # трубка ПЕРЕД центром на 3 м (15 м от кормовой переборки) → поправка +0.05
+    d_fwd = ts.tube_offset_from_centre_m(15.0, 24.0, end_is_aft=True)
+    assert d_fwd == 3.0
+    assert round(ts.trim_sounding_correction_m(d_fwd, 2.0, 120.0), 2) == 0.05
+    # трубка ПОЗАДИ центра на 3 м (9 м от кормы) → как в Q10: −0.05 (решение книги)
+    d_aft = ts.tube_offset_from_centre_m(9.0, 24.0, end_is_aft=True)
+    assert d_aft == -3.0
+    assert round(ts.trim_sounding_correction_m(d_aft, 2.0, 120.0), 2) == -0.05
+    # трубка точно в центре → поправки нет
+    d_c = ts.tube_offset_from_centre_m(12.0, 24.0, end_is_aft=True)
+    assert d_c == 0.0 and ts.trim_sounding_correction_m(d_c, 2.0, 120.0) == 0.0
