@@ -33,7 +33,54 @@ def test_dockwater_allowance_sign():
 
 
 def test_amd_simpson_weights():
+    # Книга (стр. 18): AMD = (DF+DA)/2 — d_mid не участвует.
     assert draughts.arithmetic_mean_draught(8.0, 10.0, 9.0) == pytest.approx(9.0)
+    assert draughts.arithmetic_mean_draught(8.0, 10.0) == pytest.approx(9.0)
+    # Весовая схема (6DM+DF+DA)/8 — это Mean Adjusted Draught метода 2(i), стр. 36:
+    assert draughts.simpson_weighted_draught(8.0, 10.0, 9.0) == pytest.approx((8 + 10 + 54) / 8)
+
+
+def test_hog_sag_classification():
+    # книга, стр. 35: DM < AMD -> hog; DM > AMD -> sag
+    assert draughts.hog_sag(6.40, 6.70) == ("hog", pytest.approx(0.30))
+    assert draughts.hog_sag(7.00, 6.70)[0] == "sag"
+    assert draughts.hog_sag(6.70, 6.70)[0] == "even"
+
+
+def test_perpendicular_corrections_q3():
+    # QUESTION 3 (стр. 24-25 книги): Df=6.35 Da=7.88, LBP=170,
+    # mark fwd 0.15 m aft of stem line @SLL + rake 22° -> misplacement 1.815 м;
+    # mark aft 6.00 м вперёд от AP. Ответ книги: -0.017 / +0.057 -> 6.333 / 7.937.
+    cf, ca = perpendiculars.perpendicular_corrections(
+        d_fwd=6.35, d_aft=7.88, lbp_m=170.0,
+        dist_fp_to_df_m=1.815, dist_ap_to_da_m=6.00)
+    assert round(cf, 3) == -0.017
+    assert round(ca, 3) == 0.057
+    assert round(6.35 + cf, 3) == 6.333
+    assert round(7.88 + ca, 3) == 7.937
+
+
+def test_deflection_end_correction_example():
+    # EXAMPLE «CORRECTIONS WITH HULL DEFLECTION» (стр. 25 книги, PDF index 33-34):
+    # hogged vessel, trim by stern; fwd: 2 x 0.4/(50-2)=0.017 -> 5.983;
+    # aft: 5 x 1.0/(50-5)=0.111 -> 7.511.
+    c_f = perpendiculars.deflection_end_correction(0.4, 2.0, 50.0)
+    c_a = perpendiculars.deflection_end_correction(1.0, 5.0, 50.0)
+    assert round(c_f, 3) == 0.017
+    assert round(c_a, 3) == 0.111
+    assert round(6.00 - c_f, 3) == 5.983
+    assert round(7.40 + c_a, 3) == 7.511
+
+
+def test_first_trim_correction_sign_table():
+    # Таблица знаков стр. 31 книги: trim Aft & LCF fwd -> (-);
+    # величина Q7 = 5 x 40 x 40 / 150 = 53.33 t.
+    import trim as tr
+    c = tr.first_trim_correction_t_sign(+5.0, +0.40, 150.0, 40.0)
+    assert c == pytest.approx(-53.333333, abs=1e-6)
+    # зеркальные случаи таблицы: LCF aft & trim aft -> (+); trim head -> смена знака
+    assert tr.first_trim_correction_t_sign(-5.0, +0.40, 150.0, 40.0) > 0
+    assert tr.first_trim_correction_t_sign(+5.0, -0.40, 150.0, 40.0) > 0
 
 
 def test_bad_density_raises():
