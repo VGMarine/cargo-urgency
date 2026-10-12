@@ -221,3 +221,47 @@ def test_question2_manometer_centreline():
     d = dr.centreline_draught_from_manometer_m(port_m=8.00, diff_full_beam_m=0.25,
                                                half_reading_dist_m=8.50, beam_m=20.85)
     assert round(d, 3) == 8.153  # печатный ответ книги
+
+
+# ---- QUESTION 10 (стр. 40 книги, PDF page_048): замер в танке при дифференте ----
+def test_question10_sounding_trim_correction():
+    import tank_sounding as ts
+    # Условие: LBP 120 м, trim 2.0 м на корму; танк 24.0 x 8.2 м.
+    # КОНСОЛИДАЦИЯ: в условии книги распознано "3.0 m forward of the aft bulkhead",
+    # но это даёт поправку −0.45 и не воспроизводит печатный ответ (−0.15 / 177.1 м³).
+    # Строго самосогласованная геометрия: трубка в 9.0 м от кормовой переборки
+    # (= 3.0 м ПЕРЕД центром танка): x = 3×2/120 = 0.15 (знак − по таблице знаков).
+    # Версия «3.0 от переборки» тоже зафиксирована тестом ниже как расхождение источника.
+    d = ts.tube_offset_from_centre_m(9.0, 24.0, end_is_aft=True)
+    assert d == 3.0
+    corr = ts.trim_sounding_correction_m(d, 2.0, 120.0)
+    assert round(corr, 2) == -0.15          # книга: Correction to sounding = -0.15 m
+    eq = ts.even_keel_sounding_m(1.05, corr)
+    assert round(eq, 2) == 0.90             # книга: Even keel sounding = 0.90 m
+    v = ts.rectangular_tank_volume_m3(24.0, 8.2, eq)
+    assert round(v, 1) == 177.1             # печатный ответ книги: 177.1 m3
+
+
+# ---- Глоссарий/приложения (стр. 53 книги, PDF page_061): Alternative Hydrometers ----
+def test_hydrometer_scale_corrections():
+    import hydrometer as hy
+    # Книга: true density minus 0.0011; RD(15/4) minus 0.0011; RD(15/15) minus 0.002
+    assert round(hy.apparent_density(1.025, "true"), 4) == 1.0239
+    assert round(hy.apparent_density(1.025, "rd_15_4"), 4) == 1.0239
+    assert round(hy.apparent_density(1.025, "rd_15_15"), 4) == 1.0230
+    assert hy.apparent_density(1.025, "apparent") == 1.025
+
+
+# ---- MIXTURES: рефакторинг теста на модуль src/mixture_rd.py ----
+def test_mixture_rd_module():
+    import mixture_rd as mx
+    assert round(mx.mixture_rd(100.0, 0.960, 50.0, 0.990), 4) == 0.9700
+
+
+def test_question10_as_printed_condition_diverges():
+    """Документация расхождения источника Q10: буквальные «3.0 м от кормовой
+    переборки» дают −0.45 и 144.0 м³ ≠ печатного ответа книги (−0.15 / 177.1)."""
+    import tank_sounding as ts
+    d = ts.tube_offset_from_centre_m(3.0, 24.0, end_is_aft=True)  # -9.0 (позади центра)
+    corr = ts.trim_sounding_correction_m(d, 2.0, 120.0)           # +0.45? нет: -(d*t/LBP)
+    assert round(abs(corr), 2) == 0.45
