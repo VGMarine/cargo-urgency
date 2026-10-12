@@ -1,0 +1,33 @@
+Calculate the true mean draught raking illlo account the distortion ofthe hull 
+using the waterplane coellicient table. The watcrplane coefficient. tabulated 
+in the stability intt')\'mation book = 0.60 
+ANSWER: 
+Extracted factor - 0.76 
+A.M.D. - (5.80 + 6.20) / 2 
+Mean a<ljustcd draught 6.00 + 0.76(6.18 - 6.00) 
+Method 3 alternative 1. 
+= 6.00 m 
+= G.t:n m 
+The extracted tactor can be used directly to determine a correction in tonnes to 
+apply to the final displacement. 
+Correction (tonne) = factor x TPC x hog/sag (cm) 
+\\,'here: hog/sag' (cm) - (D M - AMD) x J on 
+Method 3 alternative 2. 
+The g-raph or table iL~elf may be adapted t.o give a correction table dircctly in 
+t.onnes (i.e. tactor x TPC) tC)!' each ccntimetre or hog or sag. This would giye 
+a correction to apply to the final displacement by entering the table with the 
+AMD and the hog/sag in ems. 
+Other alternative methods 
+These require addit.ional draughl/freeboard measurements at points other than 
+perpendiculars and mid ships, along the vessels length. This is very diHicuh. to 
+est.ablish. See Data manual Jor draught sW've)'s, pages 8 and 9. 
+CORRECTIONS FOR TRIM 
+There may be a total trim correction table included in the stability infi)rmation 
+book. This will normally combine the following J st. and 2nd, conn:lions. Find 
+oUl what it includes, and examine the ships st~lhilit}' data carefully before 
+conduct.ing a survey. 
+FIRST TRIM CORRECTION (CORRECTION FOR LAYER) 
+The displacement scale is normally calculaled on the assumption that the vessel 
+is lying on an even keel. The first trim correction is to correct. the draught 
+midships to the true mean draught., at. the centre of flotation. 
+30 

@@ -1,0 +1,40 @@
+lfno corrections are available, it may be necessary to calculate them. Appropriate 
+measurements can be taken from the plans of lhe tank. 
+Correction to sounding (x) = d xL~; 
+where d is the distance from lhe sounding pipe to the tank centre. 
+Sign convention: 
+TRiM 
+Forward 
+Aft 
+Sounding fini/)ard of lank an/re 
+Negalive (-) 
+Positive (+) 
+SOU1uling aft of centre 
+PoSili ve (+) 
+Negative (-) 
+Note: the accuracy of this formula is acceptable, provided the hottom of the 
+t.ank is covered with liquid, and the tank is approximately rectangular. 
+QUESTION 10: 
+A ship, LB P 120 m, has a trim of' 2.0 m hy the st.ern. A sounding was taken 
+in a reclangular double bottom tank, and found to be 1.05 m. If the t.ank 
+measured length 24.0 rn, breadth 8.2 111, and the sounding pipe was 3.0 III 
+forward of the afL bulkhead, find the volume of liquid in the tank. 
+8.~ , 
+3.0 
+1.05 
+ANSWER. 
+Correction to sOllnding 
+Observed sounding 
+Even keel suunding 
+Volume or liquid 
+24.0 
+d x trim 
+LBP 
+0.15 III 
+- 1.05 m 
+- U.gO m 
+- 24.0 x 8.2 x 0.90 
+40 
+9.0 x 2.0 
+120 
+- 177.1 1113 

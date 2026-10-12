@@ -1,0 +1,37 @@
+Trim aft to tnidships = 1.0 m 
+Aft correction 
+Ait draught 
+- 5.0 x 1.0 I (50 -5) 
+7.511 m 
+- ·HUII m 
+CORRECTION FOR LIST 
+\-\'hen a vessel lists, it often rises in the water. This means that the mean of the 
+side draughts is a cemreline draught which is less than the actual draught that 
+would have been observed, had the vessel been upright. This Illay be ignored 
+for small angles of list, however, if the draught survey is 10 be carried out on a 
+vessel which has sullcred a cargo shifi or is lying at a large angle of list, then it 
+should he calculated. 
+111e correction, in tonnes, to be applied to the displacement, is by the iormula: 
+Correction for list = 6 (TPC 2 - TPC 1) X (d2 - d) tonnes 
+\'v'here: 
+d~ and dl 
+TPC , 
+TPC 2 
+midship draughts on each side. 
+- the TPC equivalent to the draught d I 
+- the TPC equivalent to the draught d~ 
+Sign convemion: Always positive (+). 
+QUESTION 4: 
+Vessel is listed 5°. The draughts midships arc: 
+Port 
+Starboard 
+ANSWER: 
+G.OO III (equivalent TPe 32) 
+8.00 111 (equivalent TPC :\4) 
+Correction = 6(34 - 32)(8.00 - fi.OO) = 24 tonnes positive (+ ). 
+Note; it. will normally be a slllall correction. 
+HULL DEFLECTION OR HOG AND SAG 
+When the observed draughts have been corrected for list and displacement. of 
+marks, an arithmetical mean ofrhe forward and ail draughts must be calculated, 
+ie. the arithmetical mean draught (AM D). 
+26 

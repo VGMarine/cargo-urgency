@@ -1,0 +1,13 @@
+ASSESSMENT SUMMARY 
+The corrections in this chapter rnay he applied to the observed draughts to 
+convert them to a draught that can be used to elller the ship's hydrostatic 
+particulars in order to determine the correct uisplacement. 
+Some of the cor~ecti()ns Illay be calculated in tonnes or in metres. Experienu: 
+anu speed of calculation has shown that the latter corrections should be calculated 
+in tonnes (instead or metres). and used to correct a value of displacement 
+extraeted fi'ol11 the hydrostatic pal'liculars in the stability information book. 
+The observed draughts are corrected to the perpendiculars and midships. the 
+hull deilcction found and the hydrost;ltics entered with the cOlTecled arithmetical 
+mean draughl (Ai\-ID). The displacement extracted is then adjusted with the 1st 
+and 2nd trim corrections and the correction fiJr density. all in tonnes. 
+See (orrer:liom du~d( li.\l on page 51. 

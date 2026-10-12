@@ -1,0 +1,21 @@
+USEFUL DEFINITIONS
+LIGHTSHIP
+This is usually the weight of the ship when it was built with operational conditions including the engine, 
+accommodation and cargo space but does not include crew, cargo, fuel, ballast, fresh water and stores. This is 
+thought to be increasing around 0.2% per annum due to the additional layers of paint, change of equipment and 
+mud in the tanks.
+2  |  BRITANNIA LOSS PREVENTION   |  GUIDANCE
+CONSTANT 
+Constant is the difference in weight of the calculated lightship (by draft survey without the cargo) and it’s tabular 
+ﬁgures from the ships book at a given time. This is the result of the weight of crew, additional weight added to the 
+lightship since new build i.e. rust and any added metal, mud, sludge and silt which is usually not accounted for. 
+Therefore it is important to bear in mind that it is never constant and can vary. In practice the initial draft survey 
+calculation can be used to work out the constant at that time.
+Often this calculated constant is compared with the declared constant or historical constant to sense check the 
+cargo ﬁgures. This comparison may only be a warning ﬂag of a possible error in the draft survey rather than an 
+issue in itself. It is important to understand that the ‘constant’ may ﬂuctuate, e.g. because of the variable amount 
+of mud deposit.
+HOG
+Hogging occurs when the forward and the after end of a ship is much heavier than the midship. In mathematical 
+terms, this means when the mean of forward and aft draft is bigger than the midship draft (ideally these should 
+be same).

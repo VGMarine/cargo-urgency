@@ -1,0 +1,18 @@
+3  |  BRITANNIA LOSS PREVENTION   |  GUIDANCE
+FACTORS TO CONSIDER DURING
+THE SURVEY
+READING THE DRAFT MARK
+SAG
+Sagging occurs when the midship section is heavier than the forward and aft. In mathematical terms, this means 
+when the midship draft is bigger than the mean of forward and aft draft (ideally these should be same).
+All parties should read the draft close to the waterline to avoid parallax, for which a boat may be essential, and 
+cost should be agreed beforehand. Mental notes of metre marks should be taken to avoid errors in metre reading. 
+Always ensure that draft marks are equally spaced for accurate calculations.
+At the time of reading the draft, it is recommended to check for unusual ﬂex conditions by checking all six point 
+readings versus the means.
+While all ships hog/sag and sometimes twist, the actual ﬂex tends to be typical in certain conditions (e.g. hogging 
+in ballast condition) which is usually known by the chief ofﬁcers. If after reading the draft, this is found to be 
+against the norm, it could a warning sign of a possible error. In this case the reading of the draft should be double 
+checked.
+Waves can distort the reading, to eliminate this a wave dampening tube and /or manometer can be used to 
+determine the draft on the offshore side of the ship.

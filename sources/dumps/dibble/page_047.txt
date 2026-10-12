@@ -1,0 +1,31 @@
+Check the bilges filr any liquid. 
+Some tanks may have two sounding pipes, check both. paniCIIlarly if the ~hip is 
+trimmed. 
+The sounding tables should be part oflhe ship'~ approved documentation, they 
+arc produced when the \'essel is built and therefore may have become less 
+accurate, with the passage of time. 
+SAMPLING 
+By sounding a tank and using the sounding tables. the \'olume of liquid is 
+found. \Nith the appan:nt density of the liquid, it~ mass can be determined. 
+Mass = volume x apparent density 
+Tt is most imporrant that each tank should be sampled for density as well as 
+being sounded for volume. Sce photograph on page ~H. 
+Apply the temperature correction to the dellsity readillg-hd()H~ using it to 
+calculate Ihe quantilY ofhllnkers in Ihe tank, when doing a bunker tank survey. 
+It is not normal to apply a temperature correction when determining ballast 
+quantities. 
+TRIM CORRECTIONS 
+The sounding pipe should be positioned at a point within the tank when: it will 
+always provide the correct sounding applicable to the sOIJll<lillg-lahlcs, regardless 
+of Ihe ship's I rim. However, this position is not always possible lo achieve and 
+correction tables for trim should then he available t.o use with the sounding 
+tables. These corrections should be calibrated 101' every haIr melre of Irim, by 
+Ihe head and hy I.he slern, over the operational range 01" trims. Alternatively. 
+sounding tables for differem trims may he pw\'idcd. 
+~-
+Sounding pipe 
+d-~ 
+~+. ~------~----------~ 
+1 
+,","""""",,,,,,,,,,,,,,,, " .. " ..... ,"'" .. " .. " ... , ... """"" ..... """.,.,,.,., ...... ,.,, .. ".,.,.,."". ,,,.,.,,,,,, 
+Tallk Centre 

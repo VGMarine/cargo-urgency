@@ -1,0 +1,31 @@
+SOUNDING TABLES 
+Suunding t.ables are separate mhlcs, olten found in the care of the chief oilicer 
+amI/or the chief engineer. 
+The tables may be calibrated wit.h either soundings or ullages. 
+The calibrations may use cubic metres (i.e. tonnes offresh water) or the average 
+density of the liquid which is normally carried in the lank and give tonnes ol'that 
+liquid. 
+For accurate assessment of the quantity ofliquid in any tank, the actual density 
+of t.he liquid should be determined and the quantity rc-calculated. 
+CORRECTION TABLES AND DIAGRAMS 
+Sounding correction tables 
+The sounding rabies will have been calculated 10r the ship Oil ;\11 e\'en keel. 
+Correct.ion tables should accompany any suunding t.able of a tank le)r which the 
+sOllllding pipe is not at the longitudinal cent.re or t.he tank. 
+The table should gi\'e the correction for any sounding and !ill' each metre of 
+trim oft.he ship over the normal operaling range oftrirns and require interpolation 
+fill' t.he actual trim. In the absence of SIKh t.ables, calculations will have to be 
+made from t.he uriginal plans. 
+Trim correction 
+The stability information book may include a table to apply the corrections for 
+trim. Investigale carefully whelher this includes bot.h the 1st. and ~nd. t.rim 
+corrections. Scc pages 30 lu 3:1. 
+Position of marks 
+The stability inlormation hook may provide a correction t.o apply to the appropriat.e 
+drallght readings t.o correct the reading, to the value it would have had, al the 
+correcl position. See pages 21 to 26. 
+Hull deflection 
+The stabilit.y inforrnat.ioll book may provide a special means of calculating the 
+vessel's hull liislO1'lioll correction when calculating an accurat.e underwater 
+volume. See pages ~6 to :~O. 
+12 

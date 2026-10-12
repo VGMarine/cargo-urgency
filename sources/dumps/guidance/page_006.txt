@@ -1,0 +1,42 @@
+6  |  BRITANNIA LOSS PREVENTION   |  GUIDANCE
+BEFORE THE SURVEY
+Where draft marks cannot be safely accessed, lower a small camera on a heaving line (which may be connected 
+to a mobile phone to watch live). This works especially well on stern marks. The camera may need to be 
+stabilised for example by using a wooden board and another line.
+CALCULATING THE BALLAST
+• Check the declared constant
+• Check the calculated constant by previous draft
+ surveys against the above declared constant and
+ note any anomalies or trend 
+• Verify that all tables and the ship’s hydrostatic data
+ is approved by class
+• Note any modiﬁcation/reﬁt from the build e.g. ﬁtting
+ of a ballast water system which might change the
+ lightship constant 
+• Check if the ship has a list
+• Examine the condition of hatch covers and cranes
+ (this can effect trim and list), and ensure mooring is
+ ﬁnished to avoid squat (the apparent change in draft
+ due to movement of the ship) 
+• The ballast or bunkering operation must not be
+ allowed during the draft survey, as these will change
+ the draft.
+Cross checking and sounding of the ballast tanks should be made against the designed pipe height for accuracy. 
+Water ﬁnding paste should be used to get the correct reading.
+It is also important to correctly interpolate calibration table values against the sounding to obtain accurate 
+volumes for the required trim and the sounding.
+The density of the ballast water should be established between all parties.
+Avoid taking the soundings of empty double bottom tanks at low trim or even keel. It is best to take soundings 
+with moderate trim by stern and should never be done when trimmed by head.
+Avoid having partly ﬁlled tanks at the time of the draft survey, and if it cannot be avoided, ensure the water level 
+is not in the area where tank calibration tables may be inaccurate (i.e. where the tank shape alters rapidly such 
+as where a high tank transitions between double bottom and vertical space).
+For full tanks: press them to ensure no air cushion remains between the frames or in the forward part of the
+tank – be mindful that they need to overﬂow by the highest vent.
+DENSITY OF THE DOCK WATER
+Determine the density of the dock water using a calibrated hydrometer to avoid confusion and ensure accurate 
+calculations. Draft survey hydrometers are designed to be used for draft surveys and calibrated for calculation of 
+weight in air (not in vacuum). Ensure readings are agreed upon before starting calculations.
+Keep in mind that density can ﬂuctuate rapidly in certain ports and may vary with depth and time, for example 
+after heavy rainfall or because of tidal forces introducing more saltwater. To address these variations obtain 
+water samples for density assessment at the forward, aft and midship sections, at approximately half of the 

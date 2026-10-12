@@ -1,0 +1,28 @@
+. . UN· ECE • DRAUGHT SURVEY CODE 
+DRAUGHT SURVEY REPORT OF CARGO IN BULK R~OADED FORM "03" 
+UNLOADED 
+Corporato identification: 
+Vessel MN : Survey no: 
+SOUNDINGS 
+STARTING SURVEY FINISHING SURVEY 
+Compartment 
+Title: Total Sounding Actual Actual Weighl Sounding Actual Actual Weight 
+Tank no. sounded Ullage Density Volume Metric Ullage Density Volume Metric 
+Slop 1. depth m . metres Kg /m3 m3 Tonnes metres Kglm3 m3 Tonnes 
+C -FUEL OIL 
+Total C 
+D -DIESEL OIL 
+Total D 
+SUMMARY OF DEDUCTIBLES 
+STARTING SURVEY FINISHING SURVEY 
+metric tonnes metric tonnes 
+Baliast water 
+Fresh water 
+Fuel oil 
+Diesel oil 
+Slops 
+Lubrificaling oil 
+Swimming pool water 
+Anchor & Chain 
+Others 
+Total Deductiblesl I I I 

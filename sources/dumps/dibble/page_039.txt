@@ -1,0 +1,61 @@
+This correction is known as the correction lor layCJ" (or layer correction). 
+W 
+\,\1 
+l-
+I 
+AP 
+, 
+"-. 
+-
+[ er 
+I 
+TMD 
+--- '-"-
+LB]> 
+I , 
+I 
+i 
+FP 
+I 
+if I' . Layer CorrectionL ~ Trim 
+AMD 
+I , 
+1- ----
+./, 
+, 
+., 
+I 
+-, 
+AP 
+TMD 
+AMD 
+LCF 
+LBP 
+air perpendicular 
+true mean draught 
+FP lorward perpendicular 
+arithmetical mean draught corrected filr hog' or sag 
+longitudinal centre of flotation 
+\en glh bet.ween pCl'pcmliculars 
+Layer correction(metres) = (distance LCF to midships) x trim I LBP 
+thcn TMD = AMD ± layer correction 
+1st trim correction (tonnes) = layer correction x TPC x 100 
+Metric: 
+L 
+1st trim correction(tonnes) _ (distance LCF to midships) x TPC x trim(cm) 
+LBP 
+Imperial: 
+1st trim correction(tons) _ (distance LCF to midships) x TPI x trim (inches) 
+LBP 
+Actual displacement = tabulated displacement ± 1st trim correction 
+Sign convention: 
+Trim 
+AJt 
+FOl1l1flrd 
+LCF for..vGrd of miashlj)s 
+negative (-) 
+positive (+) 
+31 
+LCF aft ()f mitMij)s 
+positive (+) 
+negative (-) 

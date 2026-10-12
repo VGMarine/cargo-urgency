@@ -1,0 +1,36 @@
+Arithmetic mean draught (AMD) 
+The arit.hmetical mean of the iorwanl draught and the air draught will equal the 
+draught midships if there is no hog- or sag, this is called the arithmetic mean 
+draught. 
+Hut a ship trims about the longitudinal centre of flotation (LCF). 
+True mean draught (TMD) 
+When a ship trims due to shifting a weight, i.e. no change of displacement., the 
+only draught which does 1/01 change is the draught at the longitudinal centre of 
+flotation. It is this draught which will give the appropriate displacement on the 
+hydrostatic tahles, and it is called the trlle mean draugln. The position of the 
+LCF is there!ore critical to a draught sUl"\'ey. 
+The diUerellce hetween the trill' mean draught and the arithmetic mean draught 
+is known as the layer correction. 
+Trim factors 
+Some stahility iniormatioll hooks tabulate trim factors, /i"Jrward and alt, bur no 
+posit.ion ior the longitudinal centre oftlot<lt.ioll (LCF) forward of the all perpendicular 
+(AP). 
+The LeF can be found from the trim faCfors by the following ii.mnula: 
+LCF from AP = length between pcr:pendiculars x aft trim factor 
+forward trim factor + aft trim factor 
+Trimmed hydrostatics 
+Some ships are supplied with 'trimmed h),drost;nics'. These normally consist or 
+'icvcral set.s or hydrostatic data each onc calntlated It)r a panicular trim. They 
+may be in 20 cm steps covering the range of trims over which the vessel is 
+expect.ed to operate. Each set. or hydrostatic data consists of di'iplacelllellls 
+t.abulated against draught for a particular density. The densities may be in 
+increments of 0.005 iium 1.000 to 1.025 and the draught.s ill :> Clll steps. Such 
+tables avoid the need for hot.h t.he 1st and 2nd trim corrections and abo thc 
+density correction which are described within I.he chaplcr Assessmmt of underwater 
+volume on pages 16 10 3 i. 
+Trimmed hydrostatic tables need to be interpolated for draught. densil.y and 
+trim in order to find the correct dispiacelllclIl. This interpolation is fairly 
+diflicult and needs care!i.ll thought in order la achieve an accurate result. 
+Check the use of trimmed hydrostatics in the introduction to the stability 
+information book. 
+10 

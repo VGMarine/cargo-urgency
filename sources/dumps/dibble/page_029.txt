@@ -1,0 +1,26 @@
+CORRECTION OF DRAUGHTS TO PERPENDICULARS 
+AND MIDSHIPS 
+Firstly, correct observed draughts, iorward, aft and midships, for the effect of 
+any list or heel by calculating the mean of port and starboard in each case. 
+Note; see notes on page 26. as there may also be a list correction (in tonnes) to 
+apply to the displacement. 
+Secondly, when the vessel is Irirn.rnRd and the vessel's draught marks are not sited 
+at the correct position on the perpendiculars; corrections to the observed 
+draughts must be applied. This incorrect positioning of the draught marks may 
+be termed misjJIIlt:emlml of marh. it is shown in the photohTJ-aphs on pages 22 and 
+23. 
+FP 
+w: LBP 
+AP ----1-
+1"'---- I 
+\ I 1 I : 
+AP ait perpendicular 
+FP forward perpendicular 
+LBP length between perpendiculars 
+D AP draught at aft perpendicular 
+Da draught at aft draught marks 
+D M. draught at midships 
+Dm draught at midships draught marks 
+D FP draught at forward perpendicular 
+Df draught at forward draught marks 
+21 

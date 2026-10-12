@@ -1,0 +1,35 @@
+Forward correction 
+M1 correction 
+Midships correction 
+Where: 
+apparent trim 
+Sign convention: 
+apparent trim x distance D FP to Df 
+distance Da to Df 
+apparent trim x distance D AP to Da 
+distance Da to Df 
+apparent trim x distance D M to Dm 
+distance Da to Df 
+the difference between Da and Df 
+If the direction of misplacement of the draught mark ii'om the perpendicular 
+(or midships position) is the same as the direction of the trim, then the correction 
+is negalirH! (-) when applied to the observed draught. 
+Note; even keel would not require the above corrections to be applied. 
+QUESTION 3: 
+With reference to t.he following paniculars, calculate the correct draughts, 
+forward, aft, and midships, if the observed draughts are: 
+torward 6.~~5 m aft 7.88 m midships 7.12 m 
+Position of draught. marks: 
+Forward: 0.11) III aft. of line of stem at slimmer load line (SLL). 
+Rake of stern = 22°. summer load draught = 10.471 m. 
+Aft: 6.00 111 forward of AI'. 
+LBP = 170 m. 
+ANSWER: 
+Apparent trim 
+Arithmetical mean draught 
+Midships draught 
+= 7.88 - 6.35 1.!l3 III 
+= 7.115 m 
+= 7.12 
+Vessd nul sullerillg trom hog or sag 
+24 

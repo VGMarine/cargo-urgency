@@ -1,0 +1,43 @@
+BI.oCK COEFFICIENT 
+(Cb): 
+BREADTH (BEAM): 
+l'vloulded Breadth: 
+CENTRE OF 
+FLOTATION (CF): 
+LOlIg'iluciinal Centre of 
+Flotation (LCF): 
+DEAl)\\'EIGHT: 
+DENSITY: 
+Apparent Density: 
+True Densit\': , 
+Relative Density (RD): 
+DEPTH: 
+Moulded Depth: 
+GLOSSARY 
+The ratio of the unrlerwatcr volume of the vessel to 
+the volume ofa rectangular block ofthe same overall 
+dimensions. 
+l\faxirnurn width of the ship. 
+\Vidth of the ship amidships, measured inside the 
+shell plating. 
+The cenrroid of the waterplane area. It is the point 
+about which the ship trims, heels and lists. 
+The distance of the centre of flotatioll from midships 
+or the aft perpendicular. 
+The dilIerence between the light displacement amI 
+t.he loaded displacement. It is the carrying capacity 
+of" the ship and indudes the weight of cargo, ballast, 
+fuel, water, stores, crew and effects. 
+The mass per ullil volume. 
+'l'he weight in air or a unit. volullle. 
+The weight in a \'aCUUIll of a unit volume. 
+The ratio of the weight of a substance to the weight 
+of an equal volume of fi'esh water, 
+RD of n'esh waLer: 1.000 at. 4°(; 
+RD of salt water: 1.025 at 4"C 
+The term speci/lc gravity, previously used in place of 
+RD, is no longer IIsed wit.h SI units. 
+Distance h'om the top of the deck plating at the side 
+of the ship to the hottOlIl of the keel. 
+Distance h'om the keel to the deck at the ship's side. 
+measured imide of the shell plating. 

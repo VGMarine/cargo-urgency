@@ -1,0 +1,31 @@
+7  |  BRITANNIA LOSS PREVENTION   |  GUIDANCE
+CALCULATIONS
+EVEN WITH EXPERIENCED SURVEYORS THE CORRECTION CAN BE 
+APPLIED WRONG BECAUSE SIGNS CAN DIFFER ON SHIPS.
+The data reference point should be adjusted if it is not the same. One example is longitudinal centre of ﬂotation 
+(LCF). This can be measured from Midship or after perpendicular. However, after all the corrections are applied 
+everyone should have the same corrected displacement.
+Therefore it is important to be able to explain the +/- sign convention used in the ship’s documentation to the 
+surveyor and to detect if an error was made.
+Care should be taken when reading the data from the hydrostatic table to ensure that the correct trim and density 
+of the water is being used. The correct draft should also be used (i.e. not moulded draft).
+To eliminate any issues with the hydrometer we recommend using the same equipment for the initial and the ﬁnal 
+survey.
+ship’s draft depth. The average density is derived from these samples for enhanced precision in the calculation.
+Additionally the quantity of the sludge, slop, bilges, duct keel and void space should be ascertained. The same 
+should be done during initial or ﬁnal surveys otherwise adjustment should be made to calculations.
+EVIDENCE
+A video recording and photos of the reading could be vital in proving the reading of the drafts. Any disputes 
+should be discussed and recorded.
+SUMMARY AND RECOMMENDATIONS 
+It is important to remember that shortage issues should be compared on a like-for-like basis. Attempting to 
+reconcile differences between shore scale and a draft survey would be unfair, as they are two distinct methods of 
+measurement. The charter party should clearly specify which ﬁgures are deemed correct and acceptable.
+Ships should refrain from signing any survey report unless they agree with the readings and calculations and 
+which can be supported by their own assessments.
+The draft survey process should be carefully managed by the responsible ofﬁcer, ensuring that at all stages of the 
+calculation match their own and that any errors or disagreements are clariﬁed immediately.
+While consumables may not always be entirely accurate, their ﬁgures can still be used accordingly for 
+calculations. It is crucial to rely on a calibrated book for reliable data.
+Draft surveys might not be included in all nautical school curriculum, which is why ofﬁcers are encouraged to 
+practice and compare results to enhance their proﬁciency.

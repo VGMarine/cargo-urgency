@@ -1,0 +1,32 @@
+is then halved and the result (d) is added to, or subtracted from, the one 
+draught reading to obtain the mean draught at the centreline. 
+QUESTION 2: 
+The port draught midships = 8.00 111. 
+The starhoard side is to be found by manometer, where the readings are 
+taken at 8.50 m on either side of the centre line. 
+The vessel's ii.lll beam = 20.85 m. 
+Calculate the midships mean draught (ie. centre line draught) if there is a 
+dillerence of" 25 cm between the two readings of rhe manometer and the 
+starboard reading is the higher. 
+ANSWER: 
+Effective bealll = u, •• :")() x 2 I'"' 00 III o _ I. . 
+By sirnilar triangles 0.25 / 17 - d / 20.85 
+cl = 20.85 x 0.25/ 17 0.307 IIJ full beam difference. 
+Half beam diHcrencc 
+Cenudinc draught 
+= O.:~07 I ~ 
+= 0.153 + S.O() 
+0.153 m. 
+- 8.15:~ m. 
+Not.e: It may be more practical ill some situations to measure the midships 
+freeboard and fj'om this calculate the midships draught. 
+DRAUGHT GAUGES 
+Draught gauges lIIay he very helpful as a check, but should never replace the 
+reading of" draughts using the fixed drallght. marks Oil the ship's hull. 
+SQUAT 
+While measuring the draught, when there is a strong current running and 
+there is waler depths 01 less than twice the draught of the vessel, the draught 
+readings may be misleading, due to the eilects of squat. 
+The survey report shollld include referelln: to l)()ssibll~ sqwll eJJl!us, even if a 
+suitable correction to the draught readings canllot be determined. 
+20 

@@ -1,0 +1,33 @@
+QUESTION 7: 
+A vessel of LHP 1.10 m has the {(JlIowing draug-hts: forward 6.85 m aft 7.25 m. 
+The LCF is situated at a position iO m forward of' tilL AP. TPC = 40. 
+Calculate the first trim cOlTeujon in tonnes. 
+ANSWER: 
+I st. trim corn:ct.ioll _ 5 x 40 x 0.40 x 100 
+150 - + !);~ tonnes 
+SECOND TRIM CORRECTION 
+This is a correction {(Jl' the shift. of t he centre of flotation (LCf) which occurs as 
+the vessel changes its trim. The position of the L<:I-', as specified in the 
+hydrostatic paniClliars, is normally lor the e\'en ked condit.ion. 
+The draught at the final positioll of I.CF is required. 
+Metric 
+2nd trim correction (in metres) = trim(m) x (MCTC~_. MCTC,l 
+2 x TPC x LBP 
+Where: ~vIC'J'C~ 
+~-1Cn~l 
+I\·lCTC for the draught at the AP 
+I'vlCTC for the draught at the FP and 
+or vice versa when trimllled by the head. 
+Howcyer the 2nd trim correction is normally calculated in tonnes as follows: , 
+• 2 
+2nd trim correction (in tonnes) = 50 x trim (m) x (MCTC 2 • MCTC,} 
+LBP 
+Where: MeTc" - MeTe for mean adjusted draught + 50 cm 
+and MCTC 1 ~ICTC for mean adjusted draught. - !)() cm 
+Imperial 
+2nd trim correction (in tons) = 6 x trim(ft)2 x (MCT1"2 -MCT1'\2 
+LBP 
+Where: MCTI"2 ~ICTI" for mean adjusted draug'ht + () in 
+and MCTI"I - I\ICTI" {(Jl' mean adjusted draught - () in 
+Sign convention: Always positive (+) 
+'1 ') .l_ 

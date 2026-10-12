@@ -1,0 +1,24 @@
+QUESTION 1: 
+The following are mean draught reading~ (in rnctres) over an observed cycle 
+of waves. Calculate the appropriate draughl. 
+11.25 9.RO J J AO 9.70 11.35 9.75 
+I I.;W 9.60 11.00 9.90 J 1.25 9.70 
+ANSWER: 
+Reject 11.40 and 9.(i() m. Add remainder = IOf). 
+Estimated drallg'hl reading = 105/1 0 = 10.50 Ill. 
+DRAUGHT MEASURING EQUIPMENT 
+A measuring device may be llsed to improve the accuracy of the draught 
+measu rem en t. 
+..~ 
+.... 
+".... -- " 
+-.--
+"" -
+'.--.-
+'" 
+-. .. 
+" ' 
+Such devices arc hased on the principle that the turhulence on the surface o{' 
+the W<lter does not eXlend dowll \0 <lily gre<l( tkplh. They use a long, flexible. 
+open ended, weighted hose pn~jeclillg downwards to below the turbu\cnre, 
+17 

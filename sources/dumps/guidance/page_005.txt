@@ -1,0 +1,14 @@
+5  |  BRITANNIA LOSS PREVENTION   |  GUIDANCE
+We should be reading MD (reading of manometer at the extreme beam) but we are reading M1D1.
+BM/BM1=MD/M1D1
+MD= BM/BM1 * M1D1
+BM is half of the beam and beam is the BM1 apparent half of the beam. “B” is the centre of the ship between port 
+and starboard side.
+The difference of the actual draft will be half of the difference of the height of the manometer tubes reading.
+USEFUL ALTERNATIVE IDEAS
+A CAMERA WITH A ZOOM FUNCTION TO OBSERVE AND RECORD THE 
+WATER MOVEMENT VS. DRAFT MARKS TENDS TO WORK BETTER THAN 
+BINOCULARS, ESPECIALLY AT NIGHT. THE RECORDING CAN THEN BE 
+PLAYED BACK TO OTHER SURVEYORS TO AGREE THE READING.
+A laser level instead of a manometer (combined with boards or rulers aligned to midship freeboard marks) is 
+very quick to set up.
