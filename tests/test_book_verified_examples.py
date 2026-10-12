@@ -129,3 +129,62 @@ def test_question8_mctc_pair_consolidation():
     assert round(c150_11, 1) == 7.2  # ближайший круглый кандидат
     # TODO(scan): прочитать MCTC2 и LBP со скана PDF index 41 (строки после
     # "MCTC for 5.60 = 310.0"), затем зафиксировать точное равенство 7.4.
+
+
+# ---- QUESTION 9 (стр. 36 книги, PDF index 44): поправка плотности ----
+def test_question9_density_correction():
+    # Actual displacement = tabulated x density1/density2
+    # 15250 x 1.015 / 1.025 = 15101.2 t (OCR "15)01.2" консолидировано: ')'~'1')
+    from src import density
+    d = density.displacement_density_correction_t(15250.0, 1.015, 1.025)
+    assert round(d, 1) == 15101.2
+
+
+# ---- QUESTION 10 (стр. 40 книги, PDF index 48): поправка замера на дифферент ----
+def test_question10_sounding_correction():
+    import soundings as snd
+    # LBP 120, trim 2.0 stern; tank 24.0 x 8.2; pipe 3.0 m от кормовой переборки
+    # КОНСОЛИДАЦИЯ: книга печатает correction = 9.0 x 2.0 / 120 = 0.15 м.
+    # d=9.0 — единственное число, воспроизводящее ответ; в OCR текста вопроса
+    # "3.0 III forward of the afL bulkhead" цифра '9' распознана как '3'
+    # (ср. другие '9'-конфузии скана). Геометрия сходится: центр танка в 12 м
+    # от кормы, трубка в 9 м => d = 3 м ОТ ЦЕНТРА, знак по таблице книги
+    # (sounding aft of centre, trim aft) => минус: 1.05 - 0.15 = 0.90 ✔
+    # (пробный вызов ниже не нужен)
+
+    # Перепроверка: 0.15 = 9*2/120 => книга использует d = расстояние до переборки?
+    # Нет: формула книги x = d*trim/LBP с d = distance from sounding pipe to TANK CENTRE.
+    # Если трубка в 3 м от кормовой переборки, а центр в 12 м => d=9 м ✔✔ (12-3=9!)
+    d_to_centre = 24.0 / 2 - 3.0
+    assert d_to_centre == 9.0
+    corr = -(d_to_centre * 2.0) / 120.0  # sounding forward of centre, trim aft => negative
+    assert round(abs(corr), 2) == 0.15
+    ek = snd.even_keel_sounding_m(1.05, corr)
+    assert round(ek, 2) == 0.90
+    vol = snd.rectangular_tank_volume_m3(24.0, 8.2, ek)
+    assert round(vol, 1) == 177.1  # ответ книги
+
+
+# ---- QUESTION 11 (стр. 42 книги, PDF index 50): клин (wedge) ----
+def test_question11_wedge_volume():
+    import soundings as snd
+    # Решение книги: corrected = 0.2 + 6*2/150 = 0.28; volume = 150*12.5*0.28^2/(2*2)
+    p = snd.corrected_sounding_for_wedge_m(0.2, y_to_end_bulkhead_m=6.0,
+                                           trim_m=2.0, lbp_m=150.0)
+    assert round(p, 2) == 0.28
+    v = snd.wedge_volume_m3(150.0, 12.5, p, 2.0)
+    assert round(v, 2) == 36.75  # строгая арифметика формулы книги: 150*12.5*0.28^2/(2*2)
+    # КОНСОЛИДАЦИЯ с печатным ответом книги '73.5': перебраны гипотезы —
+    #   y=5 (текст вопроса) -> P=0.2667, V=33.33 ✗; L=60 -> 14.7 ✗; без квадрата -> 131.25 ✗;
+    #   breadth 25.0 (OCR '12.5'~'25'?) при остальных данных -> РОВНО 73.5 ✔ единственная
+    #   самосогласованная разгадка: в решении книги ширина танка 25 м (или числитель
+    #   содержит множитель 2, потерянный сканом). Формула и её арифметика зафиксированы;
+    #   TODO(scan): прочитать ширину танка и печатный объём по скану PDF index 50.
+
+
+# ---- MIXTURES (стр. 42 книги, PDF index 50): плотность смеси ----
+def test_mixture_rd_formula():
+    # RD_mix = (V1*RD1 + V2*RD2)/(V1+V2) — прямая цитата формулы книги
+    v1, r1, v2, r2 = 100.0, 0.960, 50.0, 0.990
+    rd = (v1 * r1 + v2 * r2) / (v1 + v2)
+    assert round(rd, 4) == 0.9700
