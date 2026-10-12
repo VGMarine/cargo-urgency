@@ -34,9 +34,9 @@ def corrected_sounding_for_wedge_m(observed_m: float, y_to_end_bulkhead_m: float
     """Corrected sounding (P) = observed + y * trim / LBP (книга, стр. 42, перед Q11).
 
     y — расстояние от позиции замера до end bulkhead (кормовой, при trim by stern).
-    Пример Q11 (стр. 42): решение книги подставляет y = 6 м, хотя в условии
-    напечатано 5.0 м; дамп текстового слоя (page_050.txt) подтверждает: только
-    y=6 воспроизводит печатный ответ 0.28. Приоритет — числам решения книги.
+    Пример Q11: 0.2 + 6*2/150 = 0.28 (в тексте вопроса 'sounding position 5.0 m
+    forward of aft bulkhead' противоречит решению книги '6'; консолидировано по
+    решению: y = 6 м, т.к. только оно воспроизводит печатный ответ 0.28; см. TODO(scan)).
     """
     return observed_m + y_to_end_bulkhead_m * trim_m / lbp_m
 
