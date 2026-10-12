@@ -21,19 +21,21 @@ def wave_cycle_mean(readings: list[float]) -> float:
     return sum(kept) / len(kept)
 
 
-def manometer_centreline_draught(d_port: float, d_starboard: float,
+def manometer_centreline_draught(d_low: float, d_high: float,
                                  read_offset_m: float, beam_m: float) -> float:
-    """Осадка на ДП по двум манометровым отсчётам (книга, Q2, стр. 20).
+    """Осадка на ДП по двум манометровым отсчётам (книга, Q2, стр. 19–20).
 
+    Аргументы — отсчёт с МЕНЬШЕЙ осадкой и с БОЛЬШЕЙ осадкой (стороны борта
+    задаёт вызывающий; в Q2 port=8.00 < stbd=8.25, т.е. d_low — левый борт).
     Подобные треугольники: разность осадок на полном ширине
-        dm_full = beam * |diff| / (2 * offset)
-    Осадка на ДП = меньший отсчёт + dm_full / 2 (ДП лежит между точками съёма;
-    больший отсчёт — та сторона, что ниже ватерлинии при диффере/наклоне).
+        dm_full = beam * (d_high - d_low) / (2 * offset)
+    Осадка на ДП = d_low + dm_full / 2 (ДП лежит между точками съёма).
     Проверено Q2: port=8.00, stbd=8.25, offset=8.5м, beam=20.85м:
         dm_full = 20.85*0.25/(2*8.5) = 0.3066; 8.00 + 0.153 = 8.153 м ✔.
     """
     if read_offset_m <= 0 or beam_m <= 0:
         raise ValueError("offset и beam должны быть > 0")
-    diff = abs(d_starboard - d_port)
-    dm_full = beam_m * diff / (2.0 * read_offset_m)
-    return min(d_port, d_starboard) + dm_full / 2.0
+    if d_high < d_low:
+        d_low, d_high = d_high, d_low
+    dm_full = beam_m * (d_high - d_low) / (2.0 * read_offset_m)
+    return d_low + dm_full / 2.0
