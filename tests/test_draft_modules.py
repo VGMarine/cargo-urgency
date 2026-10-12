@@ -240,3 +240,11 @@ def test_chain_weight_physical_sanity_check():
     # книжный коэффициент лежит между: чуть выше прямой длины (избыток металла
     # звеньев ~1.5x), ниже полной геометрической оценки
     assert c_straight < deductibles.CHAIN_BOOK_COEFF < c_links
+
+
+def test_anchor_weight_rounding_half_tonne():
+    """Книга стр. 43: 'This anchor weight should be rounded to the nearest half tonne'."""
+    import deductibles
+    assert deductibles.round_to_half_tonne(3.27) == pytest.approx(3.5)
+    assert deductibles.round_to_half_tonne(3.20) == pytest.approx(3.0)
+    assert deductibles.round_to_half_tonne(5.0) == pytest.approx(5.0)

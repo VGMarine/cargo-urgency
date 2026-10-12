@@ -128,3 +128,9 @@ def chain_weight_per_shackle_t(link_diameter_cm: float) -> float:
 def chain_cable_weight_t(link_diameter_cm: float, shackles: float) -> float:
     """Вес вынесенной цепи = shackle_weight x число шаклонов (книга, стр. 43)."""
     return chain_weight_per_shackle_t(link_diameter_cm) * shackles
+
+
+def round_to_half_tonne(w_t: float) -> float:
+    """Округление веса якоря до ближайшей половины тонны (книга, стр. 43):
+    'This anchor weight should be rounded to the nearest half tonne'."""
+    return round(w_t * 2.0) / 2.0
