@@ -42,10 +42,17 @@ def first_trim_correction_t_sign(lcf_to_midships_m: float, trim_m: float,
 
     1st trim correction (tonnes) = dist(LCF to midships) x TPC x trim(cm) / LBP
 
-    Знак по таблице книги (trim Aft): LCF forward of midships -> negative (-);
-    LCF aft of midships -> positive (+). Соглашение: lcf_to_midships_m со
-    знаком (+ = fwd of midships), trim_m (+ = by the stern).
-    Контроль Q7: 5 x 40 x 40 / 150 = 53.33 t (печатный ответ книги OCR "!);~"
-    читаем как «+53»; точное значение зафиксировано тестом).
+    Знак по таблице книги (стр. 31):
+        trim Aft:     LCF forward of midships -> negative (-)
+                      LCF aft of midships     -> positive (+)
+        trim Forward: LCF forward of midships -> positive (+)
+                      LCF aft of midships     -> negative (-)
+    Т.е. результат знаку произведения (lcf_signed * trim_signed) противоположен.
+    Соглашение: lcf_to_midships_m со знаком (+ = fwd of midships),
+    trim_m (+ = by the stern).
+    Контроль Q7: -(5 x 40 x 40 / 150) = -53.33 t; величина совпадает с
+    печатным решением книги «5 x 40 x 0.40 x 100 / 150» (напечатанный знак
+    ответа — OCR-обломок, таблица знаков даёт минус: LCF fwd & trim aft;
+    TODO(scan) стр. 32/PDF index 40).
     """
-    return -(lcf_to_midships_m * tpc * abs(trim_m) * 100.0) / lbp_m
+    return -(lcf_to_midships_m * tpc * trim_m * 100.0) / lbp_m
