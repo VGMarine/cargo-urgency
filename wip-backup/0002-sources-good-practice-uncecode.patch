@@ -1,0 +1,40 @@
+From 0bcc770d6ac04908e6e7df26d5f58b0a07fa9ba9 Mon Sep 17 00:00:00 2001
+From: qwen-agent <agent@local>
+Date: Mon, 12 Oct 2026 03:48:48 +0000
+Subject: [PATCH 2/4] =?UTF-8?q?sources:=20=D0=BA=D0=B0=D1=82=D0=B0=D0=BB?=
+ =?UTF-8?q?=D0=BE=D0=B3=D0=B8=20good-practice=20=D0=B8=20uncecode=20=D0=BF?=
+ =?UTF-8?q?=D0=BE=D0=B4=20=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=D0=B5=20?=
+ =?UTF-8?q?=D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D1=8B=20=D0=BA=D0=BD?=
+ =?UTF-8?q?=D0=B8=D0=B3?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ sources/originals/good-practice/README.md | 3 +++
+ sources/originals/uncecode/README.md      | 3 +++
+ 2 files changed, 6 insertions(+)
+ create mode 100644 sources/originals/good-practice/README.md
+ create mode 100644 sources/originals/uncecode/README.md
+
+diff --git a/sources/originals/good-practice/README.md b/sources/originals/good-practice/README.md
+new file mode 100644
+index 0000000..50fc61d
+--- /dev/null
++++ b/sources/originals/good-practice/README.md
+@@ -0,0 +1,3 @@
++# good-practice — сканы книг
++
++Файлы добавляются пользователем вручную (локальная машина) или через git-lfs.
+diff --git a/sources/originals/uncecode/README.md b/sources/originals/uncecode/README.md
+new file mode 100644
+index 0000000..2814c5a
+--- /dev/null
++++ b/sources/originals/uncecode/README.md
+@@ -0,0 +1,3 @@
++# uncecode — сканы книг
++
++Файлы добавляются пользователем вручную (локальная машина) или через git-lfs.
+-- 
+2.39.5
+

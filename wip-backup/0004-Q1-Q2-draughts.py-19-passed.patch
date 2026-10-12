@@ -1,0 +1,100 @@
+From 4b2483308397f3470fd5e82e3329d132735e0c49 Mon Sep 17 00:00:00 2001
+From: qwen-agent <agent@local>
+Date: Mon, 12 Oct 2026 04:15:32 +0000
+Subject: [PATCH 4/4] =?UTF-8?q?Q1+Q2:=20=D0=BC=D0=B5=D1=82=D0=BE=D0=B4=20?=
+ =?UTF-8?q?=D0=BE=D1=82=D1=81=D1=87=D1=91=D1=82=D0=BE=D0=B2=20=D0=BD=D0=B0?=
+ =?UTF-8?q?=20=D0=B2=D0=BE=D0=BB=D0=BD=D0=B5=20=D0=B8=20=D0=BC=D0=B0=D0=BD?=
+ =?UTF-8?q?=D0=BE=D0=BC=D0=B5=D1=82=D1=80=20=D0=BD=D0=B0=20=D0=94=D0=9F=20?=
+ =?UTF-8?q?(draughts.py)=20=D1=81=20=D0=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB?=
+ =?UTF-8?q?=D0=B8=D0=B4=D0=B0=D1=86=D0=B8=D0=B5=D0=B9=20=D0=B4=D0=B0=D0=BC?=
+ =?UTF-8?q?=D0=BF=D0=B0;=20=D1=82=D0=B5=D1=81=D1=82=D1=8B=2019=20passed?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/draughts.py                      | 35 ++++++++++++++++++++++++++++
+ tests/test_book_verified_examples.py | 27 +++++++++++++++++++++
+ 2 files changed, 62 insertions(+)
+
+diff --git a/src/draughts.py b/src/draughts.py
+index e2d5b5e..0e45d9d 100644
+--- a/src/draughts.py
++++ b/src/draughts.py
+@@ -9,3 +9,38 @@ def arithmetic_mean_draught(d_fwd: float, d_aft: float, d_mid: float) -> float:
+ 
+ def mean_of_sides(d_port: float, d_stbd: float) -> float:
+     return (d_port + d_stbd) / 2.0
++
++
++def wave_rejected_mean_m(readings_m: list[float], reject: list[float]) -> float:
++    """QUESTION 1 (Dibble, стр. 17 книги, PDF page_025): средняя осадка по волне.
++
++    Метод книги: из цикла отсчётов «на глаз» отвергаются явно выбивающиеся
++    крайние значения (в примере — 11.40 и 9.60), остальные суммируются и делятся
++    на их число. Список отвергаемых задаёт наблюдатель (книга не даёт формального
++    критерия) — поэтому reject передаётся аргументом.
++    Эталон книги (стр. 17): "Reject 11.40 and 9.60 m. Add remainder = 105.
++    Estimated draught reading = 105/10 = 10.50 m".
++    КОНСОЛИДАЦИЯ с дампом page_025.txt: по распознанным 12 значениям сумма
++    после отбрасывания = 104.90 (среднее 10.49), т.е. ровно на 0.1 меньше
++    печатной суммы; перебор всех одиночных замен показывает неединственность
++    «виновника» — вывод: в скане потеряна одна десятая внутри списка отсчётов
++    (метод и ответ книги 10.50 при этом верны). Тест фиксирует метод + допуск.
++    """
++    kept = [r for r in readings_m if r not in reject]
++    return sum(kept) / len(kept)
++
++
++def centreline_draught_from_manometer_m(port_m: float, diff_full_beam_m: float,
++                                        half_reading_dist_m: float,
++                                        beam_m: float) -> float:
++    """QUESTION 2 (Dibble, стр. 20 книги, PDF page_028): осадка на ДП по манометру.
++
++    Отсчёты сняты на расстояниях ±half_reading_dist_m от ДП. По подобию
++    треугольников книга сначала находит разницу на полном наборе (full beam):
++        d_full = beam * diff_readings / (2 * half_reading_dist)
++    затем половину этой разницы прибавляет к одному из отсчётов (со знаком —
++    если на противоположной стороне отсчёт БОЛЬШЕ, вода ниже у данной стороны,
++    осадка на ДП больше). Эталон: 8.00 + 0.153 = 8.153 м.
++    """
++    d_full = beam_m * diff_full_beam_m / (2.0 * half_reading_dist_m)
++    return port_m + d_full / 2.0
+diff --git a/tests/test_book_verified_examples.py b/tests/test_book_verified_examples.py
+index 3f27374..063d369 100644
+--- a/tests/test_book_verified_examples.py
++++ b/tests/test_book_verified_examples.py
+@@ -194,3 +194,30 @@ def test_mixture_rd_formula():
+     v1, r1, v2, r2 = 100.0, 0.960, 50.0, 0.990
+     rd = (v1 * r1 + v2 * r2) / (v1 + v2)
+     assert round(rd, 4) == 0.9700
++
++
++# ---- QUESTION 1 (стр. 17 книги, PDF page_025): отсчёты на волне ----
++def test_question1_wave_mean_draught():
++    import draughts as dr
++    # Дамп page_025.txt: два ряда по 6 отсчётов; книга отвергает 11.40 и 9.60,
++    # печатает сумму "105" и ответ 10.50 м.
++    readings = [11.25, 9.80, 11.40, 9.70, 11.35, 9.75,
++                11.20, 9.60, 11.00, 9.90, 11.25, 9.70]
++    m = dr.wave_rejected_mean_m(readings, reject=[11.40, 9.60])
++    assert round(m, 2) == 10.49  # арифметика распознанных чисел
++    # КОНСОЛИДАЦИЯ: печатный ответ книги 10.50 расходится ровно на 0.01 (сумма
++    # 104.90 vs 105.00) — в скане потеряна одна десятая; перебор одиночных замен
++    # даёт 10 равновероятных кандидатов => виновник не идентифицируется, метод верен.
++    assert abs(m - 10.50) <= 0.01  # допуск на OCR-потерю 0.1 в списке
++
++
++# ---- QUESTION 2 (стр. 20 книги, PDF page_028): манометр, осадка на ДП ----
++def test_question2_manometer_centreline():
++    import draughts as dr
++    # Книга: port = 8.00; отсчёты манометра на ±8.50 м от ДП (=> база 17 м),
++    # разница 0.25 м, правый борт больше; beam = 20.85 м.
++    # Решение книги: d_full = 20.85 x 0.25/17 = 0.307; половина = 0.153;
++    # центр = 8.00 + 0.153 = 8.153 м.
++    d = dr.centreline_draught_from_manometer_m(port_m=8.00, diff_full_beam_m=0.25,
++                                               half_reading_dist_m=8.50, beam_m=20.85)
++    assert round(d, 3) == 8.153  # печатный ответ книги
+-- 
+2.39.5
+
