@@ -1,0 +1,76 @@
+page 4 U.N. + ECE - DRAUGHT SURVEY CODE
+
+FORM "B"
+
+G
+
+eneral remarks by the surveyor/s
+
+Correction for stam and stern obtained by: caiculation tables
+Correction for trim (1) obtained by: calculation tables
+Correction for trim (2) obtained by: calculation tables
+Correction due to trim for liquid applied at: soundings volumes
+Correction due to trim for liquid obtained by: calculation tables
+
+Ship's approved hydrostatic tables and lightship information issued by and dated:
+
+Degree of tank calibration complies with code:
+
+L_lyes [_]No
+
+Range of trim correction lables available:
+
+si
+
+hipyard no.: Huil no. Dated at:
+
+Surveyor remarks on ship's documenis:
+
+meters metric tonnes
+
+Length overall
+Length between p.p.
+Extreme breadth
+Moulded breadth
+
+Constant declared
+Constant calculated
+Light displacement
+Light shipweight (plan)
+Summer displacement
+Summer deadweight
+Net register tons
+Gross register Tons
+
+Moulded depth
+Summer draught
+Summer freeboard
+
+STARTING SURVEY FINISHING SURVEY
+
+Tonnes per Centimetra Immersion
+Longitudinal Centre of Flotation
+
+Distance marks forward pp. (forward - aft+)
+Distance marks after pp. (forward - alt+)
+Distance marks midship pp. (forward - aft+)
+Moment to Trim One Centimetra +50
+Moment to Trim One Cantimetre -50
+
+Vessal list
+
+Accassibility of sounding pipes
+
+Working order of gauges
+
+Legibility of draught marks
+
+HT
+
+tl
+
+This form should be filled with pertinent ship)
+
+yard-regisiry data by the Master in advance of survey siart to
+reduce time/inconvenience.
+

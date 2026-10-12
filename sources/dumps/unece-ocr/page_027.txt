@@ -1,0 +1,58 @@
+ECE/ENERGY/19
+page 17
+
+004 - In these two lines the identification of the corporation
+005 or the private professional need to be provided.
+
+006 - These two lines are filled with specific indications
+007 of branch and/or port offices for larger corporations.
+
+008 ~ In these two lines details of telephone no., fax no. and telex no.
+009 need to be provided.
+
+010 - These lines are provided for indicating in sequence
+
+011 the vessel's name (in case the vessel should change name while
+loading or unloading only the last name will be indicated); the call
+letters which are the letters used to communicate with the vessel;
+and the survey serial no.; the latter number needs to be the same as
+eventually listed in the surveyor's log book.
+
+012 - In sequence it is required to indicate in these lines
+013 possible previous names of the vessel] and the actual classification
+registry, and registry number.
+
+014 - These lines are provided for identification of the year of
+015 construction of the ship, the shipyard (with hull no.), and the
+actual flag of the vessel.
+
+016 - In sequence these lines need to be filled with the
+
+017 identification of the corporation requesting the
+
+018 survey; the corporation on whose account the survey is
+019 being conducted and, if applicable, the identification
+020 of persons, other than the surveyor and of the ship
+
+021 crews, attending the survey. Such attendance of outside
+
+entities generally falls in three classes: as joint surveyors,
+as umpire or just to monitor (generally on behalf of either sellers
+or buyers).
+
+024 - The blank space needs to be filled with the indication of the port.
+
+025 - The blank space needs to be filled with the indication of the type of
+cargo being loaded or unloaded. It must be clarified that by
+including such an indication in the survey the surveyor does not
+undertake any liability on the type and/or quality of the cargo being
+loaded or unloaded.
+
+026 - In the blank space the surveyor should identify the hold's number in
+which cargo was loaded or unloaded. In case of holds loaded only in
+part such detail can be listed in the footnotes or in an annex of the
+survey report.
+
+031 - The first line will serve to indicate the date of the starting
+032 and the date of the finishing surveys. The second line will be used
+to indicate the number of hours used to make the surveys.

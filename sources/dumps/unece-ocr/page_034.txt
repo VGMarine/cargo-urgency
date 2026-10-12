@@ -1,0 +1,42 @@
+ECE/ENERGY/19
+
+page 24
+fable 1
+T eteainedeabesberiberecbeieel me me em mer a oe ae ee mmm mn me mee ae ace orm ae ao Sere ccm ce eae cma mm ma ae i a ee oe wn ome ow eam i
+Hog ~ Sag Correction to be applied Station Proportion
+to station draughts when hydrostatic of hog or sag |
+Properties are calculated for actual
+trimmed water line F.P, 1.00 i
+2 81
+i +64
+2 236
+3 +16
+4 -04
+5 i]
+6 -04
+Apply proportional correction to 7 216 !
+the draught taken from a trimmed 8 36 :
+, Straight line through amidship. 9 64 |
+i Correction (+) for hog and (-) 9-1/2 81 ‘
+‘for sag ALP. 1.00 ’
+
+(d) If it is agreed before the voyage commences that the correction
+for hull deflection be related to the waterplane area, then the
+method described below shall be used in lieu of the correction
+described in paragraph (a).
+
+Such usage shall be clearly stated (Form "E") so that the same
+methodology will be applied in subsequent Surveys as agreed.
+
+When the ship is hogged:
+D=M- fx (M - MS)
+When the ship is sagged:
+D=M+£x (MS ~ M)
+where: D = Draught applied in displacement calculation
+(line 154)
+M = Mean of draughts at Forward and After
+Perpendiculars (line 143)
+
+MS = Mean of draughts measured at Amidships (line 149)
+f Coefficient from Table II
+

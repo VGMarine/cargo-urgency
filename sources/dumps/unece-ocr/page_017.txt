@@ -1,0 +1,25 @@
+U.N. - ECE - DRAUGHT SURVEY CODE
+DRAUGHT SURVEY REPORT OF CARGO IN BULK
+
+FORM "D2"
+| __|UNLOADED
+
+FINISHING SOUNDING. From Hours To Hours Osre Tren
+
+Compartmeni Tite: Maximum Sounding Sounding Volume Density of Tota:
+
++ Tank no. height fullage fullage corrected water weg
++ Bliges measured (*) corrected for for tim / list In air Metric
++ Duct keel meters meters trim / list m3 Kgm3 tonres
+
+meters
+
+A- ee
+
+B-FRESH WATER
+
+a
+
+(°) Statement of obstructions in sounding tube’s:
+
+Ed. October 15, 1991 - 1.8 - Microsoft Excel 2.2 5-7

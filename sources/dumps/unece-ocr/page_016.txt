@@ -1,0 +1,29 @@
+page 6 U.N. + ECE - DRAUGHT SURVEY CODE
+
+FORM “D1"
+STARTING SOUNDING: From Hours:
+
+To Hours: Date: Trim:
+
+Compartment Title: Maximum
+
+Sounding
+
+Volume Density of Total
+
++ Tank no, height /ullage corrected water weight
++ Bliges measured (*) corrected for for trim / fst In air Matric
+meters tim / list m3 Kgm3 tonnes
+meters
+A- BALLAST
+
+B - FRESH WATER
+
+Total B
+
++ 1.8 - Microsolt Excel 2.2 4-7
+
+(*} Statement of obstructions in sounding tubers: -
+
+Ed, October 15, 19917
+

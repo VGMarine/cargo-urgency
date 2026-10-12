@@ -1,0 +1,58 @@
+oe
+
+ECE/ENERGY/19
+page 22
+
+The sign of the Corr. to PP depends on the observation of the slope of
+the waterplane between the location of the mark with respect to the
+location of the perpendicular.
+
+143° - The Draught forward and after mean is the numerical average of the a
+draughts at the Forward Perpendicular (line 134) and at the After .
+Perpendicular (line 141).
+
+147 - The Draught midship mean is the numerical average of the draughts read
+port and starboard at midships (lines 145 and 146).
+
+148 - If the midships marks are not located at a position half way between
+
+149 the Forward and After Perpendiculars, the mean reading at the marks
+
+(line 147) must be corrected to this midpoint location by the
+following formula:
+
+Draught at = Draught at + Corr.
+Midships Midship Mark to Midships
+Corr. to i a
+Midships ~*~ + py * M
+Where: T = Trim between draught marks
+D1 = Distance between draught marks
+ML = Distance from midship draught mark to the vertical at
+
+the half-length between the forward and after
+perpendiculars
+
+The sign of the Corr. to Midship depends on the observation of the
+Slope of the waterplane between the location of the mark with respect
+to the location of the midships.
+
+Calculation of Hog or Sag
+150 - Deflection of the hull, i.e. deformation of the bottom of the ship
+
+from a straight line to a curved line either concave (SAG) or convex
+(HOG) is determined from the following formula:
+
+(line 150) = (line 149) ~ (line 143)
+
+if resulting sign is + the ship has SAG
+if resulting sign is - the ship has HOG
+
+Calculation of M/M/M Draught
+
+151 - The Mean of the Means of the Mean draught is an approximate method
+
+152 of correcting the calculated displacement for the effect of hull
+
+154 deflection. This method, which is described in paragraph (a), shall
+be used except in the special situations defined in paragraphs (b),
+(ce), or (da).

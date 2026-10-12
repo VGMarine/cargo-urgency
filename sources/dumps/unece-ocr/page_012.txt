@@ -1,0 +1,54 @@
+pes
+
+ECE/ENERGY/19
+page 2
+
+UN/ECE CODE OF UNIFORM STANDARDS AND PROCEDURES FOR
+THE PERFORMANCE OF DRAUGHT SURVEYS OF COAL CARGOES
+PART 1 - DRAUGHT SURVEY PROCEDURES
+
+The following Code of procedures is recommended for calculating the
+weight of dry cargoes at both loading and discharge ports.
+
+; i 1 .
+the vessel's draught survey manual issued upon request of the shipowners by
+the classification societies, and also provided that the work is conducted by
+ual ed r i i wi r
+that cargo weights will be consistently determined within an accuracy of 0.5%,
+
+which has been accepted by bulk trades throughout the world. In fact, checks
+conducted in various parts of the world, where the same vessel has been
+Surveyed by independent operators, indicate that an order of accuracy to
+within 0.1% can be obtained under proper and favourable conditions.
+
+For each draught survey the Surveyor must provide his client with a
+draught survey report which is equivalent to a weight certificate. This
+document should indicate the way in which the Survey was conducted, the
+calculations which were performed, and any other information pertinent to the
+survey, including problems which may have been encountered. The UN/ECE
+Draught Survey Code Forms "A", "B", "C", "D/1", "D/2", “D/3" and "E",
+constitute the formats for such a report.
+
+These forms serve the purpose of:
+
+- achieving uniformity in the format and content of draught survey
+reports;
+
+- facilitating the auditing of the reports;
+
+~ accomodating the range of instruments used for the preparation of
+reports which varies from pencils to computers;
+
+~ furnishing complete data which may be utilized in data bases useful to
+commercial and professional interests.
+
+Section A of Part 1 provides an introduction to the draught survey
+including some general principles.
+
+Section B contains a line by line description of the proper utilization
+of the Forms.
+
+Section C summarizes some of the factors which can affect draught surveys.
+
+Section D gives advice on improving the accuracy,
+

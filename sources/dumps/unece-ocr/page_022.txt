@@ -1,0 +1,55 @@
+ECE/ENERGY/19
+page 12
+
+5. Loading of multiple cargoes
+
+It is frequently the case that two or more Separate cargo lots are loaded
+into a vessel, either during a more or less continuous operation at the same
+port, or sequentially at separate ports. The latter situation May arise due
+
+to draught restrictions at the first port, resulting in the need for the
+vessel to "top-up" at a second port or vice versa at the unloading port(s).
+
+Where two or more cargoes can be loaded or unloaded Separately and fully,
+it is preferable that an initial draught Survey be conducted, followed by
+intermediate surveys to calculate the weight of the first and subsequent
+cargoes loaded or unloaded. On completion of loading or unloading, a final
+Survey should be conducted to determine both the total weight and the weight
+of the final cargo.
+
+In cases where loading or unloading is conducted sequentially at separate
+ports, it is recommended that both a starting and a finishing survey be
+conducted at each port. In this case, the starting Survey should verify the
+weight already or still on board and should also recalculate the “constant” or
+undefined weight of the vessel.
+
+In cases where multiple cargoes cannot be loaded or unloaded Separately,
+or where several loading heads or unloading grabs are employed simultaneously,
+it is recommended that only the starting and finishing Surveys be conducted.
+The apportionment of the weights of each of the cargoes should then be made by
+comparing surveyed weight with belt weightometer or shore weight to achieve a
+factor which is applied to each cargo, as follows:
+
+2% wi
+Shore weight | * factor (f)
+Weight of Cargo A = shore weight x (f)
+Weight of Cargo B = shore weight x (f)
+
+It is considered that the adoption of this methodology for multiple
+cargoes will result in an order of accuracy within 0.5%, which is accepted for
+bulk cargoes throughout the world. However, where two or more loading heads
+or unloading grabs are employed simultaneously, it is important that the
+
+weightometers be in harmony with one another, to avoid incorrect apportionment
+of cargo weights delivered by each loading head. Missing the shore reference
+the draught surveyor should assume written instructions on the criteria to be
+used (for instance stowage factor of goods, rail car, etc.).
+
+6. vi ne ne in
+
+It is recommended that draught surveys shoulda always be conducted prior
+to and on completion of loading or unloading. Where loading or unloading
+takes place sequentially at several ports, the decision as to whether or not
+to conduct a pre-loading survey at the second or subsequent ports should be at
+the discretion of the shipper. In the majority of loading and unloading
+

@@ -1,0 +1,52 @@
+ECE/ENERGY/19
+page 11
+
+displaced is equal to the original weight of the vessel plus (or minus) the
+80,000 tonnes of cargo which has been loaded (unloaded) and plus (or minus)
+density variation of the water intervened between the starting survey (first
+measurement) and the finishing survey (second measurement).
+
+(b) If a vessel of fixed weight floating freely in water of low density,
+for example dock water of apparent density 1,000, is moved into water of
+higher density, for example sea water of apparent density 1,025, then the
+vessel will rise slightly in the water because of the smaller volume needed
+for the same weight of the water displaced.
+
+3. he “shi x Ad 11
+
+In the draught survey daily practice one of the complicating elements is
+due to the fact that “empty” ships (that is before loading or after unloading)
+are in actuality always loaded with ballast water which makes the calculation
+of the cargo loaded or unloaded more difficult. The ballast water, that is
+pumped outboard during loading of cargo, and inboard during unloading,
+moreover, tends to hide sediments that can be assumed or misidentified with
+the cargo.
+
+When sailing without cargo a vessel has to be ballasted to be at
+sufficient draught for manoeuvrability and the submerging of its propeller.
+After arrival at the loading berth, the starting survey is usually carried out
+when the vessel is still ballasted. Consequently, in order to be able to
+calculate “the light ship weight", it is most important to determine a
+reliable ballast quantity. This quantity is, together with fresh water, fuel
+oils, etc., deducted from the vessel's gross weight. After completion of
+loading, again ballast tanks are sounded to determine possible residuals. It
+is commonly accepted that ballast water has the greatest influence on the
+final tolerance in the out-turn figure. Consequently it must be emphasized
+that greatest care should be taken during all measurements and observations
+regarding the ballast. It is not unlikely that in a near future "inbuilt new
+instruments" of the ship will permit to measure with high accuracy the mass of
+liquid present at any given time in each tank/compartment of the vessels.
+
+4. 1 raugh r
+
+Throughout the world, millions of tonnes of raw and processed materials
+are bought and sold every day. If any of those materials are carried by ship,
+it is possible that the weight of the consignment will be measured by a
+draught survey. This code of standards and procedures has been compiled as an
+aid to the parties involved. Virtually all draught surveyors have a
+qualification as Master or comparable professional skill. For other persons
+who may use this code, definitions of technical expressions used are shown
+in part 4.
+
+The following procedures were compiled taking into account the existing
+bibliography and references.

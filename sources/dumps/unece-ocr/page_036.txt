@@ -1,0 +1,33 @@
+ECE/ENERGY/19
+page 25
+
+<1 iy
+Foy
+{ Aflec
+Cs) for sag
+
+w Forward
+
+(-) fer hey
+
+Porcont beg or vay to be applied to
+
+{heal
+
+liculati
+
+155 - The forward and after trim of the ship shall be calculated from the
+Graughts at the perpendiculars (lines 134 and 141), using the
+following formula:
+
+Trim = Dap - Dfp
+where: Dap = draught at After Perp. (line 141)
+Dfp = draught at Forward Perp. (line 134)
++ shall be indicated as Trim Aft
+~ shall be indicated as Trim Forward
+f Di i
+153. - Except as noted in paragraphs (a) and (b), displacement (1) is to be
+
+161 extracted from the ship's approved hydrostatic tables for the M/M/M
+draught by means of linear interpolation.
+

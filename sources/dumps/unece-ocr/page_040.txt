@@ -1,0 +1,60 @@
+ECE/ENERGY/19
+page 30
+
+185 - Enter with the starting and the finishing hour of ballast and fresh
+
+186 water soundings; indicate hours from 00 to 24 and minutes from 00 to
+60. Enter subsequently with date or dates and specify trim of the
+vessel while the soundings for ballast and fresh water took place.
+
+Ballast tanks
+195 - Enumerate in sequence each compartment containing ballast water (one
+210 for each line from forward to after). All ballast tanks must be
+
+sounded with a calibrated steel sounding tape and water finding
+
+paste. At exposed berths, where vessel movement could cause errors in
+tank soundings, the soundings should be made at least three times with
+a steel tape and paste, or alternatively with a float, and the average
+taken of the readings.
+
+Water in ballast tanks must be measured by sampling via the sounding
+pipes with appropriate equipment (such as a small pump and plastic
+tubing) and the density calculated, using equipment and procedures as
+set out in lines 157 to 167. Corrections for heel and trim must be
+applied to soundings, including allowances for unpumpable volumes in
+“dry" tanks. Any inadequacy of tank tables in regard to capacities or
+corrections for trim, should be noted on the Surveyor's report. The
+heading of all columns of this form is self explanatory except that a
+few comments are in order:
+
+(a) Every tank should be sounded Scrupulously. Expressions such as
+“full” or “empty” with the corresponding, appropriate figure against
+it shall not be used.
+
+(b) The trim of the vessel must not be ignored. "Pocketing” often
+leaves voids in supposedly "full" tanks. Small quantities coupled
+with large trims can render prismatically shaped volumes, the size of
+which must be arrived at by solid geometric mensuration, should
+sufficiently arranged tables not be available.
+
+(c) Special attention should be given to the density of the liquid in
+the tank in order to arrive at an accurate weight. This is especially
+important in ascertaining weights in ballast tank since, for obvious
+reasons, the specific gravity may vary from less than i through 1.025.
+To assume the latter (or the first) when, in fact, the actual figure
+is somewhere in between can lead to large errors in the bigger vessels.
+
+210 - Bilges: all bilges are to be sounded or confirmed dry by visual
+
+214 inspection.
+Bilges pumping certificates should be Placed on board and the master
+should be requested to keep an accurate record of any bilges pumped
+overboard during the voyage. This record should be handed to the
+consignee's surveyor at the discharge port and a copy retained on
+board. To secure reliability of the data the bilge water should be
+first pumped in a calibrated compartment and from there overboard each
+time that such compartment is full. i i int,
+failing which, reconciliation of loading and discharging port results
+can become difficult, as explained in previous paragraph.
+

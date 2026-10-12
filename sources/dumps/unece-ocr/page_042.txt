@@ -1,0 +1,70 @@
+ECE/ENERGY/19
+
+page 32
+280 -
+289
+2920 -
+293
+305 -
+306
+307) -
+308
+309 +
+310
+3130 -
+345
+335 -
+344
+
+As explained in previous section, fresh water generally does not need
+to be sounded again if it was sounded for the starting survey unless
+for some special situations like for instance when at last moment
+ballast water is pumped out of board to load more cargo. Under such
+circumstances it is necessary to repeat the fresh water soundings.
+
+Enter in this space an indication of possible obstructions in sounding
+tube or tubes and identify each problem encountered. In case of need
+add an extra page to illustrate in detail the problem and how it was
+faced in the situation.
+
+FORM “D/3"
+
+Indicate in the appropriate box if survey relates to cargo loaded
+or unloaded.
+
+In these two lines the identification of the corporation or the private
+professional need to be provided
+
+Identify the vessel name and the serial no. of the survey.
+
+The headings of the columns are self explanatory.
+
+Similarly to soundings made for ballast and water determinations, under
+section C (lines 319 to 334) the figures for fuel oil on board shall be
+measured and entered with the identification of each tank in the
+sequence order from forward to after, unless for special circumstances
+it is sufficient to measure fuel oil only for the starting survey.
+
+For fuel consumption during loading or unloading the Chief Engineer's
+data (provided reasonable figures are offered to the Surveyor) are an
+acceptable method of calculating final fuel weight for finishing
+Survey. Naturally in this case only the last column (weight metric
+tonnes), under finishing survey will be entered with the appropriate
+calculated numbers.
+
+In case of any slop tank also the content of such compartment needs to
+be sounded and pertinent data entered with specific identification of
+each tank after the data of fuel oil. Total C for fuel oil will be
+entered on line 353, as appropriate under starting and finishing
+survey.
+
+The summation of slops will be entered in line 355 under starting and
+finishing survey.
+
+Similarly for diesel oil, the same operations listed above for fuel
+oil, need to be done with the same criteria.
+
+In this case, also, any large difference in figures between the
+initial and the final survey needs to be investigated and, if
+necessary, all tanks sounded again and weight determined using the
+appropriate specific gravity for the fuel. -

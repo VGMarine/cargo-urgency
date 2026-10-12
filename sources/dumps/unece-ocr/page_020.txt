@@ -1,0 +1,48 @@
+a
+
+ECE/ENERGY/19
+page 10
+
+PART 1
+SECTION A
+INTRODUCTION TO DRAUGHT SURVEY AND GENERAL PRINCIPLES
+What is a draught survey?
+
+A draught survey is a method of cargo weight determination by ship's
+displacement calculations, empty and loaded (or loaded and empty), taking into
+account any change in weight of the liquids on board. The accuracy of the
+draught survey will be dependent upon the experience and the care taken by the
+Surveyor concerned, on the documentation of the vessel, on the spirit of
+co-operation of the vessel crews and of the shore terminal personnel and, last
+but not least, on the instruments used by the draught surveyor and the weather
+and sea conditions in the harbour.
+
+In the following sections details will be given regarding the procedures
+to be followed for the draught survey but before going any further, it is
+necessary to explain the following basic principles:
+
+1. ‘h. incipl Archime
+
+Referring to the "Principle of Archimedes", i.e. a vessel when freely
+floating in water, will displace a weight of water equal to its own weight, it
+is obvious that the weight of the displaced volume of water will not only be
+the weight of the cargo on board (loaded or unloaded). This weight will also
+include:
+
+- the weight of the vessel in light condition, i.e. including all the
+equipment required for sailing; and the provisions;
+
+~ the residual weight (borne by trade patterns and changing from time to
+time);
+
+- all deductible liquids on board;
+- ballast: required for stability reasons;
+- fresh water: drinking water and cooling water;
+~ bunkers: fuel, diesel and lubricating oil;
+- constant: see definition in the glossary.
+2. v ij isplacemen d_shi
+It also follows from the "Principle of Archimedes" that:
+(a) If a weight of cargo, say 80,000 tonnes, is loaded on (or unloaded
+
+from) a vessel floating freely in water of any measured density, then the
+vessel will sink (or float) into the water until the total weight of water

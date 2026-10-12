@@ -1,0 +1,64 @@
+page 3
+
+U.N. - ECE - DRAUGHT SURVEY CODE
+001
+002 DRAUGHT SURVEY REPORT OF CARGO IN BULK [ |jucaoed FORM "A" !
+003 UNLOADED i
+004 |Comorate wentiticanon:
+felels)
+O06 jOttice ot ne surveyor ar:
+007 |
+008 Terepnone na: Fax na: Terex no.
+009
+010 |Vessei mv: Cail ietters: Survey no:
+O11
+012|Vessei previous namers: Registry: i
+013 |
+O14 iBuut year: By Fiag: Hl
+015 |
+
+016| Survey requested by:
+017/On the account of:
+018] Attended also by:
+
+nw
+
+024 at the pert of:
+
+025 amount of
+
+026 loaded, unloacec (holds no. ) and naving followed the rules as set cy :ne
+
+027 U.N, / ECE Code of UniformSiandarcs and Procedures for the Performance of Draught Surveys have “he
+028 following to report:
+
+029
+
+030 FINISHING SURVEY
+
+STARTING SURVEY
+date:
+
+hours: from: to:
+
+031} Attending the surveys
+
+038| = Witness draughts(
+
+040/Witness tank sounding
+041
+
+042 Ship's location
+043] Weather temperature
+044
+
+045 Sea condition
+046 Heading of ship
+047
+
+048 Direction wind
+049} Stream speed Km /h
+050 Tide
+Ost Ice
+
+Ed. October 15, 1991 - 1.8 - Microsoft Excel 2.2

@@ -1,0 +1,61 @@
+ECE/ENERGY/19
+“page 27
+The Nemoto Correction is always +
+
+where: TPC Tonnes per centimetre immersion (line 099)
+
+LcF = Longitudinal centre of flotation (line 100) (metres)
+
+T = Trim between Perp. (metres) (line 155)
+
+LEP = Length between Perpendiculars (metres)
+
+(line 090)
+
+(4M/dZ) = Difference in moment to change trim one centimetre
+for two draughts, one 50 cm higher than the mean
+observed draught and another 50 cm lower than the
+mean observed draught (metre-tonnes)
+
+Then
+
+Trim Corr. = 4 LCF Corr. + Nemoto Corr.
+(line 164)
+
+164 - (b) If the ship has approved tables which provide a correction to the
+displacement for the effect of trim, then this correction shall he
+utilized in lieu of the calculation described in paragraph (a).
+
+iculation of nsi rr ion
+
+157. - Samples are to be taken with a “tumble-fill" or equivalent type of
+
+158 salinometer pot.
+159 The results of all tests should be averaged and should be compared with
+167 other recent tests at the port or berth. If unexpected variations
+
+occur, the samples should be retaken and tested again, if necessary at
+one-metre intervals on both port and starboard sides of the vessel.
+
+In many ports the density of dock water changes with depth and tide.
+Consequently a number of samples should be taken at various levels and
+locations to obtain a reliable mean density. Tidal variations can
+also affect density.
+
+The density meter should be kept clean, otherwise it is liable to show
+unacceptable deviation from actual density.
+
+(a) The density of the water in which the ship is immersed shall be
+measured either immediately before or immediately after the draughts are
+read. The measurements shall be made with a glass hydrometer, certified
+by the manufacturer to be accurate, and calibrated to read weight
+
+per unit volume in air. Serial number and identification of the
+instrument shall be entered on line 159.
+
+The density shall, initially, be measured amidship, near the water
+surface and, again, near the bottom of the keel. If the readings are
+identical single additional readings shall be made at the bow and the
+stern. If the readings are not identical to the previous readings
+then readings at two levels shall be made at the bow and the stern.
+The density (line 157) shall be the average of ail readings taken.
