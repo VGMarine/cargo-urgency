@@ -1,0 +1,79 @@
+Load line length (L1)
+
+Longitudinal Centre of Flotation
+(LCF)
+
+Lubricants
+
+Margin line
+
+MARPOL
+
+M.D.O.
+
+Mean aft draught
+
+Mean forward draught
+
+Mean midships draught
+
+Measurement of Bunker Quantities
+
+ECE/ENERGY/19
+page 93
+
+Load line length, Ll, is to be taken as
+96% of the total length on a waterline
+at 85% of the least moulded depth
+measured from the top of the keel, or
+as the length from the fore side of the
+stem to the axis of the rudder stock on
+the waterline, if that is greater. In
+ships designed with a rake of keel, the
+waterline on which this length is
+measured is to be parallel to the
+designed waterline. The length L1 is
+to be measured in metres.
+
+The point in the waterplane area, at a
+given draught, around which a vessel
+will trim. If the LCF is forward of
+the midlength between perpendiculars it
+is given a negative sign, if it is aft
+the sign is positive.
+
+Oils for lubricating the main engine,
+auxiliary engines and other moving
+equipment aboard the vessel.
+
+Margin line is a line drawn at least
+76 mm below the upper surface of the
+bulkhead deck at side.
+
+The International Maritime
+Organization's regulations on Marine
+Pollution,
+
+Marine Diesel Oil.
+
+Average of the draughts measured at the
+Port and Starboard aft sides af the
+vessel.
+
+Average of the draughts measured at the
+Port and Starboard forward sides of the
+vessel.
+
+Average of the draughts measured at the
+Port and Starboard midships sides of
+the vessel.
+
+In the initial draught survey all fuel,
+diesel and large lubricating oi1 tanks
+should be measured and the weights of
+the contents calculated. It is
+generally sufficient then to allow a
+daily consumption figure, to calculate
+the difference between the initial and
+final survey figures.
+

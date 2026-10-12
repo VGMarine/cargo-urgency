@@ -1,0 +1,82 @@
+Hull reference
+
+I.F.0.
+
+I.L.0.
+
+I.M.0O.
+
+Inclining experiment (KG)
+
+Inmarsat
+
+Interpretations
+
+I.T.F.
+
+Keel
+
+Knot
+
+Lay-up
+
+LCF
+
+ECE/ENERGY/19
+page 91
+
+For hull reference purposes, the ship
+is divided into 21 equally spaced
+stations where Station 0 is the after
+perpendicular, Station 20 is the
+forward perpendicular, and Station 10
+is mid-Lpp.
+
+Intermediate Fuel 0i1. The grade of
+fuel in general use.
+
+International Labour Organisation. A
+specialized agency related to the
+United Nations dealing with the
+well-being of employed persons and all
+related matters. Based in Geneva.
+
+International Maritime Organization. A
+specialized agency related to the
+United Nations, based in London,
+dealing with maritime matters.
+
+The process of heeling a ship by moving
+known weights at measured distance in
+order to calculate the basic vessel
+lightweight information i.e. (KG).
+
+The International Maritime Satellite
+
+Organization, based in London, Deals
+with all matters related to satellite
+communications.
+
+Agreement reached within IMO as to how
+the requirements of a particular
+convention might be applied in practice
+to achieve uniformity and simplicity.
+
+International Transport Federation.
+
+The part of a ship extending along the
+bottom from stem to stern.
+
+The unit of measure of ship’s speed.
+One knot is a speed of one nautical
+
+mile or 1,852 m per hour. (See also
+nautical mile).
+
+The mooring of a vessel for a
+substantial period of time usually
+without crew.
+
+Length between centre of flotation and
+amidships. (See also Longitudinal
+Centre of Flotation).

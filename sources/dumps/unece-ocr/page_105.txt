@@ -1,0 +1,57 @@
+ECE/ENERGY/19
+page 95
+
+Moisture migration The movement of moisture contained in
+materials by settling and consolidation
+of the material due to vibration and
+ship's motion. Water is progressively
+displaced which may result in some
+portions or all of the materials
+developing a flow state. (See also
+Angle of Repose, Cargoes which may
+liquefy and Flow state.)
+
+Moment The moment of a force is a measure of
+the rotating effect of the force about
+a given point. The rotating effect
+will depend upon the magnitude of the
+force and the length of the lever upon
+which the force acts, i.e. the
+perpendicular distance between the line
+of action of the force and the point
+around which the moment is being
+exerted,
+
+Moment to change trim 1 em (MTC) The force in metric tons multipled by
+the distance in metres required to
+change the trim of the vessel by 1 cm.
+
+Moulded Depth The moulded depth is the vertical
+distance measured from the top of the
+keel to the top of the freeboard deck
+beam at side.
+
+Mud in Ballast Tanks Remaining mud in ballast water tanks is
+one source of error. The only
+possibility to determine the weight of
+this mud would be to carry out a light
+ship draught survey without ballast
+water in the tanks. But how? It can
+only be done when the vessel is out of
+service at the repair yard or alongside
+a lay-by berth. As long as the vessel
+is in service - and this is normally
+the case - the surveyor will carry out
+the light ship survey with the vessel
+in ballast condition. Consequently the
+mud will "disappear" in the ballast
+figure and will later be included in
+the figure for total weights discharged
+upon laden ship survey. This will
+result in adulterated cargo weight. As
+the mud is still on board, and since it
+is in most cases impossible for the
+surveyor to ascertain it, the weight of
+the mud is included in the cargo weight
+and the surveyor will certify more
+

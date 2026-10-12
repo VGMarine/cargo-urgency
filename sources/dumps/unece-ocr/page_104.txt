@@ -1,0 +1,64 @@
+ECE/ENERGY/19
+page 94
+
+Measurement of Water Tanks
+
+Midships (amidships)
+
+Midship section area coefficient (Cm)
+
+Moisture content
+
+The volume of water in all ballast,
+fresh water and cooling water tanks
+should be measured by soundings or
+ullages, using a steel tape or a brass
+rod. It is inaccurate to use a piece
+of rope or cord, which can stretch or
+shrink. It is inaccurate to overflow a
+tank and assume that it is full because
+there is no way of knowing if there are
+void spaces between beams, stiffeners,
+brackets, etc. This is particularly
+true of long wing ballast tanks with a
+deck camber. It is impossible to
+accurately calculate the volume of a
+tank which is overflowing at the
+sounding pipe. If a tank has a
+sounding which is in excess of the
+maximum shown in the sounding tables
+then the water level should be dropped
+back to one which shows in the tables.
+If possible, the ship's officers should
+be advised of this last requirement
+before the draught survey is due to
+Start. Water tanks should be measured
+at the initial and final surveys.
+
+Amidships is to be taken as the middle
+of the Rule length, L, measuring from
+the forward side of the stem. (See
+also Amidships and Rule length.)
+
+This is the ratio of the immersed area
+of the midship section (Am) to the area
+of the circumscribing rectangle having
+a breadth equal to the breadth of the
+ship and a depth equal to the draught.
+
+i.e., Cm = __Am
+BxT
+
+Cm values range from about 0.85 for
+fast ships to 0.99 for slow ships.
+
+That portion of a representative sample
+consisting of water, ice or other
+liquid expressed as a percentage of the
+total wet mass of that sample.
+Procedures given in this Code apply
+only to the usual cases wherein the
+moisture consists almost entirely of
+water or ice.
+
+scone atten te ho hh a eR A eh te Ra

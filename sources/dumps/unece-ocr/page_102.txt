@@ -1,0 +1,59 @@
+oe
+
+ECE/ENERGY/19
+page 92
+
+Length Between Perpendicular (LBP) The distance, in metres, on the summer
+
+(or baseline) load waterline from the fore side of
+the stem to the after side of the :
+rudder post, or to the centre of the
+rudder stock if there is no rudder
+post. The forward perpendicular, F.P.,
+is the perpendicular at the
+intersection of the summer load
+waterline with the fore side of the
+stem.
+
+Length of the ship (L) Length of the ship (L) is the length
+measured between the perpendiculars
+taken at the extremities of the deepest
+subdivision load line.
+
+Light loading The loading of a vessel to less than
+its maximum permissible draught.
+
+Lightship A ship in the lightship conditions
+(Condition 0) is a ship complete in all
+respects, but without consumables,
+stores, crew and effects, and without
+any liquids on board except that
+machinery fluids, such as lubricants
+and hydraulics, are at operating levels.
+
+Lightweight Lightweight means the displacement of a
+ship in metric tons without cargo, oil
+fuel, lubricating oil, ballast water,
+fresh water and feed-water in tanks,
+consumable stores, passengers and their
+effects.
+
+Liner vessel A vessel which maintains a service
+between one and the same ports at fixed
+intervals in accordance with a schedule.
+
+List Inclination of the vessel from the
+vertical position measured at the
+longitudinal midships axis. It is
+usually measured by means of an
+inclinometer giving results in degrees
+of angle. List can also be calculated,
+if necessary, from the difference
+between the Port and Starboard midships
+draughts or freeboards.
+
+Litre Qne cubic decimetre. .
+
+L.O.A, Length Over All. The total length of a
+vessel,
+
