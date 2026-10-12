@@ -125,6 +125,21 @@ def test_question8_printed_values_from_scan():
     assert c2 > 0                                    # всегда «+» (книга, стр. 32)
 
 
+# ---- Формула метода 2(ii), печатная (spec 003/003b; src/draughts.py) ----
+def test_method2ii_printed_formula():
+    import draughts
+    # MAD = ((4 x DM) + 6*D_FP + D_AP)/11 (книга, PDF index 35); веса 4+6+1=11
+    assert draughts.mad_method2ii(6.00, 6.00, 6.00) == pytest.approx(6.00)
+    # контрольный расчёт на произвольных осадках
+    assert draughts.mad_method2ii(7.0, 8.0, 5.0) == pytest.approx(
+        (4 * 7.0 + 6 * 8.0 + 5.0) / 11.0)
+    # симметрия относительно метода 2(i): при FP=AP=MAD совпадает с (DF+DA)/2
+    d_fp = d_ap = 6.5
+    dm = (d_fp + d_ap) / 2  # ровный корпус без прогиба
+    assert draughts.mad_method2ii(dm, d_fp, d_ap) == pytest.approx(
+        draughts.amd_fuller_form(d_fp, d_ap))
+
+
 # ---- QUESTION 9 (стр. 36 книги, PDF index 44): поправка плотности ----
 def test_question9_density_correction():
     # Actual displacement = tabulated x density1/density2
