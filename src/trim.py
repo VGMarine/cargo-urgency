@@ -1,8 +1,7 @@
-"""Поправки на дифферент: 1st trim (layer) и 2nd trim (spec 004).
+"""Поправки дифферентных поправок: 1st trim (layer) и 2nd trim (spec 004/trim).
 
-Сверено с оригиналом (текстовый слой PDF): Dibble, стр. 31-33 книги
-(индексы страниц PDF 38-39). Контрольные примеры: QUESTION 7 (стр. 32),
-QUESTION 8 (стр. 33).
+Сверено с оригиналом (текстовый слой PDF): Dibble, стр. 31-32 книги
+(PDF index 39-40). Контрольные примеры: QUESTION 7 (стр. 31), QUESTION 8 (стр. 32).
 """
 from __future__ import annotations
 

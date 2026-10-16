@@ -1,8 +1,8 @@
 """Поправки осадок на перпендикуляры и мидель (spec 002).
 
-СВЕРЕНО с оригиналом (текстовый слой PDF): Dibble, стр. 29–34 книги
-(PDF index 32–37). Контрольные примеры: QUESTION 3 (стр. 32–33) и
-EXAMPLE «CORRECTIONS WITH HULL DEFLECTION» (стр. 33–34).
+СВЕРЕНО с оригиналом (текстовый слой PDF): Dibble, стр. 24–25 книжной
+пагинации (PDF index 32–34). Контрольные примеры: QUESTION 3 и
+EXAMPLE «CORRECTIONS WITH HULL DEFLECTION» (оба — стр. 24–25 книги).
 """
 from __future__ import annotations
 
@@ -13,9 +13,10 @@ def mark_incline_correction(angle_deg: float, distance_m: float) -> float:
     """Линейная поправка осадки из-за наклона маркерной линии.
 
     corr = tan(alpha) * x   (альфа в градусах, x в метрах, результат в метрах)
-    Сверено: книга, стр. 33 (PDF index 36): "By simple trigonometry
-    Tan 22° x 4.121 = 1.665 m" — расстояние от FP до носовой марки при
-    завале форштевня (rake of stern 22°, SLL-draught 10.471 м).
+    Сверено: книга, PDF index 33 (стр. 24 книжной пагинации): "By simple
+    trigonometry Tan 22° x 4.121 = 1.665 m" — смещение носовой марки от FP
+    при завале форштевня (в книге напечатано "Rake of stern = 22°" — явная
+    опечатка оригинала, геометрия Q3 — завал СТЕМНЯ у FP; TODO(scan)).
     Знак здесь не трактуется — вызывающий код решает +/− по правилу
     misplacement (см. perpendicular_corrections).
     """
@@ -62,7 +63,7 @@ def perpendicular_corrections(d_fwd: float, d_aft: float, lbp_m: float,
 
 def deflection_end_correction(trim_half_m: float, misplacement_m: float,
                               half_length_m: float) -> float:
-    """Поправка конца при hog/sag — метод книги (стр. 33–34, EXAMPLE).
+    """Поправка конца при hog/sag — метод книги (PDF index 33–34, стр. 25).
 
     «use the trim between the midships mark and the particular end draught,
     then calculate using this half length trim, the half length and the
@@ -73,6 +74,8 @@ def deflection_end_correction(trim_half_m: float, misplacement_m: float,
     Проверено печатным ответом книги (hogged vessel, trim by stern):
       forward: 2 x 0.4/(50-2) = 0.017 -> Df = 6.00 - 0.017 = 5.983 м
       aft:     5 x 1.0/(50-5) = 0.111 -> Da = 7.40 + 0.111 = 7.511 м
+    Знак здесь не трактуется: по правилу misplacement (стр. 24) при hog
+    носовая поправка вычитается, кормовая прибавляется (как в EXAMPLE).
     """
     denom = half_length_m - misplacement_m
     if denom <= 0:
