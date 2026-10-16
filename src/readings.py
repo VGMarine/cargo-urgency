@@ -40,6 +40,8 @@ def manometer_centreline_draught(d_port: float, diff_m: float,
     if read_offset_m <= 0 or beam_m <= 0:
         raise ValueError("offset и beam должны быть > 0")
     dm_full = beam_m * diff_m / (2.0 * read_offset_m)
-    d_low = min(d_port, d_port + (diff_m if higher_side_is_starboard else -diff_m))
-    # d_port здесь трактуется как отсчёт ЛЕВОГО борта (как в Q2: port = 8.00)
+    # d_port трактуется как отсчёт ЛЕВОГО борта (как в Q2: port = 8.00).
+    # ДП лежит между точками съёма => к МЕНЬШЕМУ отсчёту прибавляем
+    # половину перепада на полную ширину (к большему — вычитаем):
+    #   starboard выше => port = меньший => +dm/2;  port выше => −dm/2.
     return d_port + dm_full / 2.0 if higher_side_is_starboard else d_port - dm_full / 2.0
